@@ -28,9 +28,11 @@
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [16,16,16],
-		"innerColor": [0,0,100],
+		"innerColor": [0,0,196],
+		"favoredReligion": "Christianity",
 		"uniqueName": "Dragon of Wallachia",
-		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Faith]"],
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Faith]",
+		"[+30]% Strength <for [Wounded] units>"],
 		"cities": ["Târgoviste","Bucharest","Câmpulung","Curtea de Argeș","Brăila","Pitesti",
 		"Buzăo","Drobeta-Turnu Severin","Rãmnicu Vâlcea"]
 	}
