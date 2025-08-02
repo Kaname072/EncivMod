@@ -18,9 +18,9 @@ BuildingIcons/Holodeck
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Aliens
+NationIcons/Principality of Wallachia
   rotate: false
-  xy: 4, 4
+  xy: 0, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
