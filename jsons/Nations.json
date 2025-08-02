@@ -1,9 +1,9 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Principality of Wallachia",
+		"leaderName": "Vlad III",
+		"adjective": ["wallachians"],
+		"startBias": ["Avoid [Snow]"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
