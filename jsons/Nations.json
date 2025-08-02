@@ -35,5 +35,41 @@
 		"Cities are razed [2] times as fast","Gain a free [Cathedral] [in all cities] <after discovering [Theology]>"],
 		"cities": ["Târgoviste","Bucharest","Câmpulung","Curtea de Argeș","Brăila","Pitesti",
 		"Buzăo","Drobeta-Turnu Severin","Rãmnicu Vâlcea"]
+	},
+	{
+		"name": "Kongo Kingdom",
+		"leaderName": "Afonso I",
+		"adjective": ["kongos"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "We come in peace!",
+		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		
+		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
+		"attacked": "You want to play? Very funny!",
+		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
+		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [255,255,255],
+		"innerColor": [255,0,0],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Portugueses Commerce",
+		"uniques": ["Gain a free [Harbor [in all coastal cities]"],
+		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
+			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
 	}
 ]
