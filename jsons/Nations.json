@@ -31,8 +31,8 @@
 		"innerColor": [0,0,196],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Dragon of Wallachia",
-		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Faith]",
-		"[+30]% Strength <for [Wounded] units>"],
+		"uniques": ["Earn [200]% of killed [Military] unit's [Strength] as [Faith]",
+		"Cities are razed [2] times as fast","Provides military units every ≈[1] turns <when at war>"],
 		"cities": ["Târgoviste","Bucharest","Câmpulung","Curtea de Argeș","Brăila","Pitesti",
 		"Buzăo","Drobeta-Turnu Severin","Rãmnicu Vâlcea"]
 	}
