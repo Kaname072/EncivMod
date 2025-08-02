@@ -32,7 +32,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Dragon of Wallachia",
 		"uniques": ["Earn [200]% of killed [Military] unit's [Strength] as [Faith]",
-		"Cities are razed [2] times as fast","Provides military units every ≈[1] turns <when at war>"],
+		"Cities are razed [2] times as fast","Gain a free [Cathedral] [in all cities] <after discovering [Theology]>"],
 		"cities": ["Târgoviste","Bucharest","Câmpulung","Curtea de Argeș","Brăila","Pitesti",
 		"Buzăo","Drobeta-Turnu Severin","Rãmnicu Vâlcea"]
 	}
