@@ -68,7 +68,7 @@
 		"innerColor": [255,0,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Portugueses Commerce",
-		"uniques": ["Gain a free [Harbor [in all coastal cities]"],
+		"uniques": ["Provides [1] [Gold Ore] resource from [Jungle] tiles","Gain a free [Harbor] [in all coastal cities]"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
 	}
