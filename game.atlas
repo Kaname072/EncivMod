@@ -32,9 +32,30 @@ NationIcons/Kongo Kingdom
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Phasers
+UnitIcons/Kongo Warrior
   rotate: false
-  xy: 328, 4
+  xy: 0, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Portuguese Gunman
+  rotate: false
+  xy: 100, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Wallachia Soldier
+  rotate: false
+  xy: 200, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Hangman
+  rotate: false
+  xy: 300, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
