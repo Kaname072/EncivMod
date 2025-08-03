@@ -27,7 +27,7 @@
 		"afterPeace": "I dont wanna peace but, this war is starting became interesthing",
 		"tradeRequest": "Accept my offer, my brother",
 
-		"outerColor": [48,150,48],
+		"outerColor": [16,16,16],
 		"innerColor": [204,0,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Dragon of Wallachia",
@@ -65,11 +65,11 @@
 		"tradeRequest": "Faith brother, you will accept my offer?",
 
 		"outerColor": [255,255,255],
-		"innerColor": [255,0,0],
+		"innerColor": [246,0,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Five Heavenly Warriors",
 		"uniques": ["[-100]% maintenance costs <for [Portuguese Gunman] units>",
-			"[+1 Production] from [Plantation] tiles [in this city]",
+			"[+2 Production] from [Plantation] tiles [in this city] <before the [Renaissance era]>",
 			"Gain a free [Harbor] [in all coastal cities]"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
