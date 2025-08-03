@@ -1,5 +1,5 @@
 
-game2.png
+game3.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -57,6 +57,20 @@ UnitIcons/Hangman
   rotate: false
   xy: 300, 100
   size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Impaled Bodies
+  rotate: false
+  xy: 400, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Impaled Bodies
+  rotate: false
+  xy: 535, 134
+  size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
