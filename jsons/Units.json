@@ -24,7 +24,7 @@
 		"cost": 150,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
-		"uniques": ["[-100%] maintenance costs","Earn [100]% of killed [All] unit's [Strength] as [Gold]"]
+		"uniques": ["Earn [100]% of killed [All] unit's [Strength] as [Gold]"]
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
 	},
@@ -41,6 +41,21 @@
 		"uniques": ["Can build [Land] improvements on tiles"]
 		"obsoleteTech": "Steel",
 		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Wallachia Soldier"
+		"replaces": "Longswordsman",
+		"uniqueTo": "Principality of Wallachia"
+		"unitType": "Sword",
+		"movement": 3,
+		"strength": 21,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"uniques": ["Can move after attacking"]
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
 		"attackSound": "metalhit"
 	}
 ]
