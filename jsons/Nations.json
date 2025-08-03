@@ -46,7 +46,7 @@
 		"startIntroPart1": "With great faith and commerce, we, the Kingdom of Kongo, strengthened with our great majesty Alfonso I.",
 		"startIntroPart2": "With our faith in our God, we will go to triumph and glory even with many challenges to face. We will not give up on our path.",
 		
-		"declaringWar": "In Jesus name!",
+		"declaringWar": "In Jesus name! you will fall!",
 		"attacked": "You dont have mercy! I will dont have too!",
 		"defeated": "You just think in gold and glory for yourself! you stupid ambicious will destroy you in one day!",
 		"introduction": "Salutations brother! in the God name, us we became big friends",
@@ -64,7 +64,7 @@
 		"afterPeace": "Thanks for it",
 		"tradeRequest": "Faith brother, you will accept my offer?",
 
-		"outerColor": [255,255,255],
+		"outerColor": [255,212,0],
 		"innerColor": [246,0,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Five Heavenly Warriors",
