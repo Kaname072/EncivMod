@@ -38,7 +38,7 @@
 		"cost": 60,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
-		"uniques": ["Can build [Land] improvements on tiles"]
+		"uniques": ["Can build [Impaled Bodies] improvements on tiles"]
 		"obsoleteTech": "Steel",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
