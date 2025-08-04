@@ -103,8 +103,8 @@
 		"afterPeace": "I dont wanna peace but, this war is starting became interesthing",
 		"tradeRequest": "Accept my offer, my brother",
 
-		"outerColor": [16,16,16],
-		"innerColor": [0,204,0],
+		"outerColor": [100,100,0],
+		"innerColor": [0,0,124],
 		"uniqueName": "Dagom Blesses",
 		"uniques": ["Gain a free [Statue of Dagom] [in capital]",
 			"[+1 Faith] from [Fish] tiles [in this city]",
