@@ -82,26 +82,26 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "Long ago, we were ruled by traitors, but since the rise of our great Vlad III, we have won our honor and faith against our enemies!",
-		"startIntroPart2": "We will go all out for glory and victory on our journey with the great Vlad III.",
+		"startIntroPart1": "Coming from the Aegean Sea, we were condemned to lose in many wars! But with our new weapon of war, GOLIATH! We will never lose again! We will not fear any civilization or Empire",
+		"startIntroPart2": "Our golden age will reign over every corner of this world! The Great King Achish! Destroy all our enemies!",
 		
-		"declaringWar": "You disrespected God! and disrespected me, prepare to war!",
-		"attacked": "You will pay!",
-		"defeated": "Oh no! thats is not happening! my glory! my faith! what's happened here!?",
-		"introduction": "We are Wallachians! God bless you. you have some faith in us God?",
+		"declaringWar": "You faith is weak! prepare to war!",
+		"attacked": "HAHAHA",
+		"defeated": "Thas is ridiculous! we vanish!",
+		"introduction": "Another civilization? hello.",
 		
 		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["You need something?"],
+		"neutralLetsHearIt": ["What you need something?"],
 		"neutralNo": ["No."],
-		"neutralYes": ["Yes.","Thats good for me"],
+		"neutralYes": ["Yes.","Thats good for us"],
 
-		"hateHello": "I dont wanna talk with you.",
-		"hateLetsHearIt": ["What's going now?!"],
-		"hateNo": ["I said and continous saying, NO!"],
-		"hateYes": ["That is fine."],
+		"hateHello": "I angry with you!",
+		"hateLetsHearIt": ["GO ON!"],
+		"hateNo": ["NO! NO! NO!"],
+		"hateYes": ["Ok, just now"],
 		
-		"afterPeace": "I dont wanna peace but, this war is starting became interesthing",
-		"tradeRequest": "Accept my offer, my brother",
+		"afterPeace": "We back again!",
+		"tradeRequest": "Accept my offer?",
 
 		"outerColor": [0,63,255],
 		"innerColor": [128,160,255],
@@ -120,32 +120,32 @@
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "Long ago, we were ruled by traitors, but since the rise of our great Vlad III, we have won our honor and faith against our enemies!",
-		"startIntroPart2": "We will go all out for glory and victory on our journey with the great Vlad III.",
+		"startIntroPart1": "Even though I have leprosy, our kingdom of God will conquer its admirable peace! Even with so many enemies and heresies, our faith will never waver!",
+		"startIntroPart2": "God bless Jerusalem and its followers. Do not fear before God's holy kingdom"
 		
 		"declaringWar": "You disrespected God! and disrespected me, prepare to war!",
 		"attacked": "You will pay!",
-		"defeated": "Oh no! thats is not happening! my glory! my faith! what's happened here!?",
-		"introduction": "We are Wallachians! God bless you. you have some faith in us God?",
+		"defeated": "That is shame, the evil forces never wins the holy kingdom. you will pay for this",
+		"introduction": "Do not fear",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["You need something?"],
 		"neutralNo": ["No."],
-		"neutralYes": ["Yes.","Thats good for me"],
+		"neutralYes": ["Yes."],
 
-		"hateHello": "I dont wanna talk with you.",
-		"hateLetsHearIt": ["What's going now?!"],
-		"hateNo": ["I said and continous saying, NO!"],
-		"hateYes": ["That is fine."],
+		"hateHello": "You're is disgusting",
+		"hateLetsHearIt": ["..."],
+		"hateNo": ["..."],
+		"hateYes": ["Yes."],
 		
-		"afterPeace": "I dont wanna peace but, this war is starting became interesthing",
-		"tradeRequest": "Accept my offer, my brother",
+		"afterPeace": "I dont forget this",
+		"tradeRequest": "Just accept",
 
 		"outerColor": [255,255,230],
 		"innerColor": [255,216,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Unbreakeable Faith",
-		"uniques": ["[+5]% Strength <for [Military] units> from [All] [Faith] buildings"],
+		"uniques": ["[+5]% Strength from [All] [Faith] buildings"],
 		"cities": ["Jerusalem"]
 	}
 ]
