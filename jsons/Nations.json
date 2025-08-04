@@ -145,7 +145,8 @@
 		"innerColor": [255,216,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Unbreakeable Faith",
-		"uniques": ["[+5]% [Production] from [Faith] buildings [in capital]"],
+		"uniques": ["Comment [Cannot can found city after turn 3]",
+		"Gain [90] Influence with a [Messenger] gift to a City-State"],
 		"cities": ["Jerusalem"]
 	}
 ]
