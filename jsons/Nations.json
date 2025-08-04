@@ -69,8 +69,8 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Peoples Unfaith",
 		"uniques": ["[-100]% maintenance costs <for [Portuguese Gunman] units>",
-			"[+2 Production] from [Coastal] tiles [in this city]",
-			"Cannot found a religion",
+			"[+1 Production] from [Coastal] tiles [in this city]",
+			"[+2 Gold] from all [Harbor] [in all cities] <before the [Renaissance era]>",
 			"Gain a free [Harbor] [in all coastal cities]"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
