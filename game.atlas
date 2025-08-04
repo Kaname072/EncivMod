@@ -1,5 +1,5 @@
 
-game1.png
+game2.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -28,6 +28,13 @@ NationIcons/Kongo Kingdom
 NationIcons/Philistia
   rotate: false
   xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Jerusalem Kingdom
+  rotate: false
+  xy: 300, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -63,6 +70,13 @@ UnitIcons/Hangman
 UnitIcons/Goliath
   rotate: false
   xy: 700, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Messenger
+  rotate: false
+  xy: 0, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
