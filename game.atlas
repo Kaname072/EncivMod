@@ -4,7 +4,6 @@ size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-
 BuildingIcons/Holodeck
   rotate: false
   xy: 220, 4
