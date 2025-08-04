@@ -106,9 +106,10 @@
 		"outerColor": [16,16,16],
 		"innerColor": [0,204,0],
 		"uniqueName": "Dagom Blesses",
-		"uniques": ["[+1 Faith] from [Fish] tiles [in this city]",
+		"uniques": ["Gain a free [Statue of Dagom] [in capital]",
+			"[+1 Faith] from [Fish] tiles [in this city]",
 			"[+1 Faith] from [Wheat] tiles [in this city]",
-		"[+15]% Strength <for [Armored] units>"],
+		"[+15]% Strength <for [Siege] units>"],
 		"cities": ["Gath","Ashkalon","Ashdod","Gaza","Ekron","Libnah","Azekah","Sharuhen",
 			"Gerar","Azor","Tel Qasila","Aphek","Gibbethon","Yurza"]
 	}
