@@ -145,8 +145,9 @@
 		"innerColor": [255,216,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Unbreakeable Faith",
-		"uniques": ["Comment [Cannot can found city after turn 3]",
-		"Gain [90] Influence with a [Messenger] gift to a City-State"],
+		"uniques": ["[+1 Faith] from every [Wonder] [in all cities]",
+		"Gain [90] Influence with a [Messenger] gift to a City-State",
+		"\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Jerusalem"]
 	}
 ]
