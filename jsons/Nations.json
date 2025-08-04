@@ -74,5 +74,42 @@
 			"Gain a free [Harbor] [in all coastal cities]"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
+	},
+	{
+		"name": "Philistia",
+		"leaderName": "Aquis",
+		"adjective": ["philistines"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Long ago, we were ruled by traitors, but since the rise of our great Vlad III, we have won our honor and faith against our enemies!",
+		"startIntroPart2": "We will go all out for glory and victory on our journey with the great Vlad III.",
+		
+		"declaringWar": "You disrespected God! and disrespected me, prepare to war!",
+		"attacked": "You will pay!",
+		"defeated": "Oh no! thats is not happening! my glory! my faith! what's happened here!?",
+		"introduction": "We are Wallachians! God bless you. you have some faith in us God?",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["You need something?"],
+		"neutralNo": ["No."],
+		"neutralYes": ["Yes.","Thats good for me"],
+
+		"hateHello": "I dont wanna talk with you.",
+		"hateLetsHearIt": ["What's going now?!"],
+		"hateNo": ["I said and continous saying, NO!"],
+		"hateYes": ["That is fine."],
+		
+		"afterPeace": "I dont wanna peace but, this war is starting became interesthing",
+		"tradeRequest": "Accept my offer, my brother",
+
+		"outerColor": [16,16,16],
+		"innerColor": [0,204,0],
+		"uniqueName": "Dagom Blesses",
+		"uniques": ["[+1 Faith] from [Fish] tiles [in this city]",
+			"[+1 Faith] from [Wheat] tiles [in this city]",
+		"[+15]% Strength <for [Armored] units>"],
+		"cities": ["Gath","Ashkalon","Ashdod","Gaza","Ekron","Libnah","Azekah","Sharuhen",
+			"Gerar","Azor","Tel Qasila","Aphek","Gibbethon","Yurza"]
 	}
 ]
