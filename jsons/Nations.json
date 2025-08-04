@@ -106,7 +106,7 @@
 		"outerColor": [0,63,255],
 		"innerColor": [128,160,255],
 		"uniqueName": "Dagom Blesses",
-		"uniques": ["Starts with [Goliath]",
+		"uniques": ["Starts with [Pottery]",
 			"[+1 Faith] from [Fish] tiles [in this city]",
 			"[+1 Faith] from [Wheat] tiles [in this city]",
 		"[+15]% Strength <for [Siege] units>"],
@@ -145,7 +145,7 @@
 		"innerColor": [255,216,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Unbreakeable Faith",
-		"uniques": ["[+5]% Strength from [All] [Faith] buildings <for [Military] units>"],
+		"uniques": ["[+5]% Strength <for [Military] units> from [All] [Faith] buildings"],
 		"cities": ["Jerusalem"]
 	}
 ]
