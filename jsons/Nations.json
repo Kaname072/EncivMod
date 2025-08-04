@@ -70,7 +70,7 @@
 		"uniqueName": "Peoples Unfaith",
 		"uniques": ["[-100]% maintenance costs <for [Portuguese Gunman] units>",
 			"[+2 Production] from [Coastal] tiles [in this city]",
-			"Cannot build [Faith] buildings",
+			"Cannot found a religion",
 			"Gain a free [Harbor] [in all coastal cities]"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
