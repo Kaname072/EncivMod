@@ -67,9 +67,10 @@
 		"outerColor": [255,212,0],
 		"innerColor": [246,0,0],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Five Heavenly Warriors",
+		"uniqueName": "Peoples Unfaith",
 		"uniques": ["[-100]% maintenance costs <for [Portuguese Gunman] units>",
-			"[+2 Production] from [Plantation] tiles [in this city] <before the [Renaissance era]>",
+			"[+2 Production] from [Coastal] tiles [in this city]",
+			"Cannot build [Faith] buildings",
 			"Gain a free [Harbor] [in all coastal cities]"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
