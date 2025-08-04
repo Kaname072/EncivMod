@@ -104,7 +104,7 @@
 		"tradeRequest": "Accept my offer?",
 
 		"outerColor": [0,63,255],
-		"innerColor": [128,160,255],
+		"innerColor": [128,160,245],
 		"uniqueName": "Dagom Blesses",
 		"uniques": ["Starts with [Pottery]",
 			"[+1 Faith] from [Fish] tiles [in this city]",
@@ -145,9 +145,10 @@
 		"innerColor": [255,216,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Unbreakeable Faith",
-		"uniques": ["[+1 Faith] from every [Wonder] [in all cities]",
-		"Gain [90] Influence with a [Messenger] gift to a City-State",
-		"\"Borrows\" city names from other civilizations in the game"],
+		"uniques": ["[+1 Faith] from all [Wonder] [in all cities]",
+			"[+15]% Strength <for [Military] units> <when fighting in [Friendly Land]>",
+		"Gain [70] Influence with a [Messenger] gift to a City-State",
+		"\"Borrows\" city names from other civilizations in the game <hidden from users>"],
 		"cities": ["Jerusalem"]
 	}
 ]
