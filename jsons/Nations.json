@@ -145,8 +145,8 @@
 		"innerColor": [255,216,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Unbreakeable Faith",
-		"uniques": ["[+1 Faith] from all [Wonder] [in all cities]",
-			"[+15]% Strength <for [Military] units when fighting in [Friendly Land]>",
+		"uniques": ["[+1 Faith] from [Wonder] [in all cities]",
+			"[+15]% Strength <when fighting in [Friendly Land]>",
 		"Gain [90] Influence with a [Messenger] gift to a City-State",
 		"\"Borrows\" city names from other civilizations in the game <hidden from users>"],
 		"cities": ["Jerusalem"]
