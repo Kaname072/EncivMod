@@ -67,10 +67,10 @@
 		"outerColor": [255,212,0],
 		"innerColor": [246,0,0],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Peoples Unfaith",
+		"uniqueName": "Allied to Portugal",
 		"uniques": ["[-100]% maintenance costs <for [Portuguese Gunman] units>",
 			"[+1 Production] from [Coastal] tiles [in this city]",
-			"[+2 Gold] from all [Harbor] [in all cities] <before the [Renaissance era]>",
+			"[+2 Gold] from every [Harbor]",
 			"Gain a free [Harbor] [in all coastal cities]"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
