@@ -77,8 +77,10 @@
 		"uniqueTo": "Jerusalem Kingdom"
 		"unitType": "Civilian",
 		"movement": 2,
-		"cost": 26,
-		"uniques": ["City-State territory always counts as friendly territory"],
+		"cost": 36,
+		"uniques": ["Founds a new city <by consuming this unit> <before turn number [3]>",
+			"Excess Food converted to Production when under construction",
+			"Requires at least [2] population","Unbuildable","Uncapturable"],
 		"hurryCostModifier": 20
 	}
 ]
