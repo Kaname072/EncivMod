@@ -141,8 +141,8 @@
 		"afterPeace": "I dont wanna peace but, this war is starting became interesthing",
 		"tradeRequest": "Accept my offer, my brother",
 
-		"outerColor": [16,16,16],
-		"innerColor": [204,0,0],
+		"outerColor": [255,255,230],
+		"innerColor": [255,255,144],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Unbreakeable Faith",
 		"uniques": ["[+5]% Strength <for [Military] units> from every [Faith] buildings"],
