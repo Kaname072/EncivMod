@@ -142,10 +142,10 @@
 		"tradeRequest": "Accept my offer, my brother",
 
 		"outerColor": [255,255,230],
-		"innerColor": [245,255,144],
+		"innerColor": [255,216,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Unbreakeable Faith",
-		"uniques": ["[+5]% Strength from every [Faith] buildings <for [Military] units>"],
+		"uniques": ["[+5]% Strength from all [Faith] buildings <for [Military] units>"],
 		"cities": ["Jerusalem"]
 	}
 ]
