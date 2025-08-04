@@ -70,5 +70,15 @@
             "Is part of Great Person group [General]",
 			"Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 1
+	},
+	{
+		"name": "Messenger"
+		"replaces": "Settler",
+		"uniqueTo": "Jerusalem Kingdom"
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 26,
+		"uniques": ["City-State territory always counts as friendly territory"],
+		"hurryCostModifier": 20
 	}
 ]
