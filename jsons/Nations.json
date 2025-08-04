@@ -106,7 +106,7 @@
 		"outerColor": [0,63,255],
 		"innerColor": [128,160,255],
 		"uniqueName": "Dagom Blesses",
-		"uniques": ["Gain a free [Statue of Dagom] [in capital]",
+		"uniques": ["Start with [Goliath]",
 			"[+1 Faith] from [Fish] tiles [in this city]",
 			"[+1 Faith] from [Wheat] tiles [in this city]",
 		"[+15]% Strength <for [Siege] units>"],
