@@ -13,13 +13,13 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "Statue of Dagom",
+		"replaces": "Shrine",
+		"uniqueTo" : "Philistia",
+		"faith": 1,
+		"cost": 40,
+		"maintenance": 0,
+		"requiredTech": "Pottery",
+		"uniques": ["Only available <when religion is enabled>"]
 	}
 ]
