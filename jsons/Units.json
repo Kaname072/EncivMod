@@ -77,8 +77,8 @@
 		"uniqueTo": "Jerusalem Kingdom"
 		"unitType": "Civilian",
 		"movement": 2,
-		"cost": 36,
-		"uniques": ["Founds a new city <by consuming this unit> <before turn number [1]>",
+		"cost": 106,
+		"uniques": ["Founds a new city <by consuming this unit> <before turn number [2]>",
 			"Excess Food converted to Production when under construction",
 			"Requires at least [2] population","Invisible to non-adjacent units",
 			,"Uncapturable"],
