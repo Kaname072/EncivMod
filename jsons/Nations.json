@@ -103,8 +103,8 @@
 		"afterPeace": "I dont wanna peace but, this war is starting became interesthing",
 		"tradeRequest": "Accept my offer, my brother",
 
-		"outerColor": [100,100,0],
-		"innerColor": [0,0,124],
+		"outerColor": [0,63,255],
+		"innerColor": [128,160,255],
 		"uniqueName": "Dagom Blesses",
 		"uniques": ["Gain a free [Statue of Dagom] [in capital]",
 			"[+1 Faith] from [Fish] tiles [in this city]",
@@ -112,5 +112,40 @@
 		"[+15]% Strength <for [Siege] units>"],
 		"cities": ["Gath","Ashkalon","Ashdod","Gaza","Ekron","Libnah","Azekah","Sharuhen",
 			"Gerar","Azor","Tel Qasila","Aphek","Gibbethon","Yurza"]
+	},
+	{
+		"name": "Jerusalem Kingdom",
+		"leaderName": "Baldwin IV",
+		"adjective": ["jerusalem"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Long ago, we were ruled by traitors, but since the rise of our great Vlad III, we have won our honor and faith against our enemies!",
+		"startIntroPart2": "We will go all out for glory and victory on our journey with the great Vlad III.",
+		
+		"declaringWar": "You disrespected God! and disrespected me, prepare to war!",
+		"attacked": "You will pay!",
+		"defeated": "Oh no! thats is not happening! my glory! my faith! what's happened here!?",
+		"introduction": "We are Wallachians! God bless you. you have some faith in us God?",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["You need something?"],
+		"neutralNo": ["No."],
+		"neutralYes": ["Yes.","Thats good for me"],
+
+		"hateHello": "I dont wanna talk with you.",
+		"hateLetsHearIt": ["What's going now?!"],
+		"hateNo": ["I said and continous saying, NO!"],
+		"hateYes": ["That is fine."],
+		
+		"afterPeace": "I dont wanna peace but, this war is starting became interesthing",
+		"tradeRequest": "Accept my offer, my brother",
+
+		"outerColor": [16,16,16],
+		"innerColor": [204,0,0],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Unbreakeable Faith",
+		"uniques": ["[+5]% Strength <for [Military] units> from every [Faith] buildings"],
+		"cities": ["Jerusalem"]
 	}
 ]
