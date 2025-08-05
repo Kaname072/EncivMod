@@ -77,7 +77,7 @@
 	},
 	{
 		"name": "Philistia",
-		"leaderName": "Aquis",
+		"leaderName": "King Achish",
 		"adjective": ["philistines"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
@@ -103,8 +103,8 @@
 		"afterPeace": "We back again!",
 		"tradeRequest": "Accept my offer?",
 
-		"outerColor": [0,63,255],
-		"innerColor": [128,160,245],
+		"outerColor": [82,128,255],
+		"innerColor": [0,63,255],
 		"uniqueName": "Dagom Blesses",
 		"uniques": ["Starts with [Pottery]",
 			"[+1 Faith] from [Fish] tiles [in this city]",
@@ -142,7 +142,7 @@
 		"afterPeace": "I dont forget this",
 		"tradeRequest": "Just accept",
 
-		"outerColor": [82,128,255],
+		"outerColor": [255,255,230],
 		"innerColor": [255,216,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Unshakeable Faith",
