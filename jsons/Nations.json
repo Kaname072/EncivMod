@@ -146,7 +146,7 @@
 		"innerColor": [255,216,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Unshakeable Faith",
-		"uniques": ["[+1 Happiness] from every [Faith] buildings",
+		"uniques": ["[+1 Happiness] from all [Faith] buildings",
 			"[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
 		"Gain a free [Temple] [in all cities connected to capital]"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe & Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
