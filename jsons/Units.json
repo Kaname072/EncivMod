@@ -64,7 +64,7 @@
 		"uniqueTo": "Philistia"
 		"unitType": "Civilian",
 		"uniques": [
-            "[+50]% Strength bonus for [Military] units within [6] tiles",
+            "[+35]% Strength bonus for [Military] units within [6] tiles",
             "Can instantly construct a [Citadel] improvement <by consuming this unit>",
 			"Can be earned through combat",
             "Is part of Great Person group [General]",
@@ -79,10 +79,8 @@
 		"movement": 2,
 		"cost": 106,
 		"uniques": ["Founds a new city <by consuming this unit> <when number of [Cities] is less than [1]>",
-			"Can build [Land] improvements on tiles <when number of [Cities] is more than [0]>",
 			"Excess Food converted to Production when under construction",
-			"Requires at least [2] population","Invisible to non-adjacent units",
-			"Uncapturable"],
+			"Requires at least [2] population"],
 		"hurryCostModifier": 20
 	}
 ]
