@@ -1,5 +1,5 @@
 
-game2.png
+game3.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -74,9 +74,23 @@ UnitIcons/Goliath
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Messenger
+UnitIcons/Philistine Warrior
   rotate: false
   xy: 0, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Messenger
+  rotate: false
+  xy: 100, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Templar
+  rotate: false
+  xy: 200, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
