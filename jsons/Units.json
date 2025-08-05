@@ -65,10 +65,11 @@
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 14,
-		"cost": 75,
+		"cost": 50,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
@@ -97,7 +98,6 @@
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Steel",
 		"requiredResource": "Iron",
-		"uniques": "Earn [100]% of killed [Military] unit's [Strength] as [Faith]"
 		"hurryCostModifier": 20,
 		"attackSound": "holyattack"
 	}
