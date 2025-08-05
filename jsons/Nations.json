@@ -146,9 +146,9 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Unbreakeable Faith",
 		"uniques": ["Comment [Cannot can found more than one city]",
-			"[+1 Faith] from all [All] buildings",
+			"[+2 Faith] from all [Culture] buildings",
 			"[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
-		"Gain [75] Influence with a [Messenger] gift to a City-State"],
+		"Gain [60] Influence with a [Missionary] gift to a City-State"],
 		"cities": ["Jerusalem"]
 	}
 ]
