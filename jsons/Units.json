@@ -59,6 +59,20 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Philistine Warrior"
+		"replaces": "Swordsman",
+		"uniqueTo": "Philistia",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Goliath",
 		"replaces": "Great General",
 		"uniqueTo": "Philistia"
