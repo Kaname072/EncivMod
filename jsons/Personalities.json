@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Baldwin IV",
+    "production": 7,
+    "food": 5,
+    "gold": 6,
+    "science": 4,
+    "culture": 5,
+    "happiness": 6,
+    "faith": 9,
+    "military": 7,
+    "aggressive": 2,
+    "declareWar": 4,
+    "commerce": 5,
+    "diplomacy": 6,
+    "loyal": 8,
+    "expansion": 0,
+    "priorities": {
+      "Tradition": 3,
+      "Liberty": 2,
+      "Honor": 4,
+      "Commerce": 5,
+      "Patronage": 7,
+      "Piety": 4,
+      "Rationalism": 3,
+      "Freedom": 2,
+      "Autocracy": 3,
+      "Order": 4
+    }
+  }
+]
