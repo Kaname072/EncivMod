@@ -70,5 +70,21 @@
             "Is part of Great Person group [General]",
 			"Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 1
+	},
+	{
+		"name": "Templar",
+		"replaces": "Swordsman",
+		"uniqueTo": "Jerusalem Kingdom",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
+		"uniques": "Earn [100]% of killed [Military] unit's [Strength] as [Faith]"
+		"hurryCostModifier": 20,
+		"attackSound": "holyattack"
 	}
 ]
