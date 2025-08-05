@@ -70,17 +70,5 @@
             "Is part of Great Person group [General]",
 			"Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 1
-	},
-	{
-		"name": "Messenger"
-		"replaces": "Settler",
-		"uniqueTo": "Jerusalem Kingdom"
-		"unitType": "Civilian",
-		"movement": 2,
-		"cost": 106,
-		"uniques": ["Founds a new city <by consuming this unit> <when number of [Cities] is less than [1]>",
-			"Excess Food converted to Production when under construction",
-			"Requires at least [2] population"],
-		"hurryCostModifier": 20
 	}
 ]
