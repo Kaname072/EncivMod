@@ -118,7 +118,7 @@
 		"leaderName": "Baldwin IV",
 		"adjective": ["jerusalem"],
 		"startBias": ["Grassland"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Even though I have leprosy, our kingdom of God will conquer its admirable peace! Even with so many enemies and heresies, our faith will never waver!",
 		"startIntroPart2": "God bless Jerusalem and its followers. Do not fear before God's holy kingdom"
@@ -145,10 +145,9 @@
 		"innerColor": [255,216,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Unbreakeable Faith",
-		"uniques": ["Comment [Cannot can found more than one city]",
+		"uniques": ["Comment [Can found just one city, I.A. can't play with this civ]",
 			"[+2 Faith] from all [Culture] buildings",
-			"[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
-		"Gain [60] Influence with a [Missionary] gift to a City-State"],
+			"[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>"]
 		"cities": ["Jerusalem"]
 	}
 ]
