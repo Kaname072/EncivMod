@@ -104,8 +104,8 @@
 		"afterPeace": "We back again!",
 		"tradeRequest": "Accept my offer?",
 
-		"outerColor": [82,128,255],
-		"innerColor": [0,63,255],
+		"outerColor": [255,242,213],
+		"innerColor": [132,0,0],
 		"uniqueName": "Dagom Blesses",
 		"uniques": ["Starts with [Pottery]",
 			"[+1 Faith] from [Fish] tiles [in this city]",
@@ -180,11 +180,11 @@
 		"afterPeace": "The Lusitanians never loses!",
 		"tradeRequest": "You can accept this?",
 
-		"outerColor": [16,16,16],
-		"innerColor": [0,200,0],
+		"outerColor": [0,105,180],
+		"innerColor": [0,186,238],
 		"uniqueName": "From Priest to Leader",
 		"uniques": ["\"Borrows\" city names from other civilizations in the game",
-			"Gain a free [Monument] [in all cities] <after discovering [Hunter]>"],
+			"Gain a free [Monument] [in all cities] <after discovering [Pottery]>"],
 		"cities": ["Viseu"]
 	}
 ]
