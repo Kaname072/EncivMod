@@ -151,5 +151,39 @@
 			"[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe & Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
+	},
+	{
+		"name": "The Lusitanians",
+		"leaderName": "Viriat",
+		"adjective": ["Lusitanians"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Oh Great Leader Viriat! with your glorious and sovereignty! you defeats the big Rome Empire with you little but glorious army starts a new day to wake all Lusitanians to us glory!",
+		"startIntroPart2": "But you really can to create the Big Lusitanian Nation? you can do it? with us Army, Culture and Glory. We can conquist everything in us way!",
+		
+		"declaringWar": "You will pay for your sins!",
+		"attacked": "Dont make me laugh!",
+		"defeated": "Thats not happening! you destroyed us? what demon you are?",
+		"introduction": "Lusitanians is here! hello for your nation!",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["You need something?"],
+		"neutralNo": ["I can't!","Sorry, no"],
+		"neutralYes": ["Yes.","Thats good for me"],
+
+		"hateHello": "No you here.",
+		"hateLetsHearIt": ["You dont listening what i say?!"],
+		"hateNo": ["Thats is imposiple now!"],
+		"hateYes": ["yes."],
+		
+		"afterPeace": "The Lusitanians never loses!",
+		"tradeRequest": "You can accept this?",
+
+		"outerColor": [16,16,16],
+		"innerColor": [0,200,0],
+		"uniqueName": "From Priest to Leader",
+		"uniques": ["\"Borrows\" city names from other civilizations in the game","Gain a free [Monument] [in all cities] <after discovering [Hunter]>"],
+		"cities": ["Viseu"]
 	}
 ]
