@@ -1,5 +1,5 @@
 
-game3.png
+game4.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -74,7 +74,7 @@ UnitIcons/Philistine Warrior
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Messenger
+UnitIcons/Holy Cavalry
   rotate: false
   xy: 100, 200
   size: 100, 100
@@ -84,6 +84,13 @@ UnitIcons/Messenger
 UnitIcons/Templar
   rotate: false
   xy: 200, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Runner Archer
+  rotate: false
+  xy: 300, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
