@@ -133,13 +133,16 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Swordsman",
+		"name": "Elite Warrior",
+		"replaces": "Swordsman",
+		"uniqueTo": "The Lusitanians",
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 14,
 		"cost": 75,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
+		"uniques": ["Invisible to units"],
 		"obsoleteTech": "Steel",
 		"requiredResource": "Iron",
 		"hurryCostModifier": 20,
