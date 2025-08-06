@@ -183,7 +183,8 @@
 		"outerColor": [16,16,16],
 		"innerColor": [0,200,0],
 		"uniqueName": "From Priest to Leader",
-		"uniques": ["\"Borrows\" city names from other civilizations in the game","Gain a free [Monument] [in all cities] <after discovering [Hunter]>"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+			"Gain a free [Monument] [in all cities] <after discovering [Hunter]>"],
 		"cities": ["Viseu"]
 	}
 ]
