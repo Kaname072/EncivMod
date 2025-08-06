@@ -102,6 +102,13 @@ UnitIcons/Runner Archer
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Elite Warrior
+  rotate: false
+  xy: 400, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ImprovementIcons/Impaled Bodies
   rotate: false
   xy: 400, 100
