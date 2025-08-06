@@ -4,7 +4,7 @@
 		"leaderName": "Vlad III",
 		"adjective": ["wallachians"],
 		"startBias": ["Avoid [Snow]"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Long ago, we were ruled by traitors, but since the rise of our great Vlad III, we have won our honor and faith against our enemies!",
 		"startIntroPart2": "We will go all out for glory and victory on our journey with the great Vlad III.",
@@ -14,7 +14,7 @@
 		"defeated": "Oh no! thats is not happening! my glory! my faith! what's happened here!?",
 		"introduction": "We are Wallachians! God bless you. you have some faith in us God?",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Hello",
 		"neutralLetsHearIt": ["You need something?"],
 		"neutralNo": ["No."],
 		"neutralYes": ["Yes.","Thats good for me"],
@@ -32,7 +32,8 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Dragon of Wallachia",
 		"uniques": ["Earn [200]% of killed [Military] unit's [Strength] as [Faith]",
-		"Cities are razed [2] times as fast","Gain a free [Cathedral] [in all cities] <after discovering [Theology]>"],
+			"Cities are razed [2] times as fast",
+			"Gain a free [Cathedral] [in all cities] <after discovering [Theology]>"],
 		"cities": ["Târgoviste","Bucharest","Câmpulung","Curtea de Argeș","Brăila","Pitesti",
 		"Buzăo","Drobeta-Turnu Severin","Rãmnicu Vâlcea"]
 	},
@@ -90,7 +91,7 @@
 		"defeated": "Thas is ridiculous! we vanish!",
 		"introduction": "Another civilization? hello.",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Hey brother! what you mean?",
 		"neutralLetsHearIt": ["What you need something?"],
 		"neutralNo": ["No."],
 		"neutralYes": ["Yes.","Thats good for us"],
@@ -108,8 +109,7 @@
 		"uniqueName": "Dagom Blesses",
 		"uniques": ["Starts with [Pottery]",
 			"[+1 Faith] from [Fish] tiles [in this city]",
-			"[+1 Faith] from [Wheat] tiles [in this city]",
-		"[+15]% Strength <for [Siege] units>"],
+			"[+15]% Strength <for [Siege] units>"],
 		"cities": ["Gath","Ashkalon","Ashdod","Gaza","Ekron","Libnah","Azekah","Sharuhen",
 			"Gerar","Azor","Tel Qasila","Aphek","Gibbethon","Yurza"]
 	},
@@ -124,7 +124,7 @@
 		"startIntroPart1": "Even though I have leprosy, our kingdom of God will conquer its admirable peace! Even with so many enemies and heresies, our faith will never waver!",
 		"startIntroPart2": "God bless Jerusalem and its followers. Do not fear before God's holy kingdom"
 		
-		"declaringWar": "You disrespected God! and disrespected me, prepare to war!",
+		"declaringWar": "My tolerance with you is over!",
 		"attacked": "You will pay!",
 		"defeated": "That is shame, the evil forces never wins the holy kingdom. you will pay for this",
 		"introduction": "Do not fear",
@@ -140,15 +140,15 @@
 		"hateYes": ["Yes."],
 		
 		"afterPeace": "I dont forget this",
-		"tradeRequest": "Just accept",
+		"tradeRequest": "Just accept, please",
 
 		"outerColor": [255,255,230],
 		"innerColor": [255,216,0],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Unshakeable Faith",
-		"uniques": ["[+1 Happiness] from all [Faith] buildings",
-			"[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
-		"Gain a free [Temple] [in all cities connected to capital]"]
+		"uniqueName": "Religious Tolerance",
+		"uniques": ["[+1 Faith] from [Fort] tiles",
+			"[+1 Production] from all [Faith] buildings",
+			"[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe & Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	}
