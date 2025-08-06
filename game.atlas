@@ -1,5 +1,5 @@
 
-game4.png
+game.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -28,6 +28,13 @@ NationIcons/Philistia
 NationIcons/Jerusalem Kingdom
   rotate: false
   xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Lusitanians
+  rotate: false
+  xy: 400, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
