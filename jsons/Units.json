@@ -11,7 +11,7 @@
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>",
-			"[+25]% Strength <vs [Ranged] units>"],
+			"[+33]% Strength <vs [Ranged] units>"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -84,21 +84,20 @@
 			"Can be earned through combat",
             "Is part of Great Person group [General]",
 			"Great Person - [War]", "Unbuildable", "Uncapturable"],
-		"movement": 1
+		"movement": 2
 	},
 	{
 		"name": "Templar",
-		"replaces": "Swordsman",
+		"replaces": "Longswordsman",
 		"uniqueTo": "Jerusalem Kingdom",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 15,
-		"cost": 75,
-		"requiredTech": "Iron Working",
-		"upgradesTo": "Longswordsman",
-		"obsoleteTech": "Steel",
+		"strength": 23,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
-		"hurryCostModifier": 20,
 		"attackSound": "holyattack"
 	},
 	{
@@ -107,7 +106,7 @@
 		"uniqueTo": "Jerusalem Kingdom",
 		"unitType": "Archery",
 		"uniques": ["Can move after attacking"],
-		"movement": 3,
+		"movement": 2,
 		"strength": 7,
 		"rangedStrength": 11,
 		"cost": 75,
@@ -128,7 +127,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["[+7]% Strength bonus for [Land] units within [1] tiles",
+		"uniques": ["[+10]% Strength bonus for [Land] units within [1] tiles",
 			"Can move after attacking",
 			"No defensive terrain bonus",
 			"[-33]% Strength <vs cities> <when attacking>" ],
@@ -145,7 +144,7 @@
 		"cost": 60,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
-		"uniques": ["Invisible to non-adjacent units"],
+		"uniques": ["Invisible to non-adjacent units <when fighting in [Forest] tiles>"],
 		"obsoleteTech": "Steel",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
