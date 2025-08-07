@@ -17,7 +17,7 @@
 		"cost": 40,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
-		"uniques": ["[-50]% unhappiness from [Population] [in this city]",
+		"uniques": ["[-50]% unhappiness from [Population]",
 			"Only available <when religion is enabled>"]
 	},
 	{
