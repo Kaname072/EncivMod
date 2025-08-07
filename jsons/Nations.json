@@ -31,7 +31,7 @@
 		"innerColor": [204,0,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Dragon of Wallachia",
-		"uniques": ["Earn [200]% of killed [Military] unit's [Strength] as [Faith]",
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Faith]",
 			"Cities are razed [2] times as fast",
 			"Gain a free [Cathedral] [in all cities] <after discovering [Theology]>"],
 		"cities": ["Târgoviste","Bucharest","Câmpulung","Curtea de Argeș","Brăila","Pitesti",
@@ -71,8 +71,7 @@
 		"uniqueName": "Allied to Portugal",
 		"uniques": ["[-100]% maintenance costs <for [Portuguese Gunman] units>",
 			"[+1 Production] from [Coastal] tiles [in this city]",
-			"[+2 Gold] from every [Harbor]",
-			"Gain a free [Harbor] [in all coastal cities]"],
+			"[+2 Gold] from every [Harbor]"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
 	},
@@ -107,7 +106,7 @@
 		"outerColor": [255,242,213],
 		"innerColor": [132,0,0],
 		"uniqueName": "Dagom Blesses",
-		"uniques": ["Free [Goliath] appears <after discovering [Pottery]>",
+		"uniques": ["[Great General] is earned [+100]% faster",
 			"[+1 Faith] from [Fish] tiles [in this city]",
 			"[+15]% Strength <for [Siege] units>"],
 		"cities": ["Gath","Ashkalon","Ashdod","Gaza","Ekron","Libnah","Azekah","Sharuhen",
@@ -183,8 +182,8 @@
 		"outerColor": [0,105,180],
 		"innerColor": [0,186,238],
 		"uniqueName": "Cities Aliance",
-		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your Ally for [1] turns",
-			"[+1 Culture, +1 Happiness] from [Hill] tiles [in this city]",
+		"uniques": ["City-State territory always counts as friendly territory",
+			"[+2 Culture] from [Hill] tiles [in this city]",
 		"\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Viseu"]
 	}
