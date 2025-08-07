@@ -107,7 +107,7 @@
 		"outerColor": [255,242,213],
 		"innerColor": [132,0,0],
 		"uniqueName": "Dagom Blesses",
-		"uniques": ["Starts with [Pottery]",
+		"uniques": ["Free [Great General] appears <when number of [Cities] is more than [0]>",
 			"[+1 Faith] from [Fish] tiles [in this city]",
 			"[+15]% Strength <for [Siege] units>"],
 		"cities": ["Gath","Ashkalon","Ashdod","Gaza","Ekron","Libnah","Azekah","Sharuhen",
@@ -183,8 +183,8 @@
 		"outerColor": [0,105,180],
 		"innerColor": [0,186,238],
 		"uniqueName": "Cities Aliance",
-		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns",
-			"[+1 Culture] from every [Hill]",
+		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your Ally for [1] turns",
+			"[+1 Culture, +1 Happiness] from [Hill] tiles [in this city]",
 		"\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Viseu"]
 	}
