@@ -107,7 +107,7 @@
 		"outerColor": [255,242,213],
 		"innerColor": [132,0,0],
 		"uniqueName": "Dagom Blesses",
-		"uniques": ["Free [Great General] appears <when number of [Cities] is more than [0]>",
+		"uniques": ["Free [Goliath] appears <after discovering [Pottery]>",
 			"[+1 Faith] from [Fish] tiles [in this city]",
 			"[+15]% Strength <for [Siege] units>"],
 		"cities": ["Gath","Ashkalon","Ashdod","Gaza","Ekron","Libnah","Azekah","Sharuhen",
