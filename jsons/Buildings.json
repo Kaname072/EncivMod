@@ -17,7 +17,7 @@
 		"cost": 40,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
-		"uniques": ["[-50]% unhappiness from [Population]",
+		"uniques": ["Removes extra unhappiness from annexed cities",
 			"Only available <when religion is enabled>"]
 	},
 	{
