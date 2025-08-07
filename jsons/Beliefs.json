@@ -1,8 +1,8 @@
 [
   {
     "name": "God Dagom",
-        "type": "Pantheon",
-        "uniques": ["[+1 Food] from [Fish] tiles",
-        "+1 Production from [Fish] tiles"]
+    "type": "Pantheon",
+    "uniques": ["[+1 Food] from [Fish] tiles",
+      "+1 Production from [Fish] tiles"]
   }
 ]
