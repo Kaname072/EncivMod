@@ -1,5 +1,5 @@
 
-game.png
+game1.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -126,6 +126,27 @@ TileSets/FantasyHex/Tiles/Impaled Bodies
 BuildingIcons/Statue of Dagom
   rotate: false
   xy: 600, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Dolmen
+  rotate: false
+  xy: 500, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Stone Wall
+  rotate: false
+  xy: 600, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Orthodoxy Church
+  rotate: false
+  xy: 700, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
