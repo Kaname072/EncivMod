@@ -182,9 +182,10 @@
 
 		"outerColor": [0,105,180],
 		"innerColor": [0,186,238],
-		"uniqueName": "From Priest to Leader",
-		"uniques": ["\"Borrows\" city names from other civilizations in the game",
-			"Gain a free [Monument] [in all cities] <after discovering [Pottery]>"],
+		"uniqueName": "Cities Aliance",
+		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns",
+			"[+1 Culture] from every [Hill]",
+		"\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Viseu"]
 	}
 ]
