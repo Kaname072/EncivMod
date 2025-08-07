@@ -79,7 +79,7 @@
 		"uniqueTo": "Philistia"
 		"unitType": "Civilian",
 		"uniques": [
-            "[+35]% Strength bonus for [Military] units within [6] tiles",
+            "[+30]% Strength bonus for [Military] units within [4] tiles",
             "Can instantly construct a [Citadel] improvement <by consuming this unit>",
 			"Can be earned through combat",
             "Is part of Great Person group [General]",
@@ -128,7 +128,10 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
+		"uniques": ["[+7]% Strength bonus for [Land] units within [1] tiles",
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"[-33]% Strength <vs cities> <when attacking>" ],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
@@ -138,13 +141,12 @@
 		"uniqueTo": "The Lusitanians",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 14,
-		"cost": 75,
+		"strength": 13,
+		"cost": 60,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
-		"uniques": ["Invisible to units"],
+		"uniques": ["Invisible to non-adjacent units"],
 		"obsoleteTech": "Steel",
-		"requiredResource": "Iron",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	}
