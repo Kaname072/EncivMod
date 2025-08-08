@@ -219,11 +219,10 @@
 		"outerColor": [255,204,2],
 		"innerColor": [170,0,0],
 		"favoredReligion": "Islam",
-		"uniqueName": "Saint War",
-		"uniques": ["City-State territory always counts as friendly territory",
-			"[+1 Culture] from [Hill] tiles [in this city]",
-			"[+1 Science] from [Stone] tiles [in capital]",
-		"\"Borrows\" city names from other civilizations in the game"],
+		"uniqueName": "Recruiting Tribes",
+		"uniques": ["When defeating a [{Barbarians} {Land}] unit's, earn [15] Gold and recruit it <with [33]% chance>",
+			"[+1 Food] from [Desert] tiles [in this city]",
+		"[+1 Gold] from each Trade Route"],
 		"cities": ["Cairo","Baghdad","Aleppo","Mecca","Damascus","Medina","Hama","Sana'a",
 			"Acre","Sidon","Beirut","Ascalon","Hisn Kayfa","Alexandria"]
 	}
