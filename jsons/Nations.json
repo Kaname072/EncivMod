@@ -71,7 +71,7 @@
 		"uniqueName": "Allied to Portugal",
 		"uniques": ["[-100]% maintenance costs <for [Portuguese Gunman] units>",
 			"[+1 Production] from [Coastal] tiles [in this city]",
-			"[+2 Gold] from every [Harbor]"],
+			"[+1 Gold] from every [Harbor]"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
 	},
@@ -153,7 +153,7 @@
 	},
 	{
 		"name": "The Lusitanians",
-		"leaderName": "Viriat",
+		"leaderName": "Viriathus",
 		"adjective": ["Lusitanians"],
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Cultural",
@@ -183,8 +183,47 @@
 		"innerColor": [0,186,238],
 		"uniqueName": "Cities Aliance",
 		"uniques": ["City-State territory always counts as friendly territory",
-			"[+2 Culture] from [Hill] tiles [in this city]",
+			"[+1 Culture] from [Hill] tiles [in this city]",
+			"[+1 Science] from [Stone] tiles [in capital]",
 		"\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Viseu"]
+	},
+	{
+		"name": "Ayyubid Empire",
+		"leaderName": "Salahuddin Ayubi",
+		"adjective": ["ayyubids"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "God bless you! Great Salahuddin! you empire and caliphate is the big and better of this lands! in crusades your army fight with glory to rescue Jerusalem City from Papal States! and now you earned the city on you hands!",
+		"startIntroPart2": "Now you can make the big caliphate again? can make us big and stronger again? oh god! you can do it? YES! is now or never!",
+		
+		"declaringWar": "You will pay for your sins!",
+		"attacked": "Dont make me laugh!",
+		"defeated": "Thats not happening! you destroyed us? what demon you are?",
+		"introduction": "New people here? well, hello.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["You need something?"],
+		"neutralNo": ["I can't!","Sorry, no"],
+		"neutralYes": ["Yes.","Thats good for me"],
+
+		"hateHello": "No you here.",
+		"hateLetsHearIt": ["You dont listening what i say?!"],
+		"hateNo": ["Thats is imposiple now!"],
+		"hateYes": ["yes."],
+		
+		"afterPeace": "The Lusitanians never loses!",
+		"tradeRequest": "You can accept this?",
+
+		"outerColor": [0,105,180],
+		"innerColor": [0,186,238],
+		"uniqueName": "Saint War",
+		"uniques": ["City-State territory always counts as friendly territory",
+			"[+1 Culture] from [Hill] tiles [in this city]",
+			"[+1 Science] from [Stone] tiles [in capital]",
+		"\"Borrows\" city names from other civilizations in the game"],
+		"cities": ["Cairo","Baghdad","Aleppo","Mecca","Damascus","Medina","Hama","Sana'a",
+			"Acre","Sidon","Beirut","Ascalon","Hisn Kayfa","Alexandria"]
 	}
 ]
