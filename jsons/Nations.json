@@ -198,9 +198,9 @@
 		"startIntroPart1": "God bless you! Great Salahuddin! you empire and caliphate is the big and better of this lands! in crusades your army fight with glory to rescue Jerusalem City from Papal States! and now you earned the city on you hands!",
 		"startIntroPart2": "Now you can make the big caliphate again? can make us big and stronger again? oh god! you can do it? YES! is now or never!",
 		
-		"declaringWar": "You will pay for your sins!",
-		"attacked": "Dont make me laugh!",
-		"defeated": "Thats not happening! you destroyed us? what demon you are?",
+		"declaringWar": "You are dead man!",
+		"attacked": "You are disgusting!",
+		"defeated": "I can believe on it...",
 		"introduction": "New people here? well, hello.",
 		
 		"neutralHello": "How are you doing?",
@@ -213,14 +213,14 @@
 		"hateNo": ["Thats is imposiple now!"],
 		"hateYes": ["yes."],
 		
-		"afterPeace": "The Lusitanians never loses!",
+		"afterPeace": "Hphm!!",
 		"tradeRequest": "You can accept this?",
 
 		"outerColor": [255,204,2],
 		"innerColor": [170,0,0],
 		"favoredReligion": "Islam",
 		"uniqueName": "Recruiting Tribes",
-		"uniques": ["When defeating a [{Barbarians} {Land}] unit's, earn [15] Gold and recruit it <with [33]% chance>",
+		"uniques": ["When defeating a [{Barbarian} {Land}] unit, earn [25] Gold and recruit it <with [33]% chance>",
 			"[+1 Food] from [Desert] tiles [in this city]",
 		"[+1 Gold] from each Trade Route"],
 		"cities": ["Cairo","Baghdad","Aleppo","Mecca","Damascus","Medina","Hama","Sana'a",
