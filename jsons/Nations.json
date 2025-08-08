@@ -31,9 +31,8 @@
 		"innerColor": [204,0,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Dragon of Wallachia",
-		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Faith]",
-			"Cities are razed [2] times as fast",
-			"Gain a free [Cathedral] [in all cities] <after discovering [Theology]>"],
+		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]",
+			"Cities are razed [2] times as fast"],
 		"cities": ["Târgoviste","Bucharest","Câmpulung","Curtea de Argeș","Brăila","Pitesti",
 		"Buzăo","Drobeta-Turnu Severin","Rãmnicu Vâlcea"]
 	},
@@ -70,7 +69,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Allied to Portugal",
 		"uniques": ["[-100]% maintenance costs <for [Portuguese Gunman] units>",
-			"[+1 Production] from [Coastal] tiles [in this city]",
+			"[+1 Production] from [Coast] tiles [in this city]",
 			"[+1 Gold] from every [Harbor]"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
@@ -146,7 +145,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Religious Tolerance",
 		"uniques": ["[+1 Faith] from [Fort] tiles [in this city]",
-			"[+1 Production] from all [Faith] buildings",
+			"[+1 Culture] from all [Faith] buildings",
 			"[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe & Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
@@ -181,7 +180,7 @@
 
 		"outerColor": [0,105,180],
 		"innerColor": [0,186,238],
-		"uniqueName": "Cities Aliance",
+		"uniqueName": "Hero Lusitanian",
 		"uniques": ["City-State territory always counts as friendly territory",
 			"[+1 Culture] from [Hill] tiles [in this city]",
 			"[+1 Science] from [Stone] tiles [in capital]",
@@ -191,7 +190,7 @@
 	{
 		"name": "Ayyubid Empire",
 		"leaderName": "Salahuddin Ayubi",
-		"adjective": ["ayyubids"],
+		"adjective": ["ayyubians"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
 		
@@ -217,13 +216,13 @@
 		"tradeRequest": "You can accept this?",
 
 		"outerColor": [255,204,2],
-		"innerColor": [170,0,0],
+		"innerColor": [255,255,255],
 		"favoredReligion": "Islam",
 		"uniqueName": "Recruiting Tribes",
-		"uniques": ["When defeating a [{Barbarian} {Land}] unit, earn [25] Gold and recruit it <with [33]% chance>",
-			"[+1 Food] from [Desert] tiles [in this city]",
+		"uniques": ["When defeating a [{Barbarian} {Land}] unit, earn [30] Gold and recruit it <with [55]% chance>",
+			"[+100]% [Iron] resource production",
 		"[+1 Gold] from each Trade Route"],
 		"cities": ["Cairo","Baghdad","Aleppo","Mecca","Damascus","Medina","Hama","Sana'a",
-			"Acre","Sidon","Beirut","Ascalon","Hisn Kayfa","Alexandria"]
+			"Acre","Sidon","Beirut","Ascalon","Hisn Kayfa","Alexandria","Jerusalem"]
 	}
 ]
