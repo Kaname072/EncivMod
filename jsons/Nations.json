@@ -216,8 +216,9 @@
 		"afterPeace": "The Lusitanians never loses!",
 		"tradeRequest": "You can accept this?",
 
-		"outerColor": [0,105,180],
-		"innerColor": [0,186,238],
+		"outerColor": [255,204,2],
+		"innerColor": [170,0,0],
+		"favoredReligion": "Islam",
 		"uniqueName": "Saint War",
 		"uniques": ["City-State territory always counts as friendly territory",
 			"[+1 Culture] from [Hill] tiles [in this city]",
