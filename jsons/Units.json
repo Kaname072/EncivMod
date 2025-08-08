@@ -148,5 +148,53 @@
 		"obsoleteTech": "Steel",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Ayyubian Warrior",
+		"replaces": "Swordsman",
+		"uniqueTo": "Ayyubid Empire",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 16,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"uniques": ["[+33]% Strength <vs [Siege] units>"],
+		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Archers Group",
+		"replaces": "Chariot Archer",
+		"uniqueTo": "Ayyubid Empire",
+		"unitType": "Archery",
+		"movement": 3,
+		"strength": 5,
+		"rangedStrength": 10,
+		"cost": 56,
+		"requiredTech": "The Wheel",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["[2] additional attacks per turn","Never appears as a Barbarian unit"],
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Mangonel",
+		"replaces": "Catapult",
+		"uniqueTo": "Ayyubid Empire",
+		"unitType": "Siege",
+		"movement": 3,
+		"strength": 5,
+		"rangedStrength": 7,
+		"cost": 65,
+		"requiredTech": "Mathematics",
+		"obsoleteTech": "Physics",
+		"upgradesTo": "Trebuchet",
+		"uniques": ["[+175]% Strength <vs cities> <when attacking>",
+			"Must set up to ranged attack", "Never appears as a Barbarian unit"],
+		"hurryCostModifier": 20,
+		"attackSound": "throw"
 	}
 ]
