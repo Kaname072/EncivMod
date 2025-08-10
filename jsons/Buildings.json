@@ -12,7 +12,7 @@
 	{
 		"name": "Statue of Dagom",
 		"replaces": "Shrine",
-		"uniqueTo" : "Philistia",
+		"uniqueTo" : "The Philistines",
 		"faith": 1,
 		"cost": 40,
 		"maintenance": 1,
