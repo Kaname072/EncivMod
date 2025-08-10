@@ -2,7 +2,18 @@
   {
     "name": "God Dagom",
     "type": "Pantheon",
-    "uniques": ["[+1 Food] from [Fish] tiles [in all cities]",
-      "[+1 Production] from [Fish] tiles [in all cities]"]
+    "uniques": ["[+1 Food] from [Fishing Boats] tiles [in all cities]",
+      "[+1 Production] from [Fishing Boats] tiles [in all cities]"]
+  },
+  {
+    "name": "Tribal Instincts",
+    "type": "Pantheon",
+    "uniques": ["Earn [75]% of killed [Military] unit's [Strength] as [Food]",
+    "[-20]% unhappiness from the number of cities"]
+  },
+  {
+    "name": "Sacrificies for Gods",
+    "type": "Pantheon",
+    "uniques": "[+2 Faith, +1 Happiness] from [Sheep] tiles"
   }
 ]
