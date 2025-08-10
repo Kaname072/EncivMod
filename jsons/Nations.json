@@ -32,6 +32,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Dragon of Wallachia",
 		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]",
+			"[+25]% [Culture] [in cities following our religion]",
 			"Cities are razed [2] times as fast"],
 		"cities": ["Târgoviste","Bucharest","Câmpulung","Curtea de Argeș","Brăila","Pitesti",
 		"Buzăo","Drobeta-Turnu Severin","Rãmnicu Vâlcea"]
@@ -68,8 +69,8 @@
 		"innerColor": [246,0,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Allied to Portugal",
-		"uniques": ["[-100]% maintenance costs <for [Portuguese Gunman] units>",
-			"[+1 Production] from [Coast] tiles [in this city]",
+		"uniques": ["[-50]% maintenance costs <for [Portuguese Gunman] units>",
+			"[+1 Gold] from [Coast] tiles [in this city]",
 			"[+1 Gold] from every [Harbor]"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
@@ -182,7 +183,8 @@
 		"innerColor": [0,186,238],
 		"uniqueName": "Hero Lusitanian",
 		"uniques": ["[+1 Culture] from [Hill] tiles [in this city]",
-			"[+2 Science] from [Mountain] tiles [in this city]",
+			"[+2 Culture, +1 Science] from [Mountain] tiles [in this city]",
+			"[+30]% Strength <when defending> <for [Military] units> <in [Friendly Land] tiles>",
 		"\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Viseu"]
 	},
@@ -219,10 +221,9 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "Recruiting Tribes",
 		"uniques": ["When defeating a [{Barbarian} {Land}] unit, earn [30] Gold and recruit it <with [57]% chance> <hidden from users>",
-			"When defeating  a [Military] unit, earn [15] Gold and recruit it <with [23]% chance> <when at war> <hidden from users>",
 			"Comment [When you defeat a Barbarian unit, you earn 30 gold and recruit it with 57%. and at war, when you defeat a Military Enemy unit, you earn 15 gold and recruit it with 23%]",
 			"Rebel units may spawn <in [in enemy cities] cities> <when at war>",
-		"[+1 Gold] from each [Strategic] resource"],
+		"[+1 Gold] from every [Strategic resource]"],
 		"cities": ["Cairo","Baghdad","Aleppo","Mecca","Damascus","Medina","Hama","Sana'a",
 			"Acre","Sidon","Beirut","Ascalon","Hisn Kayfa","Alexandria","Jerusalem"]
 	}
