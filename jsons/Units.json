@@ -61,7 +61,7 @@
 	{
 		"name": "Philistine Warrior"
 		"replaces": "Swordsman",
-		"uniqueTo": "Philistia",
+		"uniqueTo": "The Philistines",
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 14,
@@ -76,7 +76,7 @@
 	{
 		"name": "Goliath",
 		"replaces": "Great General",
-		"uniqueTo": "Philistia"
+		"uniqueTo": "The Philistines"
 		"unitType": "Civilian",
 		"uniques": [
             "[+30]% Strength bonus for [Military] units within [4] tiles",
