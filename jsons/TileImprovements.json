@@ -3,6 +3,7 @@
     "name": "Impaled Bodies",
     "uniqueTo": "Principality of Wallachia",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow"],
+	  "food":-1,
 		"turnsToBuild": 2,
 		"techRequired": "Iron Working",
 		"uniques": ["Unbuildable <for [Worker] units>",
@@ -10,6 +11,9 @@
 			"Adjacent enemy units ending their turn take [75] damage",
 			"Can be built outside your borders",
 			"Removes removable features when built",
-            "Will not be replaced by automated units"]
+            "Will not be replaced by automated units",
+		"Unpillagable",
+		"Does not need removal of [Forest]",
+			"Does not need removal of [Jungle]"]
   }
 ]
