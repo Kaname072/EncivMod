@@ -228,14 +228,14 @@
 			"Acre","Sidon","Beirut","Ascalon","Hisn Kayfa","Alexandria","Jerusalem"]
 	},
 	{
-		"name": "Kongo Kingdom",
-		"leaderName": "Alfonso I",
-		"adjective": ["kongos"],
-		"startBias": ["Desert"],
-		"preferredVictoryType": "Diplomatic",
+		"name": "Brazil Empire",
+		"leaderName": "Pedro II",
+		"adjective": ["brazilians"],
+		"startBias": ["Jungle","Coast"],
+		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "With great faith and commerce, we, the Kingdom of Kongo, strengthened with our great majesty Alfonso I.",
-		"startIntroPart2": "With our faith in our God, we will go to triumph and glory even with many challenges to face. We will not give up on our path.",
+		"startIntroPart1": "After King Pedro I returned to Portugal, Pedro II took the crown at the age of 14, but political conflicts would tarnish his image, from the liberation of slaves through the Áurea Law to the Paraguayan War.",
+		"startIntroPart2": "The great Emperor Dom Pedro II would bring Brazilian peace to all civilizations. Great Emperor, will you be able to maintain the great balance of this land? Will you be able to make this nation great and unified? We trust in you! Great Dom Pedro II!",
 		
 		"declaringWar": "In Jesus name! you will fall!",
 		"attacked": "You dont have mercy! I will dont have too!",
@@ -255,13 +255,14 @@
 		"afterPeace": "Thanks for it",
 		"tradeRequest": "Faith brother, you will accept my offer?",
 
-		"outerColor": [255,212,0],
-		"innerColor": [246,0,0],
+		"outerColor": [0,209,34],
+		"innerColor": [43,142,34],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Allied to Portugal",
 		"uniques": ["[-50]% maintenance costs <for [Portuguese Gunman] units>",
 			"[+1 Gold] from [Coast] tiles [in this city]",
 			"[+1 Gold] from every [Harbor]"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
-			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"
+			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
+	}
 ]
