@@ -170,11 +170,12 @@
 		"uniqueTo": "Jerusalem Kingdom",
 		"unitType": "Civilian",
 		"movement": 1,
-		"cost": 200,
+		"cost": 60,
+		"requiredTech": "Writing"
 		"uniques": ["Free Social Policy <by consuming this unit>",
 			"Invisible to non-adjacent units",
 			"City-State territory always counts as friendly territory",
-			"Unbuildable",
+			"Unbuildable <when number of [[Messenger] Units] is less than [1]>",
 		"Uncapturable"],
 		"hurryCostModifier": 20
 	}
