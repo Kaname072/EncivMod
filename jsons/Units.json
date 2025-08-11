@@ -213,7 +213,7 @@
 	},
 	{
 			"name": "Baloon",
-		"unitType": "Ranged Carrier",
+		"unitType": "Aircraft Carrier",
 		"uniqueTo": "Brazil Empire"
 		"movement": 6,
 		"strength": 30,
