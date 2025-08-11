@@ -5,6 +5,7 @@
 		"adjective": ["wallachians"],
 		"startBias": ["Avoid [Snow]"],
 		"preferredVictoryType": "Cultural",
+		"personality": "Vlad III",
 		
 		"startIntroPart1": "Long ago, we were ruled by traitors, but since the rise of our great Vlad III, we have won our honor and faith against our enemies!",
 		"startIntroPart2": "We will go all out for glory and victory on our journey with the great Vlad III.",
@@ -43,6 +44,7 @@
 		"adjective": ["kongos"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Diplomatic",
+		"personality": "Alfonso I",
 		
 		"startIntroPart1": "With great faith and commerce, we, the Kingdom of Kongo, strengthened with our great majesty Alfonso I.",
 		"startIntroPart2": "With our faith in our God, we will go to triumph and glory even with many challenges to face. We will not give up on our path.",
@@ -81,6 +83,7 @@
 		"adjective": ["philistines"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
+		"personality": "King Achish",
 		
 		"startIntroPart1": "Coming from the Aegean Sea, we were condemned to lose in many wars! But with our new weapon of war, GOLIATH! We will never lose again! We will not fear any civilization or Empire",
 		"startIntroPart2": "Our golden age will reign over every corner of this world! The Great King Achish! Destroy all our enemies!",
@@ -158,6 +161,7 @@
 		"adjective": ["Lusitanians"],
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Cultural",
+		"personality": "Viriathus",
 		
 		"startIntroPart1": "Oh Great Leader Viriat! with your glorious and sovereignty! you defeats the big Rome Empire with you little but glorious army starts a new day to wake all Lusitanians to us glory!",
 		"startIntroPart2": "But you really can to create the Big Lusitanian Nation? you can do it? with us Army, Culture and Glory. We can conquist everything in us way!",
@@ -195,6 +199,7 @@
 		"adjective": ["ayyubians"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
+		"personality": "Salahuddin Ayubi",
 		
 		"startIntroPart1": "God bless you! Great Salahuddin! you empire and caliphate is the big and better of this lands! in crusades your army fight with glory to rescue Jerusalem City from Papal States! and now you earned the city on you hands!",
 		"startIntroPart2": "Now you can make the big caliphate again? can make us big and stronger again? oh god! you can do it? YES! is now or never!",
@@ -233,6 +238,7 @@
 		"adjective": ["brazilians"],
 		"startBias": ["Jungle","Coast"],
 		"preferredVictoryType": "Cultural",
+		"personality": "Dom Pedro II",
 		
 		"startIntroPart1": "After King Pedro I returned to Portugal, Pedro II took the crown at the age of 14, but political conflicts would tarnish his image, from the liberation of slaves through the Áurea Law to the Paraguayan War.",
 		"startIntroPart2": "The great Emperor Dom Pedro II would bring Brazilian peace to all civilizations. Great Emperor, will you be able to maintain the great balance of this land? Will you be able to make this nation great and unified? We trust in you! Great Dom Pedro II!",
