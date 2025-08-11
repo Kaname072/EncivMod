@@ -226,5 +226,42 @@
 		"[+100]% [Happiness] [in [Puppeted] cities]"]
 		"cities": ["Cairo","Baghdad","Aleppo","Mecca","Damascus","Medina","Hama","Sana'a",
 			"Acre","Sidon","Beirut","Ascalon","Hisn Kayfa","Alexandria","Jerusalem"]
-	}
+	},
+	{
+		"name": "Kongo Kingdom",
+		"leaderName": "Alfonso I",
+		"adjective": ["kongos"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "With great faith and commerce, we, the Kingdom of Kongo, strengthened with our great majesty Alfonso I.",
+		"startIntroPart2": "With our faith in our God, we will go to triumph and glory even with many challenges to face. We will not give up on our path.",
+		
+		"declaringWar": "In Jesus name! you will fall!",
+		"attacked": "You dont have mercy! I will dont have too!",
+		"defeated": "You just think in gold and glory for yourself! you stupid ambicious will destroy you in one day!",
+		"introduction": "Salutations brother! in the God name, us we became big friends",
+		
+		"neutralHello": "Salutations",
+		"neutralLetsHearIt": ["What you need?"],
+		"neutralNo": ["No, sorry faith brother"],
+		"neutralYes": ["Excelent!"],
+
+		"hateHello": "Oh God... is you...",
+		"hateLetsHearIt": ["Speak now!","You need something?","God, give me patient..."],
+		"hateNo": ["Never"],
+		"hateYes": ["Very well..."],
+		
+		"afterPeace": "Thanks for it",
+		"tradeRequest": "Faith brother, you will accept my offer?",
+
+		"outerColor": [255,212,0],
+		"innerColor": [246,0,0],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Allied to Portugal",
+		"uniques": ["[-50]% maintenance costs <for [Portuguese Gunman] units>",
+			"[+1 Gold] from [Coast] tiles [in this city]",
+			"[+1 Gold] from every [Harbor]"],
+		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
+			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"
 ]
