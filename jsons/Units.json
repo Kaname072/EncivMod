@@ -215,10 +215,10 @@
 			"name": "Baloon",
 		"unitType": "Helicopter",
 		"uniqueTo": "Brazil Empire"
-		"movement": 4,
-		"strength": 20,
+		"movement": 3,
+		"strength": 15,
 		"cost": 50,
 		"requiredTech": "Mathematics",
-		"uniques": ["[+2] Sight","Cannot attack","Invisible to non-adjacent units","Can carry [2] [Military] units"]
+		"uniques": ["[+1] Sight","Cannot attack","Invisible to non-adjacent units"]
 	}
 ]
