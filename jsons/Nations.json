@@ -259,10 +259,10 @@
 		"innerColor": [43,142,34],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Volunteers of the Fatherland",
-		"uniques": ["[-10]% maintenance costs <for [Military] units>",
-			"[+1 Gold] from [Coast] tiles [in this city]",
-			"[+1 Gold] from every [Harbor]"],
-		"cities": ["Rio de Janeiro","São Paulo","Belém","Salvador","Macapá","Florianópolis","Paraíba",
-			"Teresina","São Vincente","Maceió","Natal","Rio Branco","Fortaleza","Porto Alegre","João Pessoa","Curitiba"]
+		"uniques": ["[-33]% maintenance costs <for [Military] units> <when not at war>",
+			"[+2 Culture] from [Jungle] tiles [in this city]",
+			"[+1 Happiness] from each Trade Route"],
+		"cities": ["Rio de Janeiro","São Paulo","Salvador","Fortaleza","Florianópolis","Paraíba","Belém",
+			"Teresina","São Vincente","Maceió","Natal","Rio Branco","Macapá","Porto Alegre","João Pessoa","Curitiba"]
 	}
 ]
