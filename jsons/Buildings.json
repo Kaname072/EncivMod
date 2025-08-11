@@ -3,9 +3,9 @@
 		"name": "Dolmen"
 		"replaces": "Monument",
 		"uniqueTo": "The Lusitanians",
-		"culture": 3,
-		"cost": 40,
-		"hurryCostModifier": 40,
+		"culture": 2,
+		"cost": 30,
+		"hurryCostModifier": 30,
 		"maintenance": 0,
 		"uniques": ["[+1 Production] from [Stone] tiles [in this city]","Destroyed when the city is captured"]
 	},
@@ -35,11 +35,11 @@
 		"name": "Orthodoxy Church"
 		"replaces": "Temple",
 		"uniqueTo": "Principality of Wallachia",
-		"faith": 2,
+		"faith": 3,
 		"requiredBuilding": "Shrine",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": ["[+1 Production] from all [Faith] buildings","Only available <when religion is enabled>", "Destroyed when the city is captured"]
+		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
 	}
 ]
