@@ -6,14 +6,14 @@
       "[+1 Production] from [Fishing Boats] tiles [in all cities]"]
   },
   {
-    "name": "Tribal Instincts",
+    "name": "Carnival",
     "type": "Pantheon",
     "uniques": ["Earn [75]% of killed [Military] unit's [Strength] as [Food]",
-    "[-20]% unhappiness from the number of cities"]
+    "[-20]% unhappiness from the number of cities [in cities following our religion]"]
   },
   {
     "name": "Sacrificies for Gods",
     "type": "Pantheon",
-    "uniques": ["[+2 Faith, +1 Happiness] from [Sheep] tiles"]
+    "uniques": ["[+2 Faith, +1 Happiness] from [Sheep] tiles [in cities following our religion]"]
   }
 ]
