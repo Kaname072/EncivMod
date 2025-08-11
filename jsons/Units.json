@@ -210,5 +210,15 @@
 		"uniques": ["[+1] Movement [in [Foreign Land] tiles]"]
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
+	},
+	{
+			"name": "Baloon",
+		"unitType": "Ranged Carrier",
+		"uniqueTo": "Brazil Empire"
+		"movement": 6,
+		"strength": 30,
+		"cost": 60,
+		"requiredTech": "Engineering",
+		"uniques": ["[+2] Sight","Cannot attack", "Can carry [2] [Ranged] units"]
 	}
 ]
