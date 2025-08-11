@@ -213,12 +213,12 @@
 	},
 	{
 			"name": "Baloon",
-		"unitType": "Aircraft Carrier",
+		"unitType": "Helicopter",
 		"uniqueTo": "Brazil Empire"
-		"movement": 6,
-		"strength": 30,
-		"cost": 60,
-		"requiredTech": "Engineering",
-		"uniques": ["[+2] Sight","Cannot attack", "Can carry [2] [Ranged] units"]
+		"movement": 4,
+		"strength": 20,
+		"cost": 50,
+		"requiredTech": "Mathematics",
+		"uniques": ["[+2] Sight","Cannot attack","Invisible to non-adjacent units","Can carry [2] [Military] units"]
 	}
 ]
