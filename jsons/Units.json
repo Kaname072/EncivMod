@@ -151,7 +151,7 @@
 		"cost": 125,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
-		"uniques": ["[+1 Movement] [in [Foreign Land] tiles]"]
+		"uniques": ["[+1] Movement <in [Foreign Land] tiles>"]
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
 	},
