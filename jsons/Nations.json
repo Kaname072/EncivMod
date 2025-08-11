@@ -106,7 +106,7 @@
 		"outerColor": [255,242,213],
 		"innerColor": [132,0,0],
 		"uniqueName": "Dagom Blesses",
-		"uniques": ["[Great General] is earned [+100]% faster",
+		"uniques": ["[Goliath] is earned [+100]% faster",
 			"[+1 Faith] from [Fish] tiles [in this city]",
 			"[+15]% Strength <for [Siege] units>"],
 		"cities": ["Gath","Ashkalon","Ashdod","Gaza","Ekron","Libnah","Azekah","Sharuhen",
@@ -145,7 +145,7 @@
 		"innerColor": [255,216,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Religious Tolerance",
-		"uniques": ["Starts with [Piety]",
+		"uniques": ["Starts with [Archery]",
 			"[+2 Culture] from all [Faith] buildings",
 			"[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe & Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
