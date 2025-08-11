@@ -1,5 +1,5 @@
 
-game2.png
+game.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -126,6 +126,13 @@ UnitIcons/Mangonel
 UnitIcons/Baloon
   rotate: false
   xy: 0, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Alliance Letter
+  rotate: false
+  xy: 100, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
