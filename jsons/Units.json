@@ -196,5 +196,19 @@
 			"Must set up to ranged attack", "Never appears as a Barbarian unit"],
 		"hurryCostModifier": 20,
 		"attackSound": "throw"
+	},
+	{
+		"name": "Volunteer",
+		"replaces": "Musketman",
+		"uniqueTo": "Brazil Empire",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 24,
+		"cost": 125,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"uniques": ["[+1] Movement [in [Foreign Land] tiles]"]
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
 	}
 ]
