@@ -37,7 +37,8 @@
 		"cost": 40,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
-		"uniques": ["Can build [Impaled Bodies] improvements on tiles"]
+		"uniques": ["Can build [Impaled Bodies] improvements on tiles",
+		"Never appears as a Barbarian unit"]
 		"obsoleteTech": "Steel",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
@@ -46,7 +47,7 @@
 		"name": "Goliath",
 		"uniqueTo": "The Philistines"
 		"unitType": "Sword",
-		"movement": 1,
+		"movement": 2,
 		"strength": 16,
 		"cost": 80,
 		"obsoleteTech": "Steel",
@@ -55,7 +56,10 @@
 			"[-75]% Strength <when attacking> <vs [Cities]>",
 			"[+100]% Strength <vs [Ranged] units>",
 			"[+100]% Strength <vs [Siege] units>",
-			"[+15]% Strength bonus for [Military] units within [2] tiles"],
+			"[+15]% Strength bonus for [Military] units within [2] tiles",
+		"Excess Food converted to Production when under construction",
+		"Unbuildable <when number of [[Goliath] Units] is more than [0]>",
+		"Never appears as a Barbarian unit"],
 		"attackSound": "metalhit",
         "civilopediaText": [
 			{"text": "Just David can stop this unit."}]
@@ -163,7 +167,8 @@
 		"strength": 15,
 		"cost": 50,
 		"requiredTech": "Mathematics",
-		"uniques": ["[+1] Sight","Cannot attack","Invisible to non-adjacent units"]
+		"uniques": ["[+1] Sight","Cannot attack","Invisible to non-adjacent units",
+		"Never appears as a Barbarian unit"]
 	},
 	{
 		"name": "Messenger",
@@ -174,9 +179,9 @@
 		"requiredTech": "Writing"
 		"uniques": ["Free Social Policy <by consuming this unit>",
 			"Invisible to non-adjacent units",
-			"City-State territory always counts as friendly territory",
-			"Unbuildable <when number of [[Messenger] Units] is less than [1]>",
-		"Uncapturable"],
+			"Unbuildable <when number of [[Messenger] Units] is more than [0]>",
+		"Uncapturable",
+		"Never appears as a Barbarian unit"],
 		"hurryCostModifier": 20
 	}
 ]
