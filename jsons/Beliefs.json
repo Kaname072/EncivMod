@@ -6,12 +6,6 @@
       "[+1 Production] from [Fishing Boats] tiles [in all cities]"]
   },
   {
-    "name": "Carnival",
-    "type": "Pantheon",
-    "uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Food] when killed within 4 tiles of a city following this religion",
-    "[-20]% unhappiness from the number of cities [in this city]"]
-  },
-  {
     "name": "Sacrificies for Gods",
     "type": "Pantheon",
     "uniques": ["[+2 Faith, +1 Happiness] from [Sheep] tiles [in this city]"]
