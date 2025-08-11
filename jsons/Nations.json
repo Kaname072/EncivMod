@@ -219,10 +219,10 @@
 		"outerColor": [255,204,2],
 		"innerColor": [255,255,255],
 		"favoredReligion": "Islam",
-		"uniqueName": "Recruiting Tribes",
-		"uniques": ["When defeating a [{Barbarian} {Land}] unit, earn [30] Gold and recruit it <with [57]% chance> <hidden from users>",
-			"Comment [When you defeat a Barbarian unit, you earn 30 gold and recruit it with 57%. and at war, when you defeat a Military Enemy unit, you earn 15 gold and recruit it with 23%]",
-		"[+1 Gold] from every [Strategic resource]"],
+		"uniqueName": "Chivalry",
+		"uniques": ["[-15]% Strength <for [Military] units> <vs [{Wounded} {Land}] units>",
+		"[+30]% Strength <for [Military] units> <vs [{non[Wounded]} {Land}] units>",
+		"[-100]% Unhappiness [in [Puppeted] cities]"]
 		"cities": ["Cairo","Baghdad","Aleppo","Mecca","Damascus","Medina","Hama","Sana'a",
 			"Acre","Sidon","Beirut","Ascalon","Hisn Kayfa","Alexandria","Jerusalem"]
 	}
