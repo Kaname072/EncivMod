@@ -164,5 +164,18 @@
 		"cost": 50,
 		"requiredTech": "Mathematics",
 		"uniques": ["[+1] Sight","Cannot attack","Invisible to non-adjacent units"]
+	},
+	{
+		"name": "Messenger",
+		"uniqueTo": "Jerusalem Kingdom",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 100,
+		"uniques": ["Free Social Policy <by consuming this unit>",
+			"Invisible to non-adjacent units",
+			"City-State territory always counts as friendly territory",
+			"Excess Food converted to Production when under construction",
+		"Uncapturable"],
+		"hurryCostModifier": 20
 	}
 ]
