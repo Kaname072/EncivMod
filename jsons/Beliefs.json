@@ -3,7 +3,7 @@
     "name": "God Dagom",
     "type": "Pantheon",
     "uniques": ["[+1 Food] from [Fishing Boats] tiles [in all cities]",
-      "[+1 Production] from [Fishing Boats] tiles [in all cities]"]
+      "[+2 Production] from [Fishing Boats] tiles [in all cities]"]
   },
   {
     "name": "Sacrificies for Gods",
@@ -13,7 +13,8 @@
   {
     "name": "Gloryfication of Working",
     "type": "Follower",
-    "uniques": ["May buy [Civilian] units with [Faith] for [1] times their normal Production cost <before the [Modern era]>",
+    "uniques": ["May buy [Worker] units with [Faith] for [1] times their normal Production cost <before the [Modern era]>",
+      "May buy [Work Boats] units with [Faith] for [1] times their normal Production cost <before the [Modern era]>",
       "[+1 Faith] from all [Production] buildings"]
   }
 ]
