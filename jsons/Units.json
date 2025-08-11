@@ -30,12 +30,11 @@
 	},
 	{
 		"name": "Hangman",
-		"replaces": "Swordsman",
 		"uniqueTo": "Principality of Wallachia",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 13,
-		"cost": 60,
+		"strength": 10,
+		"cost": 40,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
 		"uniques": ["Can build [Impaled Bodies] improvements on tiles"]
@@ -167,7 +166,6 @@
 	},
 	{
 		"name": "Archers Group",
-		"replaces": "Chariot Archer",
 		"uniqueTo": "Ayyubid Empire",
 		"unitType": "Archery",
 		"movement": 3,
