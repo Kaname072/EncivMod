@@ -149,10 +149,9 @@
 		"innerColor": [255,216,0],
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Religious Tolerance",
-		"uniques": ["Starts with [Archery]",
-			"[+2 Culture] from all [Faith] buildings",
-			"[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
-		"[+30]% Strength <for [Military] units> <when attacking> <in [City center] tiles>"]
+		"uniques": ["[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
+		"[+30]% Strength <for [Military] units> <when attacking> <in [City center] tiles>",
+		"Gain [180] Influence with a [Messenger] gift to a City-State"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe & Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
