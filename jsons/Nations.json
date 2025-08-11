@@ -148,7 +148,7 @@
 		"uniques": ["Starts with [Archery]",
 			"[+2 Culture] from all [Faith] buildings",
 			"[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
-		"[+30]% Strength <for [Military] units> <when attacking> <in [City Center] tiles>"]
+		"[+30]% Strength <for [Military] units> <when attacking> <in [City center] tiles>"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe & Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
@@ -223,7 +223,7 @@
 		"uniqueName": "Piety and Honor",
 		"uniques": ["[-15]% Strength <for [Military] units> <vs [{Wounded} {Land}] units>",
 		"[+30]% Strength <for [Military] units> <vs [{non-[Wounded]} {Land}] units>",
-		"[-100]% unhappiness [in [Puppeted] cities]"]
+		"[+100]% [Happiness] [in [Puppeted] cities]"]
 		"cities": ["Cairo","Baghdad","Aleppo","Mecca","Damascus","Medina","Hama","Sana'a",
 			"Acre","Sidon","Beirut","Ascalon","Hisn Kayfa","Alexandria","Jerusalem"]
 	}
