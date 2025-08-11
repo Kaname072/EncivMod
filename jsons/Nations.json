@@ -229,7 +229,7 @@
 	},
 	{
 		"name": "Brazil Empire",
-		"leaderName": "Pedro II",
+		"leaderName": "Dom Pedro II",
 		"adjective": ["brazilians"],
 		"startBias": ["Jungle","Coast"],
 		"preferredVictoryType": "Cultural",
@@ -258,11 +258,11 @@
 		"outerColor": [0,209,34],
 		"innerColor": [43,142,34],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Allied to Portugal",
-		"uniques": ["[-50]% maintenance costs <for [Portuguese Gunman] units>",
+		"uniqueName": "Volunteers of the Fatherland",
+		"uniques": ["[-10]% maintenance costs <for [Military] units>",
 			"[+1 Gold] from [Coast] tiles [in this city]",
 			"[+1 Gold] from every [Harbor]"],
-		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
-			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
+		"cities": ["Rio de Janeiro","São Paulo","Belém","Salvador","Macapá","Florianópolis","Paraíba",
+			"Teresina","São Vincente","Maceió","Natal","Rio Branco","Fortaleza","Porto Alegre","João Pessoa","Curitiba"]
 	}
 ]
