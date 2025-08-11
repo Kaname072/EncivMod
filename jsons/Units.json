@@ -43,47 +43,22 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Wallachia Soldier"
-		"replaces": "Longswordsman",
-		"uniqueTo": "Principality of Wallachia"
-		"unitType": "Sword",
-		"movement": 3,
-		"strength": 21,
-		"cost": 120,
-		"requiredTech": "Steel",
-		"upgradesTo": "Musketman",
-		"uniques": ["Can move after attacking"]
-		"obsoleteTech": "Gunpowder",
-		"requiredResource": "Iron",
-		"attackSound": "metalhit"
-	},
-	{
-		"name": "Philistine Warrior"
-		"replaces": "Swordsman",
-		"uniqueTo": "The Philistines",
-		"unitType": "Sword",
-		"movement": 2,
-		"strength": 14,
-		"cost": 50,
-		"requiredTech": "Iron Working",
-		"upgradesTo": "Longswordsman",
-		"obsoleteTech": "Steel",
-		"requiredResource": "Iron",
-		"hurryCostModifier": 20,
-		"attackSound": "metalhit"
-	},
-	{
 		"name": "Goliath",
-		"replaces": "Great General",
 		"uniqueTo": "The Philistines"
-		"unitType": "Civilian",
-		"uniques": [
-            "[+30]% Strength bonus for [Military] units within [4] tiles",
-            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
-			"Can be earned through combat",
-            "Is part of Great Person group [General]",
-			"Great Person - [War]", "Unbuildable", "Uncapturable"],
-		"movement": 2
+		"unitType": "Sword",
+		"movement": 1,
+		"strength": 16,
+		"cost": 80,
+		"obsoleteTech": "Steel",
+		"upgradesTo": "Longswordsman",
+		"uniques" : ["[-100] Strength <vs [Scout] units>",
+			"[-50]% Strength <when attacking> <vs Cities>",
+			"[+100] Strength <vs [Ranged] units>",
+			"[+100] Strength <vs [Siege] units>",
+			"[+15]% Strength bonus for [Military] units within [2] tiles"],
+		"attackSound": "metalhit",
+        "civilopediaText": [
+			{"text": "Just David can stop this unit."}]
 	},
 	{
 		"name": "Templar",
@@ -98,21 +73,6 @@
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
 		"attackSound": "holyattack"
-	},
-	{
-		"name": "Runner Archer",
-		"replaces": "Composite Bowman",
-		"uniqueTo": "Jerusalem Kingdom",
-		"unitType": "Archery",
-		"uniques": ["Can move after attacking"],
-		"movement": 2,
-		"strength": 7,
-		"rangedStrength": 11,
-		"cost": 75,
-		"requiredTech": "Construction",
-		"obsoleteTech": "Machinery",
-		"upgradesTo": "Crossbowman",
-		"attackSound": "arrow"
 	},
 	{
 		"name": "Holy Cavalry",	
@@ -163,20 +123,6 @@
 		"requiredResource": "Iron",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
-	},
-	{
-		"name": "Archers Group",
-		"uniqueTo": "Ayyubid Empire",
-		"unitType": "Archery",
-		"movement": 3,
-		"strength": 5,
-		"rangedStrength": 10,
-		"cost": 56,
-		"requiredTech": "The Wheel",
-		"upgradesTo": "Knight",
-		"obsoleteTech": "Chivalry",
-		"uniques": ["[2] additional attacks per turn","Never appears as a Barbarian unit"],
-		"attackSound": "arrow"
 	},
 	{
 		"name": "Mangonel",
