@@ -8,8 +8,8 @@
   {
     "name": "Carnival",
     "type": "Pantheon",
-    "uniques": ["Earn [75]% of killed [Military] unit's [Strength] as [Food]",
-    "[-20]% unhappiness from the number of cities [in cities following our religion]"]
+    "uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Food] when killed within 4 tiles of a city following this religion",
+    "[-20]% unhappiness from the number of cities [in this city]"]
   },
   {
     "name": "Sacrificies for Gods",
