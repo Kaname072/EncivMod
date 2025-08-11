@@ -30,7 +30,7 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [204,0,0],
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Orthodoxy Christianity",
 		"uniqueName": "Dragon of Wallachia",
 		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]",
 			"[+20]% [Culture] [in cities following our religion]",
@@ -69,7 +69,7 @@
 
 		"outerColor": [255,212,0],
 		"innerColor": [246,0,0],
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Allied to Portugal",
 		"uniques": ["[-50]% maintenance costs <for [Portuguese Gunman] units>",
 			"[+1 Gold] from [Coast] tiles [in this city]",
@@ -108,6 +108,7 @@
 
 		"outerColor": [255,242,213],
 		"innerColor": [132,0,0],
+		"favoredReligion": "Dagonism",
 		"uniqueName": "Dagom Blesses",
 		"uniques": ["[Great General] is earned [+100]% faster",
 			"[+1 Faith] from [Fish] tiles [in this city]",
@@ -146,7 +147,7 @@
 
 		"outerColor": [255,255,230],
 		"innerColor": [255,216,0],
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Religious Tolerance",
 		"uniques": ["Starts with [Archery]",
 			"[+2 Culture] from all [Faith] buildings",
@@ -186,6 +187,7 @@
 
 		"outerColor": [0,105,180],
 		"innerColor": [0,186,238],
+		"favoredReligion": "Politeism"
 		"uniqueName": "Hero Lusitanian",
 		"uniques": ["[+1 Culture] from [Hill] tiles [in this city]",
 			"[+2 Culture, +1 Science] from [Mountain] tiles [in this city]",
