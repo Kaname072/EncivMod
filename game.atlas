@@ -179,6 +179,34 @@ BuildingIcons/Orthodoxy Church
   orig: 100, 100
   offset: 0, 0
   index: -1
+ReligionIcons/Orthodoxy Christianity
+  rotate: false
+  xy: 700, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Catholic Christianity
+  rotate: false
+  xy: 600, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Politeism
+  rotate: false
+  xy: 500, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Dagonism
+  rotate: false
+  xy: 600, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 
 gameL1.png
 size: 512, 128
