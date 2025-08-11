@@ -1,5 +1,5 @@
 
-game2.png
+game3.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -42,6 +42,13 @@ NationIcons/The Lusitanians
 NationIcons/Ayyubid Empire
   rotate: false
   xy: 500, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Brazil Empire
+  rotate: false
+  xy: 600, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -133,6 +140,20 @@ UnitIcons/Mangonel
 UnitIcons/Archers Group
   rotate: false
   xy: 200, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Volunteer
+  rotate: false
+  xy: 300, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Baloon
+  rotate: false
+  xy: 400, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
