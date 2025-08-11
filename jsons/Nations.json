@@ -145,8 +145,8 @@
 		"innerColor": [255,216,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Religious Tolerance",
-		"uniques": ["[+1 Faith] from [Fort] tiles [in this city]",
-			"[+1 Culture] from all [Faith] buildings",
+		"uniques": ["Starts with [Piety]",
+			"[+2 Culture] from all [Faith] buildings",
 			"[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe & Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
