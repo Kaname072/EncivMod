@@ -130,7 +130,7 @@ UnitIcons/Baloon
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Alliance Letter
+UnitIcons/Messenger
   rotate: false
   xy: 100, 300
   size: 100, 100
