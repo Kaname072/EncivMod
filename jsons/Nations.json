@@ -32,7 +32,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Dragon of Wallachia",
 		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]",
-			"[+10]% [Culture] [in cities following our religion]",
+			"[+20]% [Culture] [in cities following our religion]",
 			"Cities are razed [2] times as fast"],
 		"cities": ["Târgoviste","Bucharest","Câmpulung","Curtea de Argeș","Brăila","Pitesti",
 		"Buzăo","Drobeta-Turnu Severin","Rãmnicu Vâlcea"]
@@ -106,7 +106,7 @@
 		"outerColor": [255,242,213],
 		"innerColor": [132,0,0],
 		"uniqueName": "Dagom Blesses",
-		"uniques": ["[Goliath] is earned [+100]% faster",
+		"uniques": ["[Great General] is earned [+100]% faster",
 			"[+1 Faith] from [Fish] tiles [in this city]",
 			"[+15]% Strength <for [Siege] units>"],
 		"cities": ["Gath","Ashkalon","Ashdod","Gaza","Ekron","Libnah","Azekah","Sharuhen",
@@ -147,7 +147,8 @@
 		"uniqueName": "Religious Tolerance",
 		"uniques": ["Starts with [Archery]",
 			"[+2 Culture] from all [Faith] buildings",
-			"[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>"]
+			"[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
+		"[+30]% Strength <for [Military] units> <when attacking> <in [City Center] tiles>"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe & Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
@@ -214,15 +215,15 @@
 		"hateYes": ["yes."],
 		
 		"afterPeace": "Hphm!!",
-		"tradeRequest": "You can accept this?",
+		"tradeRequest": "My brother, you can accept this?",
 
 		"outerColor": [255,204,2],
 		"innerColor": [255,255,255],
 		"favoredReligion": "Islam",
-		"uniqueName": "Chivalry",
+		"uniqueName": "Piety and Honor",
 		"uniques": ["[-15]% Strength <for [Military] units> <vs [{Wounded} {Land}] units>",
-		"[+30]% Strength <for [Military] units> <vs [{non[Wounded]} {Land}] units>",
-		"[-100]% Unhappiness [in [Puppeted] cities]"]
+		"[+30]% Strength <for [Military] units> <vs [{non-[Wounded]} {Land}] units>",
+		"[-100]% unhappiness [in [Puppeted] cities]"]
 		"cities": ["Cairo","Baghdad","Aleppo","Mecca","Damascus","Medina","Hama","Sana'a",
 			"Acre","Sidon","Beirut","Ascalon","Hisn Kayfa","Alexandria","Jerusalem"]
 	}
