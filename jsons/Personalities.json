@@ -84,4 +84,35 @@
       "Freedom": 6,
       "Autocracy": 5,
       "Order": 3
+    }
+  },
+  {
+    "name": "Viriathus",
+    "production": 5,
+    "food": 6,
+    "gold": 4,
+    "science": 5,
+    "culture": 7,
+    "happiness": 6
+    "faith": 6,
+    "military": 6,
+    "aggressive": 3,
+    "declareWar": 5,
+    "commerce": 3,
+    "diplomacy": 6,
+    "loyal": 7,
+    "expansion": 2,
+    "priorities": {
+      "Tradition": 6,
+      "Liberty": 5,
+      "Honor": 9,
+      "Commerce": 4,
+      "Patronage": 5,
+      "Piety": 5,
+      "Rationalism": 4,
+      "Freedom": 5,
+      "Autocracy": 7,
+      "Order": 6
+    }
+  }
 ]
