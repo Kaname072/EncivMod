@@ -169,12 +169,12 @@
 		"name": "Messenger",
 		"uniqueTo": "Jerusalem Kingdom",
 		"unitType": "Civilian",
-		"movement": 2,
-		"cost": 20,
-		"uniques": ["[+50]% [Culture] <by consuming this unit>",
+		"movement": 1,
+		"cost": 200,
+		"uniques": ["Free Social Policy <by consuming this unit>",
 			"Invisible to non-adjacent units",
 			"City-State territory always counts as friendly territory",
-			"Excess Food converted to Production when under construction",
+			"Unbuildable",
 		"Uncapturable"],
 		"hurryCostModifier": 20
 	}
