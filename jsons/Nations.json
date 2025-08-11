@@ -28,8 +28,8 @@
 		"afterPeace": "I dont wanna peace but, this war is starting became interesthing",
 		"tradeRequest": "Accept my offer, my brother",
 
-		"outerColor": [16,16,16],
-		"innerColor": [204,0,0],
+		"outerColor": [255,244,99],
+		"innerColor": [30,59,30],
 		"favoredReligion": "Orthodoxy Christianity",
 		"uniqueName": "Dragon of Wallachia",
 		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]",
@@ -151,7 +151,7 @@
 		"uniqueName": "Religious Tolerance",
 		"uniques": ["[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
 		"[+30]% Strength <for [Military] units> <when attacking> <in [City center] tiles>",
-		"Gain [180] Influence with a [Messenger] gift to a City-State"]
+		"Gain [30] Influence with a [Messenger] gift to a City-State"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe & Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
