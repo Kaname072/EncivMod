@@ -28,7 +28,7 @@
 		"afterPeace": "I dont wanna peace but, this war is starting became interesthing",
 		"tradeRequest": "Accept my offer, my brother",
 
-		"outerColor": [255,244,99],
+		"outerColor": [255,249,0],
 		"innerColor": [30,59,30],
 		"favoredReligion": "Orthodoxy Christianity",
 		"uniqueName": "Dragon of Wallachia",
@@ -110,7 +110,7 @@
 		"innerColor": [132,0,0],
 		"favoredReligion": "Dagonism",
 		"uniqueName": "Dagom Blesses",
-		"uniques": ["[Great General] is earned [+100]% faster",
+		"uniques": ["[Great General] is earned [+50]% faster",
 			"[+1 Faith] from [Fish] tiles [in this city]",
 			"[+15]% Strength <for [Siege] units>"],
 		"cities": ["Gath","Ashkalon","Ashdod","Gaza","Ekron","Libnah","Azekah","Sharuhen",
@@ -190,7 +190,7 @@
 		"uniqueName": "Hero Lusitanian",
 		"uniques": ["[+1 Culture] from [Hill] tiles [in this city]",
 			"[+2 Culture, +1 Science] from [Mountain] tiles [in this city]",
-			"[+25]% Strength <when defending> <for [Military] units> <in [Friendly Land] tiles>",
+			"[+15]% Strength <when defending> <for [Military] units> <in [Friendly Land] tiles>",
 		"\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Viseu"]
 	},
