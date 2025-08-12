@@ -107,7 +107,7 @@
 		"cost": 60,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
-		"uniques": ["Invisible to non-adjacent units <when fighting in [Forest] tiles>"],
+		"uniques": ["Invisible to non-adjacent units <in [Forest] tiles>"],
 		"obsoleteTech": "Steel",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
@@ -167,8 +167,10 @@
 		"strength": 15,
 		"cost": 50,
 		"requiredTech": "Mathematics",
-		"uniques": ["[+1] Sight","Cannot attack <in [Foreign Land] tiles>","Invisible to non-adjacent units",
+		"obsoleteTech": "Computers",
+		"uniques": ["[-50]% Strength <when attacking> <before discovering [Chemistry]>","[+1] Sight","Invisible to non-adjacent units",
 		"Never appears as a Barbarian unit"]
+		"attackSound": "cannon"
 	},
 	{
 		"name": "Messenger",
