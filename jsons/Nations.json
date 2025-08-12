@@ -149,9 +149,9 @@
 		"innerColor": [255,216,0],
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Religious Tolerance",
-		"uniques": ["[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
-		"[+30]% Strength <for [Military] units> <when attacking> <in [City center] tiles>",
-		"Gain [30] Influence with a [Messenger] gift to a City-State"]
+		"uniques": ["[+1 Faith] from every [Strategic resources]",
+			"[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
+		"[+30]% Strength <for [Military] units> <when attacking> <in [City center] tiles>"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe & Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
@@ -190,7 +190,7 @@
 		"uniqueName": "Hero Lusitanian",
 		"uniques": ["[+1 Culture] from [Hill] tiles [in this city]",
 			"[+2 Culture, +1 Science] from [Mountain] tiles [in this city]",
-			"[+15]% Strength <when defending> <for [Military] units> <in [Friendly Land] tiles>",
+			"[+20]% Strength <when defending> <for [Military] units> <in [Friendly Land] tiles>",
 		"\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Viseu"]
 	},
@@ -244,31 +244,31 @@
 		"startIntroPart1": "After King Pedro I returned to Portugal, Pedro II took the crown at the age of 14, but political conflicts would tarnish his image, from the liberation of slaves through the Áurea Law to the Paraguayan War.",
 		"startIntroPart2": "The great Emperor Dom Pedro II would bring Brazilian peace to all civilizations. Great Emperor, will you be able to maintain the great balance of this land? Will you be able to make this nation great and unified? We trust in you! Great Dom Pedro II!",
 		
-		"declaringWar": "In Jesus name! you will fall!",
-		"attacked": "You dont have mercy! I will dont have too!",
-		"defeated": "You just think in gold and glory for yourself! you stupid ambicious will destroy you in one day!",
-		"introduction": "Salutations brother! in the God name, us we became big friends",
+		"declaringWar": "You forced me to do it",
+		"attacked": "You will pay!",
+		"defeated": "This is shame, glory and peace for Brazil...",
+		"introduction": "Hello!",
 		
-		"neutralHello": "Salutations",
+		"neutralHello": "Good morning",
 		"neutralLetsHearIt": ["What you need?"],
-		"neutralNo": ["No, sorry faith brother"],
+		"neutralNo": ["No, sorry"],
 		"neutralYes": ["Excelent!"],
 
-		"hateHello": "Oh God... is you...",
-		"hateLetsHearIt": ["Speak now!","You need something?","God, give me patient..."],
-		"hateNo": ["Never"],
-		"hateYes": ["Very well..."],
+		"hateHello": "What you need now?",
+		"hateLetsHearIt": ["Is you...","You need something?","Dont make me lose time!"],
+		"hateNo": ["Nothing for you"],
+		"hateYes": ["Yes."],
 		
-		"afterPeace": "Thanks for it",
-		"tradeRequest": "Faith brother, you will accept my offer?",
+		"afterPeace": "Thats good to me",
+		"tradeRequest": "Commerce?",
 
 		"outerColor": [0,209,34],
 		"innerColor": [43,142,34],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Volunteers of the Fatherland",
-		"uniques": ["[-33]% maintenance costs <for [Military] units> <when not at war>",
+		"uniques": ["[-40]% maintenance costs <for [Military] units> <when not at war>",
 			"[+2 Culture] from [Jungle] tiles [in this city]",
-			"[+1 Happiness] from each Trade Route"],
+			"[+1 Culture] from [Forest] tiles [in this city]"],
 		"cities": ["Rio de Janeiro","São Paulo","Salvador","Fortaleza","Florianópolis","Paraíba","Belém",
 			"Teresina","São Vincente","Maceió","Natal","Rio Branco","Macapá","Porto Alegre","João Pessoa","Curitiba"]
 	}
