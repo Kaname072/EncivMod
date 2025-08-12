@@ -2,19 +2,22 @@
   {
     "name": "God Dagom",
     "type": "Pantheon",
-    "uniques": ["[+1 Food] from [Fishing Boats] tiles [in all cities]",
-      "[+2 Production] from [Fishing Boats] tiles [in all cities]"]
+    "uniques": ["[+1 Food, +2 Production] from [Fishing Boats] tiles [in all cities]"]
   },
   {
     "name": "Sacrificies for Gods",
     "type": "Pantheon",
-    "uniques": ["[+2 Faith, +1 Happiness] from [Sheep] tiles [in this city]"]
+    "uniques": ["[+2 Faith, +1 Production] from [Sheep] tiles [in this city]"]
   },
   {
-    "name": "Gloryfication of Working",
+    "name": "Pardon Power",
     "type": "Follower",
-    "uniques": ["May buy [Worker] units with [Faith] for [1] times their normal Production cost <before the [Modern era]>",
-      "May buy [Work Boats] units with [Faith] for [1] times their normal Production cost <before the [Modern era]>",
-      "[+1 Faith] from all [Production] buildings"]
-  }
+    "uniques": ["[+25]% [Happiness] [in this city] <when not at war>",
+    "[+15]% [Faith] [in this city] <when not at war>",
+    "Religion naturally spreads to cities [+1] tiles away"]
+  },
+  {
+    "name": "Justice Law",
+    "type": "Enhancer",
+    "uniques": ["[+20]% Natural religion spread [in Enemy cities]"]
 ]
