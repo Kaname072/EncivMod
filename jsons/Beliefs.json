@@ -19,7 +19,7 @@
   {
     "name": "Teocracy",
     "type": "Enhancer",
-    "uniques": ["[+1] [Movement] <for [Inquisitor] units>",
+    "uniques": ["[+1] Movement <for [Inquisitor] units>",
       "[Faith] cost of purchasing [Missionary] units [+30]%",
       "[+70]% Natural religion spread [in all cities connected to capital]"]
   }
