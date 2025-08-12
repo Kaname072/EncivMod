@@ -167,7 +167,7 @@
 		"strength": 15,
 		"cost": 50,
 		"requiredTech": "Mathematics",
-		"uniques": ["[+1] Sight","Cannot attack","Invisible to non-adjacent units",
+		"uniques": ["[+1] Sight","Cannot attack <in [Foreign Land] tiles>","Invisible to non-adjacent units",
 		"Never appears as a Barbarian unit"]
 	},
 	{
