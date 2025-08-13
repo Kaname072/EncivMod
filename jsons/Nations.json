@@ -195,7 +195,7 @@
 		"cities": ["Viseu"]
 	},
 	{
-		"name": "Ayyubid Empire",
+		"name": "Ayyubid Caliphate",
 		"leaderName": "Salahuddin Ayubi",
 		"adjective": ["ayyubians"],
 		"startBias": ["Desert"],
@@ -234,7 +234,7 @@
 			"Acre","Sidon","Beirut","Ascalon","Hisn Kayfa","Alexandria","Jerusalem"]
 	},
 	{
-		"name": "Brazil Empire",
+		"name": "Brazil",
 		"leaderName": "Dom Pedro II",
 		"adjective": ["brazilians"],
 		"startBias": ["Jungle","Coast"],
@@ -268,7 +268,8 @@
 		"uniqueName": "Volunteers of the Fatherland",
 		"uniques": ["[-40]% maintenance costs <for [Military] units> <when not at war>",
 			"[+2 Culture] from [Jungle] tiles [in this city]",
-			"[+1 Culture] from [Forest] tiles [in this city]"],
+			"[+1 Culture] from [Forest] tiles [in this city]",
+		"[+5]% [Happiness] from all [Culture] buildings"]
 		"cities": ["Rio de Janeiro","São Paulo","Salvador","Fortaleza","Florianópolis","Paraíba","Belém",
 			"Teresina","São Vincente","Maceió","Natal","Rio Branco","Macapá","Porto Alegre","João Pessoa","Curitiba"]
 	}
