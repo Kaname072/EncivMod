@@ -227,7 +227,7 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Islam",
 		"uniqueName": "Piety and Honor",
-		"uniques": ["[-15]% Strength <for [Military] units> <vs [{Wounded} {Land}] units>",
+		"uniques": ["[-5]% Strength <for [Military] units> <vs [{Wounded} {Land}] units>",
 		"[+30]% Strength <for [Military] units> <vs [{non-[Wounded]} {Land}] units>",
 		"[+100]% [Happiness] [in [Puppeted] cities]"]
 		"cities": ["Cairo","Baghdad","Aleppo","Mecca","Damascus","Medina","Hama","Sana'a",
@@ -269,7 +269,7 @@
 		"uniques": ["[-40]% maintenance costs <for [Military] units> <when not at war>",
 			"[+2 Culture] from [Jungle] tiles [in this city]",
 			"[+1 Culture] from [Forest] tiles [in this city]",
-		"[+5]% [Happiness] from all [Culture] buildings"]
+		"[+5]% [Happiness] from every [Culture] buildings"]
 		"cities": ["Rio de Janeiro","São Paulo","Salvador","Fortaleza","Florianópolis","Paraíba","Belém",
 			"Teresina","São Vincente","Maceió","Natal","Rio Branco","Macapá","Porto Alegre","João Pessoa","Curitiba"]
 	}
