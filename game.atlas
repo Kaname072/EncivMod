@@ -1,5 +1,5 @@
 
-game.png
+game1.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -46,7 +46,7 @@ NationIcons/Ayyubid Empire
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Brazil Empire
+NationIcons/Brazil
   rotate: false
   xy: 600, 0
   size: 100, 100
@@ -130,13 +130,6 @@ UnitIcons/Baloon
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Messenger
-  rotate: false
-  xy: 100, 300
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 ImprovementIcons/Impaled Bodies
   rotate: false
   xy: 400, 100
@@ -175,6 +168,20 @@ BuildingIcons/Stone Wall
 BuildingIcons/Orthodoxy Church
   rotate: false
   xy: 500, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Samba School
+  rotate: false
+  xy: 100, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Buddha Golden Statue
+  rotate: false
+  xy: 400, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
