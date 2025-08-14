@@ -12,8 +12,8 @@
   {
     "name": "Tupã God",
     "type": "Pantheon",
-    "uniques": ["[+15]% [Food] [in this city] <when not at war>",
-      "[+15]% Strength <for [Military] units> <fighting in [Friendly Land] tiles> <when at war>"]
+    "uniques": ["[+2 Food] from [Jungle] tiles [in this city]",
+      "[+1 Food] from [Forest] tiles [in this city]"]
   },
   {
     "name": "Pardon Power",
