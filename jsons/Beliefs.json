@@ -12,8 +12,8 @@
   {
     "name": "Pardon Power",
     "type": "Follower",
-    "uniques": ["[+25]% [Happiness] [in this city] <when not at war>",
-    "[+15]% [Faith] [in this city] <when not at war>",
+    "uniques": ["[+10]% [Happiness] [in this city] <when not at war>",
+    "[+5]% [Faith] [in this city] <when not at war>",
     "Religion naturally spreads to cities [+1] tiles away"]
   },
   {
