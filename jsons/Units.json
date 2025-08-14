@@ -148,7 +148,7 @@
 	{
 		"name": "Volunteer",
 		"replaces": "Musketman",
-		"uniqueTo": "Brazil Empire",
+		"uniqueTo": "Brazil",
 		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 25,
@@ -162,7 +162,7 @@
 	{
 			"name": "Baloon",
 		"unitType": "Helicopter",
-		"uniqueTo": "Brazil Empire"
+		"uniqueTo": "Brazil"
 		"movement": 3,
 		"strength": 15,
 		"cost": 50,
