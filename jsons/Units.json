@@ -151,7 +151,7 @@
 		"uniqueTo": "Brazil Empire",
 		"unitType": "Gunpowder",
 		"movement": 2,
-		"strength": 24,
+		"strength": 25,
 		"cost": 125,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
@@ -171,19 +171,5 @@
 		"uniques": ["[-50]% Strength <when attacking> <before discovering [Chemistry]>","[+1] Sight","Invisible to non-adjacent units",
 		"Never appears as a Barbarian unit"]
 		"attackSound": "cannon"
-	},
-	{
-		"name": "Messenger",
-		"uniqueTo": "Jerusalem Kingdom",
-		"unitType": "Civilian",
-		"movement": 1,
-		"cost": 60,
-		"requiredTech": "Writing"
-		"uniques": ["Free Social Policy <by consuming this unit>",
-			"Invisible to non-adjacent units",
-			"Unbuildable <when number of [[Messenger] Units] is more than [0]>",
-		"Uncapturable",
-		"Never appears as a Barbarian unit"],
-		"hurryCostModifier": 20
 	}
 ]
