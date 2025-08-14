@@ -52,5 +52,15 @@
 		"uniques": ["[+1 Culture] per [3] [Population] [in this city]"],
 		"requiredBuilding": "Colosseum",
 		"requiredTech": "Printing Press"
+	},
+	{
+		"name":"Buddha Golden Statue",
+		"isWonder": true,
+		"faith": 6,
+		"culture": 3,
+		"gold": 3,
+		"requiredTech": "Theology",
+		"uniques": ["Only available <when religion is enabled>"],
+		"requiredResource": "Gold Ore"
 	}
 ]
