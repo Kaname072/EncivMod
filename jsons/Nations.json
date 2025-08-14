@@ -28,7 +28,7 @@
 		"afterPeace": "I dont wanna peace but, this war is starting became interesthing",
 		"tradeRequest": "Accept my offer, my brother",
 
-		"outerColor": [255,249,0],
+		"outerColor": [255,0,0],
 		"innerColor": [30,59,30],
 		"favoredReligion": "Orthodoxy Christianity",
 		"uniqueName": "Dragon of Wallachia",
@@ -150,8 +150,9 @@
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Religious Tolerance",
 		"uniques": ["[+1 Faith] from every [Strategic resources]",
-			"[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>",
-		"[+30]% Strength <for [Military] units> <when attacking> <in [City center] tiles>"]
+			"Free Social Policy <upon discovering [Theology] technology>",
+			"Free Social Policy <upon discovering [Civil Service] technology>",
+		"[+50]% Strength <for [Military] units> <when attacking> <in [City center] tiles>"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe & Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
@@ -190,7 +191,7 @@
 		"uniqueName": "Hero Lusitanian",
 		"uniques": ["[+1 Culture] from [Hill] tiles [in this city]",
 			"[+2 Culture, +1 Science] from [Mountain] tiles [in this city]",
-			"[+20]% Strength <when defending> <for [Military] units> <in [Friendly Land] tiles>",
+			"[+15]% Strength <when defending> <for [Military] units> <in [Friendly Land] tiles>",
 		"\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Viseu"]
 	},
@@ -266,10 +267,10 @@
 		"innerColor": [43,142,34],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Volunteers of the Fatherland",
-		"uniques": ["[-40]% maintenance costs <for [Military] units> <when not at war>",
+		"uniques": ["[-50]% maintenance costs <for [Military] units> <when not at war>",
 			"[+2 Culture] from [Jungle] tiles [in this city]",
 			"[+1 Culture] from [Forest] tiles [in this city]",
-		"[+5]% [Happiness] from every [Culture] buildings"]
+		"[+1 Happiness] from all [Culture] buildings"]
 		"cities": ["Rio de Janeiro","São Paulo","Salvador","Fortaleza","Florianópolis","Paraíba","Belém",
 			"Teresina","São Vincente","Maceió","Natal","Rio Branco","Macapá","Porto Alegre","João Pessoa","Curitiba"]
 	}
