@@ -115,7 +115,7 @@
 	{
 		"name": "Ayyubian Warrior",
 		"replaces": "Swordsman",
-		"uniqueTo": "Ayyubid Empire",
+		"uniqueTo": "Ayyubid Caliphate",
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 16,
@@ -131,7 +131,7 @@
 	{
 		"name": "Mangonel",
 		"replaces": "Catapult",
-		"uniqueTo": "Ayyubid Empire",
+		"uniqueTo": "Ayyubid Caliphate",
 		"unitType": "Siege",
 		"movement": 3,
 		"strength": 5,
