@@ -28,12 +28,13 @@
 		"afterPeace": "I dont wanna peace but, this war is starting became interesthing",
 		"tradeRequest": "Accept my offer, my brother",
 
-		"outerColor": [255,0,0],
-		"innerColor": [30,59,30],
+		"outerColor": [255,242,213],
+		"innerColor": [16,16,16],
 		"favoredReligion": "Orthodoxy Christianity",
 		"uniqueName": "Dragon of Wallachia",
 		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]",
-			"[+20]% [Culture] [in cities following our religion]",
+			"[+10]% [Culture] [in cities following our religion]",
+			"[+50]% Strength <for [Military] units> <vs [Cities following foreign religion]>",
 			"Cities are razed [2] times as fast"],
 		"cities": ["Târgoviste","Bucharest","Câmpulung","Curtea de Argeș","Brăila","Pitesti",
 		"Buzăo","Drobeta-Turnu Severin","Rãmnicu Vâlcea"]
@@ -71,7 +72,7 @@
 		"innerColor": [246,0,0],
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Allied to Portugal",
-		"uniques": ["[-50]% maintenance costs <for [Portuguese Gunman] units>",
+		"uniques": ["[-66]% maintenance costs <for [Portuguese Gunman] units>",
 			"[+1 Gold] from [Coast] tiles [in this city]",
 			"[+1 Gold] from every [Harbor]"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
@@ -112,7 +113,7 @@
 		"uniqueName": "Dagom Blesses",
 		"uniques": ["[Great General] is earned [+50]% faster",
 			"[+1 Faith] from [Fish] tiles [in this city]",
-			"[+15]% Strength <for [Siege] units>"],
+			"[+30]% Strength <for [Siege] units> <vs [Cities]"],
 		"cities": ["Gath","Ashkalon","Ashdod","Gaza","Ekron","Libnah","Azekah","Sharuhen",
 			"Gerar","Azor","Tel Qasila","Aphek","Gibbethon","Yurza"]
 	},
@@ -150,8 +151,8 @@
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Religious Tolerance",
 		"uniques": ["[+1 Faith] from every [Strategic resources]",
+			"Free Social Policy <upon discovering [Philosophy] technology>",
 			"Free Social Policy <upon discovering [Theology] technology>",
-			"Free Social Policy <upon discovering [Civil Service] technology>",
 		"[+50]% Strength <for [Military] units> <when attacking> <in [City center] tiles>"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe & Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
@@ -228,9 +229,9 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Islam",
 		"uniqueName": "Piety and Honor",
-		"uniques": ["[-5]% Strength <for [Military] units> <vs [{Wounded} {Land}] units>",
-		"[+30]% Strength <for [Military] units> <vs [{non-[Wounded]} {Land}] units>",
-		"[+100]% [Happiness] [in [Puppeted] cities]"]
+		"uniques": ["When defeating a [{non-[Barbarian] {Land}] unit, earn [20] gold and recruit it <with [17]% chance>",
+			"[-5]% Strength <for [Military] units> <vs [{Wounded} {Land}] units>",
+		"[+50]% Strength <for [Military] units> <vs [{non-[Wounded]} {Land}] units>"]
 		"cities": ["Cairo","Baghdad","Aleppo","Mecca","Damascus","Medina","Hama","Sana'a",
 			"Acre","Sidon","Beirut","Ascalon","Hisn Kayfa","Alexandria","Jerusalem"]
 	},
@@ -267,7 +268,7 @@
 		"innerColor": [43,142,34],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Volunteers of the Fatherland",
-		"uniques": ["[-50]% maintenance costs <for [Military] units> <when not at war>",
+		"uniques": ["[-44]% maintenance costs <for [{Military} {Land}] units> <when not at war>",
 			"[+2 Culture] from [Jungle] tiles [in this city]",
 			"[+1 Culture] from [Forest] tiles [in this city]",
 		"[+1 Happiness] from all [Culture] buildings"]
