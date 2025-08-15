@@ -34,7 +34,7 @@
 		"uniqueName": "Dragon of Wallachia",
 		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]",
 			"[+10]% [Culture] [in cities following our religion]",
-			"[+50]% Strength <for [Military] units> <vs [Cities following foreign religion]>",
+			"[+50]% Strength <for [Military] units> <vs [Cities non-following our religion]>",
 			"Cities are razed [2] times as fast"],
 		"cities": ["Târgoviste","Bucharest","Câmpulung","Curtea de Argeș","Brăila","Pitesti",
 		"Buzăo","Drobeta-Turnu Severin","Rãmnicu Vâlcea"]
@@ -113,7 +113,7 @@
 		"uniqueName": "Dagom Blesses",
 		"uniques": ["[Great General] is earned [+50]% faster",
 			"[+1 Faith] from [Fish] tiles [in this city]",
-			"[+30]% Strength <for [Siege] units> <vs [Cities]"],
+			"[+30]% Strength <for [Siege] units> <vs [Cities]>"],
 		"cities": ["Gath","Ashkalon","Ashdod","Gaza","Ekron","Libnah","Azekah","Sharuhen",
 			"Gerar","Azor","Tel Qasila","Aphek","Gibbethon","Yurza"]
 	},
@@ -229,9 +229,10 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Islam",
 		"uniqueName": "Piety and Honor",
-		"uniques": ["When defeating a [{non-[Barbarian] {Land}] unit, earn [20] gold and recruit it <with [17]% chance>",
-			"[-5]% Strength <for [Military] units> <vs [{Wounded} {Land}] units>",
-		"[+50]% Strength <for [Military] units> <vs [{non-[Wounded]} {Land}] units>"]
+		"uniques": ["When defeating a [{non-[Barbarian]} {Land}] unit, earn [5] gold and recruit it <with [17]% chance>",
+			"[-10]% Strength <for [Military] units> <when attacking> <vs [{Wounded} {Land}] units>",
+			"[+20]% Strength <for [Military] units> <when defending> <vs [{Wounded} {Land}] units>",
+		"[+30]% Strength <for [Military] units> <vs [{non-[Wounded]} {Land}] units>"]
 		"cities": ["Cairo","Baghdad","Aleppo","Mecca","Damascus","Medina","Hama","Sana'a",
 			"Acre","Sidon","Beirut","Ascalon","Hisn Kayfa","Alexandria","Jerusalem"]
 	},
