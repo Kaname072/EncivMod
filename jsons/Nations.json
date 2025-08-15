@@ -4,7 +4,7 @@
 		"leaderName": "Vlad III",
 		"adjective": ["wallachians"],
 		"startBias": ["Avoid [Snow]"],
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Domination",
 		"personality": "Vlad III",
 		
 		"startIntroPart1": "Long ago, we were ruled by traitors, but since the rise of our great Vlad III, we have won our honor and faith against our enemies!",
@@ -32,9 +32,9 @@
 		"innerColor": [16,16,16],
 		"favoredReligion": "Orthodoxy Christianity",
 		"uniqueName": "Dragon of Wallachia",
-		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]",
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Faith]",
 			"[+10]% [Culture] [in cities following our religion]",
-			"[+50]% Strength <for [Military] units> <vs [Cities]> <non-following our religion>",
+			"[+50]% Strength <for [Military] units> <vs [Civilization non-following our religion]>",
 			"Cities are razed [2] times as fast"],
 		"cities": ["Târgoviste","Bucharest","Câmpulung","Curtea de Argeș","Brăila","Pitesti",
 		"Buzăo","Drobeta-Turnu Severin","Rãmnicu Vâlcea"]
@@ -111,8 +111,7 @@
 		"innerColor": [132,0,0],
 		"favoredReligion": "Dagonism",
 		"uniqueName": "Dagom Blesses",
-		"uniques": ["[Great General] is earned [+50]% faster",
-			"[+100]% [Iron] resource production",
+		"uniques": ["[+100]% [Iron] resource production",
 			"[+1 Faith] from [Fish] tiles [in this city]",
 			"[+30]% Strength <for [Siege] units> <vs [Cities]>"],
 		"cities": ["Gath","Ashkalon","Ashdod","Gaza","Ekron","Libnah","Azekah","Sharuhen",
@@ -151,7 +150,7 @@
 		"innerColor": [255,216,0],
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Religious Tolerance",
-		"uniques": ["[+6 Faith] from [Great Improvement] [in this city]",
+		"uniques": ["[+2 Faith] from [Fort] [in this city]",
 			"Free Social Policy <upon discovering [Philosophy] technology>",
 			"Free Social Policy <upon discovering [Theology] technology>",
 		"[+50]% Strength <for [Military] units> <when attacking> <in [City center] tiles>"]
@@ -230,7 +229,7 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Islam",
 		"uniqueName": "Piety and Honor",
-		"uniques": ["When defeating a [{non-[Barbarian]} {Land}] unit, earn [5] Gold and recruit it <with [17]% chance>",
+		"uniques": ["When defeating a [{non-[Barbarian]} {Land}] unit, earn [5] Gold and recruit it <with [22]% chance>",
 			"[-5]% Strength <for [Military] units> <when attacking> <vs [{Wounded} {Land}] units>",
 			"[+25]% Strength <for [Military] units> <when defending> <vs [{Wounded} {Land}] units>",
 		"[+1 Happiness] from [Desert] tiles [in this city]"]
