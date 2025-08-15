@@ -28,13 +28,12 @@
 		"afterPeace": "I dont wanna peace but, this war is starting became interesthing",
 		"tradeRequest": "Accept my offer, my brother",
 
-		"outerColor": [255,242,213],
+		"outerColor": [255,255,255],
 		"innerColor": [16,16,16],
 		"favoredReligion": "Orthodoxy Christianity",
 		"uniqueName": "Dragon of Wallachia",
-		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Faith]",
+		"uniques": ["Earn [75]% of killed [Military] unit's [Strength] as [Faith]",
 			"[+10]% [Culture] [in cities following our religion]",
-			"[+50]% Strength <for [Military] units> <vs [Civilization non-following our religion]>",
 			"Cities are razed [2] times as fast"],
 		"cities": ["Târgoviste","Bucharest","Câmpulung","Curtea de Argeș","Brăila","Pitesti",
 		"Buzăo","Drobeta-Turnu Severin","Rãmnicu Vâlcea"]
@@ -249,8 +248,8 @@
 		
 		"declaringWar": "You forced me to do it",
 		"attacked": "You will pay!",
-		"defeated": "This is shame, glory and peace for Brazil...",
-		"introduction": "Hello!",
+		"defeated": "May God grant me my last wish, peace and prosperity for Brazil...",
+		"introduction": "It seems that great minds are destined to meet",
 		
 		"neutralHello": "Good morning",
 		"neutralLetsHearIt": ["What you need?"],
@@ -263,10 +262,10 @@
 		"hateYes": ["Yes."],
 		
 		"afterPeace": "Thats good to me",
-		"tradeRequest": "Commerce?",
+		"tradeRequest": "You need it?",
 
-		"outerColor": [0,209,34],
-		"innerColor": [43,142,34],
+		"outerColor": [0,112,36],
+		"innerColor": [246,198,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Volunteers of the Fatherland",
 		"uniques": ["[-44]% maintenance costs <for [{Military} {Land}] units> <when not at war>",
