@@ -34,7 +34,7 @@
 		"uniqueName": "Dragon of Wallachia",
 		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]",
 			"[+10]% [Culture] [in cities following our religion]",
-			"[+50]% Strength <for [Military] units> <vs [Cities non-following our religion]>",
+			"[+50]% Strength <for [Military] units> <vs [Cities]> <non-following our religion>",
 			"Cities are razed [2] times as fast"],
 		"cities": ["Târgoviste","Bucharest","Câmpulung","Curtea de Argeș","Brăila","Pitesti",
 		"Buzăo","Drobeta-Turnu Severin","Rãmnicu Vâlcea"]
@@ -73,8 +73,8 @@
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Allied to Portugal",
 		"uniques": ["[-66]% maintenance costs <for [Portuguese Gunman] units>",
-			"[+1 Gold] from [Coast] tiles [in this city]",
-			"[+1 Gold] from every [Harbor]"],
+			"[+1 Faith] from each Trade Route",
+			"[+2 Gold, +1 Faith] from every [Harbor]"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
 	},
@@ -112,6 +112,7 @@
 		"favoredReligion": "Dagonism",
 		"uniqueName": "Dagom Blesses",
 		"uniques": ["[Great General] is earned [+50]% faster",
+			"[+100]% [Iron] resource production",
 			"[+1 Faith] from [Fish] tiles [in this city]",
 			"[+30]% Strength <for [Siege] units> <vs [Cities]>"],
 		"cities": ["Gath","Ashkalon","Ashdod","Gaza","Ekron","Libnah","Azekah","Sharuhen",
@@ -150,7 +151,7 @@
 		"innerColor": [255,216,0],
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Religious Tolerance",
-		"uniques": ["[+1 Faith] from every [Strategic resources]",
+		"uniques": ["[+6 Faith] from [Great Improvement] [in this city]",
 			"Free Social Policy <upon discovering [Philosophy] technology>",
 			"Free Social Policy <upon discovering [Theology] technology>",
 		"[+50]% Strength <for [Military] units> <when attacking> <in [City center] tiles>"]
@@ -229,10 +230,10 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Islam",
 		"uniqueName": "Piety and Honor",
-		"uniques": ["When defeating a [{non-[Barbarian]} {Land}] unit, earn [5] gold and recruit it <with [17]% chance>",
-			"[-10]% Strength <for [Military] units> <when attacking> <vs [{Wounded} {Land}] units>",
-			"[+20]% Strength <for [Military] units> <when defending> <vs [{Wounded} {Land}] units>",
-		"[+30]% Strength <for [Military] units> <vs [{non-[Wounded]} {Land}] units>"]
+		"uniques": ["When defeating a [{non-[Barbarian]} {Land}] unit, earn [5] Gold and recruit it <with [17]% chance>",
+			"[-5]% Strength <for [Military] units> <when attacking> <vs [{Wounded} {Land}] units>",
+			"[+25]% Strength <for [Military] units> <when defending> <vs [{Wounded} {Land}] units>",
+		"[+1 Happiness] from [Desert] tiles [in this city]"]
 		"cities": ["Cairo","Baghdad","Aleppo","Mecca","Damascus","Medina","Hama","Sana'a",
 			"Acre","Sidon","Beirut","Ascalon","Hisn Kayfa","Alexandria","Jerusalem"]
 	},
@@ -271,8 +272,7 @@
 		"uniqueName": "Volunteers of the Fatherland",
 		"uniques": ["[-44]% maintenance costs <for [{Military} {Land}] units> <when not at war>",
 			"[+2 Culture] from [Jungle] tiles [in this city]",
-			"[+1 Culture] from [Forest] tiles [in this city]",
-		"[+1 Happiness] from all [Culture] buildings"]
+			"[+1 Culture] from [Forest] tiles [in this city]"]
 		"cities": ["Rio de Janeiro","São Paulo","Salvador","Fortaleza","Florianópolis","Paraíba","Belém",
 			"Teresina","São Vincente","Maceió","Natal","Rio Branco","Macapá","Porto Alegre","João Pessoa","Curitiba"]
 	}
