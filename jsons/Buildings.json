@@ -7,7 +7,7 @@
 		"cost": 30,
 		"hurryCostModifier": 30,
 		"maintenance": 0,
-		"uniques": ["[+1 Production] from [Stone] tiles [in this city]","Destroyed when the city is captured"]
+		"uniques": ["[+2 Production] from [Mountain] tiles [in this city]","Destroyed when the city is captured"]
 	},
 	{
 		"name": "Statue of Dagom",
@@ -49,15 +49,15 @@
 		"happiness": 3,
 		"hurryCostModifier": 10,
 		"maintenance": 2,
-		"uniques": ["[+1 Culture] per [3] [Population] [in this city]"],
+		"uniques": ["[+1 Culture] per [3] population [in this city]"],
 		"requiredBuilding": "Colosseum",
 		"requiredTech": "Printing Press"
 	},
 	{
 		"name":"Buddha Golden Statue",
 		"isWonder": true,
-		"faith": 6,
-		"culture": 3,
+		"faith": 9,
+		"culture": 6,
 		"gold": 3,
 		"requiredTech": "Theology",
 		"uniques": ["Only available <when religion is enabled>"],
