@@ -309,12 +309,7 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "The Richness Man in World",
 		"uniques": ["[+2 Gold] from each Trade Route",
-			"[+100]% [Salt] resource production",
-			"[+100]% [Gold Ore] resource production",
-			"[+100]% [Incense] resource production",
-			"[+100]% [Copper] resource production",
-			"[+100]% [Silver] resource production",
-			"[+100]% [Spice] resource production",
+			"[+1 Faith] from [{Hill} {Desert}] tiles [in this city]","[+200]% [Luxury resource] resource production",
 			"[+50]% [Gold] [in all cities] <during a Golden Age>"],
 		"cities": ["Nyeni","Timbuktu","Gao","Walata","Jenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
