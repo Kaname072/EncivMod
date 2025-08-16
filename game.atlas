@@ -1,5 +1,5 @@
 
-game1.png
+game2.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -49,6 +49,13 @@ NationIcons/Ayyubid Caliphate
 NationIcons/Brazil
   rotate: false
   xy: 600, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Mali
+  rotate: false
+  xy: 700, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -130,6 +137,20 @@ UnitIcons/Baloon
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Mandekalu
+  rotate: false
+  xy: 300, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Mali Merchant
+  rotate: false
+  xy: 200, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ImprovementIcons/Impaled Bodies
   rotate: false
   xy: 400, 100
@@ -182,6 +203,13 @@ BuildingIcons/Samba School
 BuildingIcons/Buddha Golden Statue
   rotate: false
   xy: 400, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sankore University
+  rotate: false
+  xy: 800, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
