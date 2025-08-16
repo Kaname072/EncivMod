@@ -19,14 +19,19 @@
     "name": "Pardon Power",
     "type": "Follower",
     "uniques": ["[+10]% [Happiness] [in this city] <when not at war>",
-    "[+5]% [Faith] [in this city] <when not at war>",
-    "Religion naturally spreads to cities [+1] tiles away"]
+    "[+10]% [Faith] [in this city] <when not at war>"]
   },
   {
     "name": "Teocracy",
     "type": "Enhancer",
     "uniques": ["[+1] Movement <for [Inquisitor] units>",
       "[Faith] cost of purchasing [Religious] units [+30]%",
-      "[+60]% Natural religion spread [in all cities connected to capital]"]
+      "[+15]% Natural religion spread [in all cities connected to capital]"]
+  },
+  {
+    "name": "Despoina Mercy",
+    "type": "Pantheon",
+    "uniques": ["[+1 Faith, +1 Food] from [Snow] tiles [in this city]",
+    "[+1 Food] from [{Deer} {Snow}] tiles [in this city]"]
   }
 ]
