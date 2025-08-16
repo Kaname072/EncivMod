@@ -164,7 +164,7 @@
 		"unitType": "Helicopter",
 		"uniqueTo": "Brazil"
 		"movement": 3,
-		"strength": 15,
+		"strength": 30,
 		"cost": 50,
 		"requiredTech": "Mathematics",
 		"obsoleteTech": "Computers",
@@ -189,11 +189,11 @@
 		"attackSound": "horse"
 	},
 	{
-		"namd": "Mali Merchant",
+		"name": "Mali Merchant",
 		"replaces": "Great Merchant",
 		"uniqueTo": "Mali",
 		"unitType": "Civilian",
-		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [60] Influence",
+		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [50] Influence",
             "Can instantly construct a [Customs house] improvement <by consuming this unit>",
             "Is part of Great Person group [Great Person]",
 			"Great Person - [Gold]", "Unbuildable", "Uncapturable"],
