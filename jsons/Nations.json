@@ -29,10 +29,10 @@
 		"tradeRequest": "Accept my offer, my brother",
 
 		"outerColor": [255,255,255],
-		"innerColor": [16,16,16],
+		"innerColor": [235,0,0],
 		"favoredReligion": "Orthodoxy Christianity",
 		"uniqueName": "Dragon of Wallachia",
-		"uniques": ["Earn [75]% of killed [Military] unit's [Strength] as [Faith]",
+		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]",
 			"[+10]% [Culture] [in cities following our religion]",
 			"Cities are razed [2] times as fast"],
 		"cities": ["Târgoviste","Bucharest","Câmpulung","Curtea de Argeș","Brăila","Pitesti",
@@ -149,7 +149,8 @@
 		"innerColor": [255,216,0],
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Religious Tolerance",
-		"uniques": ["[+2 Faith] from [Fort] [in this city]",
+		"uniques": ["[+1 Faith, +1 Production] from [Fort] tiles [in this city]",
+			"Free Social Policy <upon discovering [Mathematics] technology>",
 			"Free Social Policy <upon discovering [Philosophy] technology>",
 			"Free Social Policy <upon discovering [Theology] technology>",
 		"[+50]% Strength <for [Military] units> <when attacking> <in [City center] tiles>"]
@@ -268,10 +269,47 @@
 		"innerColor": [246,198,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Volunteers of the Fatherland",
-		"uniques": ["[-44]% maintenance costs <for [{Military} {Land}] units> <when not at war>",
+		"uniques": ["[-55]% maintenance costs <for [{Military} {Land}] units> <when not at war>",
 			"[+2 Culture] from [Jungle] tiles [in this city]",
 			"[+1 Culture] from [Forest] tiles [in this city]"]
 		"cities": ["Rio de Janeiro","São Paulo","Salvador","Fortaleza","Florianópolis","Paraíba","Belém",
 			"Teresina","São Vincente","Maceió","Natal","Rio Branco","Macapá","Porto Alegre","João Pessoa","Curitiba"]
+	},
+	{
+		"name": "Mali",
+		"leaderName": "Mansa Musa",
+		"adjective": ["malis"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Alfonso I",
+		
+		"startIntroPart1": "With great faith and commerce, we, the Kingdom of Kongo, strengthened with our great majesty Alfonso I.",
+		"startIntroPart2": "With our faith in our God, we will go to triumph and glory even with many challenges to face. We will not give up on our path.",
+		
+		"declaringWar": "In Jesus name! you will fall!",
+		"attacked": "You dont have mercy! I will dont have too!",
+		"defeated": "You just think in gold and glory for yourself! you stupid ambicious will destroy you in one day!",
+		"introduction": "Salutations brother! in the God name, us we became big friends",
+		
+		"neutralHello": "Salutations",
+		"neutralLetsHearIt": ["What you need?"],
+		"neutralNo": ["No, sorry faith brother"],
+		"neutralYes": ["Excelent!"],
+
+		"hateHello": "Oh God... is you...",
+		"hateLetsHearIt": ["Speak now!","You need something?","God, give me patient..."],
+		"hateNo": ["Never"],
+		"hateYes": ["Very well..."],
+		
+		"afterPeace": "Thanks for it",
+		"tradeRequest": "Faith brother, you will accept my offer?",
+
+		"outerColor": [255,212,0],
+		"innerColor": [246,0,0],
+		"favoredReligion": "Islam",
+		"uniqueName": "The Gold",
+		"uniques": ["[+1 Gold] from each Trade Route"],
+		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
+			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
 	}
 ]
