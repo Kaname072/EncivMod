@@ -49,7 +49,7 @@
 		"happiness": 3,
 		"hurryCostModifier": 10,
 		"maintenance": 2,
-		"uniques": ["[+1 Culture] per [3] population [in this city]"],
+		"uniques": ["[+1 Culture] per [2] population [in this city]"],
 		"requiredBuilding": "Colosseum",
 		"requiredTech": "Printing Press"
 	},
@@ -62,5 +62,17 @@
 		"requiredTech": "Theology",
 		"uniques": ["Only available <when religion is enabled>"],
 		"requiredResource": "Gold Ore"
+	},
+	{
+		"name": "Sankore University",
+		"replaces": "University",
+		"uniqueTo": "Mali",
+		"maintenance": 1,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"requiredBuilding": "Library",
+		"uniques": ["Must be next to [Desert]","[+1 Science] from each Trade Route","[+1 Science] from [Desert] tiles [in this city]"],
+		"requiredTech": "Education"
 	}
 ]
