@@ -201,5 +201,34 @@
       "Autocracy": 5,
       "Order": 3
     }
+  },
+  {
+    "name": "Mansa Musa",
+    "production": 4,
+    "food": 7,
+    "gold": 9,
+    "science": 8,
+    "culture": 6,
+    "happiness": 7,
+    "faith": 7,
+    "military": 7,
+    "aggressive": 3,
+    "declareWar": 3,
+    "commerce": 11,
+    "diplomacy": 7,
+    "loyal": 7,
+    "expansion": 8,
+    "priorities": {
+      "Tradition": 7,
+      "Liberty": 5,
+      "Honor": 4,
+      "Commerce": 11,
+      "Patronage": 2,
+      "Piety": 5,
+      "Rationalism": 7,
+      "Freedom": 2,
+      "Autocracy": 4,
+      "Order": 3
+    }
   }
 ]
