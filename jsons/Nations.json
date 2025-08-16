@@ -283,33 +283,33 @@
 		"preferredVictoryType": "Scientific",
 		"personality": "Alfonso I",
 		
-		"startIntroPart1": "With great faith and commerce, we, the Kingdom of Kongo, strengthened with our great majesty Alfonso I.",
-		"startIntroPart2": "With our faith in our God, we will go to triumph and glory even with many challenges to face. We will not give up on our path.",
+		"startIntroPart1": "Majesty Mansa Musa! your earned the crown to your hands. You Mali Imperial is a big and stronger nation on North of Africa! with you gold and richness, you made this empire! God bless you!",
+		"startIntroPart2": "But, you can make this nation again? you can make you the richest man of world? this is just begging!"
 		
-		"declaringWar": "In Jesus name! you will fall!",
-		"attacked": "You dont have mercy! I will dont have too!",
-		"defeated": "You just think in gold and glory for yourself! you stupid ambicious will destroy you in one day!",
-		"introduction": "Salutations brother! in the God name, us we became big friends",
+		"declaringWar": "This is war! prepare your mens!",
+		"attacked": "You disrespected me!",
+		"defeated": "You can had my gold, but never you we have us heart!",
+		"introduction": "Hello strange! you nation needs Commerce?",
 		
-		"neutralHello": "Salutations",
+		"neutralHello": "Hello man, great Mansa Musa is here. Your nation need gold?",
 		"neutralLetsHearIt": ["What you need?"],
-		"neutralNo": ["No, sorry faith brother"],
+		"neutralNo": ["I refuse"],
 		"neutralYes": ["Excelent!"],
 
-		"hateHello": "Oh God... is you...",
-		"hateLetsHearIt": ["Speak now!","You need something?","God, give me patient..."],
-		"hateNo": ["Never"],
-		"hateYes": ["Very well..."],
+		"hateHello": "You gold is dirt!",
+		"hateLetsHearIt": ["Is you?...","Allah, give me patient..."],
+		"hateNo": ["I hate your gold!"],
+		"hateYes": ["Just now..."],
 		
-		"afterPeace": "Thanks for it",
-		"tradeRequest": "Faith brother, you will accept my offer?",
+		"afterPeace": "War is just war...",
+		"tradeRequest": "Commerce make us nation more strong!",
 
 		"outerColor": [255,212,0],
 		"innerColor": [246,0,0],
 		"favoredReligion": "Islam",
 		"uniqueName": "The Gold",
 		"uniques": ["[+1 Gold] from each Trade Route"],
-		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
-			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
+		"cities": ["Niani","Timbuktu","Gao","Walata","Jenne","Dia","Kuna","Jinjo","Direi",
+		"Kukiya","Diara","Ra's Al-ma","Awlil"]
 	}
 ]
