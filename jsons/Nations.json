@@ -309,9 +309,9 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "The Richness Man in World",
 		"uniques": ["[+2 Gold] from each Trade Route",
-			"[+50]% [Luxury resource] production",
+			"[+50]% [Luxury resource] resource production",
 			"[+50]% [Gold] [in all cities] <during a Golden Age>",
-			"Gain a free [Mosque] <in all cities connected to capital>"],
+			"Gain a free [Mosque] <in all cities> <upon discovering [Guilds]"],
 		"cities": ["Nyeni","Timbuktu","Gao","Walata","Jenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
 	}
