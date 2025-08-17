@@ -33,6 +33,7 @@
 		"favoredReligion": "Orthodoxy Christianity",
 		"uniqueName": "Dragon of Wallachia",
 		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]",
+			"[+33]% Strength <for [Military] units> <vs [{Military} {Wounded}] units>",
 			"[+10]% [Culture] [in cities following our religion]",
 			"Cities are razed [2] times as fast"],
 		"cities": ["Târgoviste","Bucharest","Câmpulung","Curtea de Argeș","Brăila","Pitesti",
@@ -70,9 +71,9 @@
 		"outerColor": [255,212,0],
 		"innerColor": [246,0,0],
 		"favoredReligion": "Catholic Christianity",
-		"uniqueName": "Allied to Portugal",
+		"uniqueName": "Portugal Alliance",
 		"uniques": ["[-66]% maintenance costs <for [Portuguese Gunman] units>",
-			"[+1 Faith] from each Trade Route",
+			"[+1 Faith, +1 Culture] from each Trade Route",
 			"[+2 Gold, +1 Faith] from every [Harbor]"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
@@ -89,7 +90,7 @@
 		"startIntroPart2": "Our golden age will reign over every corner of this world! The Great King Achish! Destroy all our enemies!",
 		
 		"declaringWar": "You faith is weak! prepare to war!",
-		"attacked": "HAHAHA",
+		"attacked": "Really? ok.",
 		"defeated": "Thas is ridiculous! we vanish!",
 		"introduction": "Another civilization? hello.",
 		
@@ -112,7 +113,7 @@
 		"uniqueName": "Dagom Blesses",
 		"uniques": ["[+100]% [Iron] resource production",
 			"[+1 Faith] from [Fish] tiles [in this city]",
-			"[+30]% Strength <for [Siege] units> <vs [Cities]>"],
+			"[+33]% Strength <for [Siege] units> <vs [Cities]>"],
 		"cities": ["Gath","Ashkalon","Ashdod","Gaza","Ekron","Libnah","Azekah","Sharuhen",
 			"Gerar","Azor","Tel Qasila","Aphek","Gibbethon","Yurza"]
 	},
@@ -230,7 +231,7 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "Ayyubid Dynasty",
 		"uniques": ["When defeating a [{non-[Barbarian]} {Land}] unit, earn [5] Gold and recruit it <with [22]% chance>",
-			"[+1 Science] from all [Faith] buildings",
+			"[+1 Science, +1 Culture] from all [Faith] buildings",
 		"[+2 Food] from [{Desert} {Farm}] tiles [in this city]"]
 		"cities": ["Cairo","Baghdad","Aleppo","Mecca","Damascus","Medina","Hama","Sana'a",
 			"Acre","Sidon","Beirut","Ascalon","Hisn Kayfa","Alexandria","Jerusalem"]
