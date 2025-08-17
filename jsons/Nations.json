@@ -198,9 +198,9 @@
 		"cities": ["Viseu"]
 	},
 	{
-		"name": "Ayyubid Caliphate",
+		"name": "Arabia",
 		"leaderName": "Salahuddin Ayubi",
-		"adjective": ["arabian"],
+		"adjective": ["Arabian"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
 		"personality": "Salahuddin Ayubi",
