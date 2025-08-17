@@ -1,37 +1,27 @@
 [
 	{
 		"name": "America",
-
-		"leaderName": "George Washington",
-
+		"leaderName": "Abraham Lincoln",
 		"adjective": ["American"],
-
 		"preferredVictoryType": "Scientific",
-
 		"personality": "George Washington",
 
-"startIntroPart1": "President Washington, we salute you and the proud American civilization! Freed from the British dominion in the 18th century, then cleansed and reborn after a terrible civil war, the United States nation was ready to play its great role in the 20th century. At the height of its power, triumphant after two terrible world wars, United States of America, a land of immigration, opportunities, optimism and determination, has risen above all other weakening nations, unable to equal such power.",
-
-"startIntroPart2": "President Washington, will you show to the world the legitimacy of the American way of life, and spread the flame of liberty to all mankind? Will your new empire shine through the ages of history?",
-
-"declaringWar": "Your wanton aggression leaves us no choice. Prepare for war!",
-
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "Your wanton aggression leaves us no choice. Prepare for war!",
 		"attacked": "You have mistaken our love of peace for weakness. You shall regret this!",
-
 		"defeated": "The day...is yours. I hope you will be merciful in your triumph.",
-
 		"introduction": "The people of the United States of America welcome you.",
 
 		"neutralHello": "Good day.",
-
 		"hateHello": "Well?",
-
 		"tradeRequest": "Is the following trade of interest to you?",
 
-"outerColor": [ 28,51,119],
 
-"innerColor": [255,255,255],
-"favoredReligion": "Christianity",
+		"outerColor": [ 28,51,119],
+		"innerColor": [255,255,255],
+		"favoredReligion": "Christianity",
 
 		"uniqueName": "Manifest Destiny",
 		"uniques": ["[+1] Sight <for [{Military} {Land}] units>",
@@ -43,7 +33,8 @@
 			"Oakland","Tampa Bay","Orlando","Tacoma","Santa Fe","Olympia","Hunt Valley","Springfield","Palo Alto","Centralia",
 			"Spokane","Jacksonville","Savannah","Charleston","San Antonio","Birmingham","Anchorage","Sacramento","Reno",
 			"Salt Lake City","Boise","Milwaukee","Santa Cruz","Little Rock"],
-"spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
+		
+		"spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
 	},
 	{
 		"name": "Principality of Wallachia",
