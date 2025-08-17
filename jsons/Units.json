@@ -113,25 +113,9 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Ayyubian Warrior",
-		"replaces": "Swordsman",
-		"uniqueTo": "Ayyubid Caliphate",
-		"unitType": "Sword",
-		"movement": 2,
-		"strength": 16,
-		"cost": 75,
-		"requiredTech": "Iron Working",
-		"upgradesTo": "Longswordsman",
-		"uniques": ["[+33]% Strength <vs [Siege] units>"],
-		"obsoleteTech": "Steel",
-		"requiredResource": "Iron",
-		"hurryCostModifier": 20,
-		"attackSound": "metalhit"
-	},
-	{
 		"name": "Mangonel",
 		"replaces": "Catapult",
-		"uniqueTo": "Ayyubid Caliphate",
+		"uniqueTo": "Arabia",
 		"unitType": "Siege",
 		"movement": 3,
 		"strength": 5,
@@ -140,7 +124,7 @@
 		"requiredTech": "Mathematics",
 		"obsoleteTech": "Physics",
 		"upgradesTo": "Trebuchet",
-		"uniques": ["[+175]% Strength <vs cities> <when attacking>",
+		"uniques": ["[+225]% Strength <vs cities> <when attacking>",
 			"Must set up to ranged attack", "Never appears as a Barbarian unit"],
 		"hurryCostModifier": 20,
 		"attackSound": "throw"
