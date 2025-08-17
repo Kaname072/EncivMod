@@ -4,7 +4,7 @@
 		"leaderName": "Vlad III",
 		"adjective": ["wallachians"],
 		"startBias": ["Avoid [Snow]"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Cultural",
 		"personality": "Vlad III",
 		
 		"startIntroPart1": "Long ago, we were ruled by traitors, but since the rise of our great Vlad III, we have won our honor and faith against our enemies!",
@@ -189,7 +189,7 @@
 		"outerColor": [0,105,180],
 		"innerColor": [0,186,238],
 		"favoredReligion": "Politeism"
-		"uniqueName": "Hero Lusitanian",
+		"uniqueName": "Heroism Lusitanian",
 		"uniques": ["[+1 Culture] from [Hill] tiles [in this city]",
 			"[+2 Culture, +1 Science] from [Mountain] tiles [in this city]",
 			"[+15]% Strength <when defending> <for [Military] units> <in [Friendly Land] tiles>",
@@ -271,7 +271,7 @@
 		"uniqueName": "Volunteers of the Fatherland",
 		"uniques": ["[-60]% maintenance costs <for [{Military} {Land}] units> <when not at war>",
 			"[+2 Culture] from [Jungle] tiles [in this city]",
-			"[+1 Culture] from [Forest] tiles [in this city]"]
+			"[+1 Culture] from [Coast] tiles [in this city]"]
 		"cities": ["Rio de Janeiro","São Paulo","Salvador","Fortaleza","Florianópolis","Paraíba","Belém",
 			"Teresina","São Vincente","Maceió","Natal","Rio Branco","Macapá","Porto Alegre","João Pessoa","Curitiba"]
 	},
@@ -310,7 +310,6 @@
 		"uniqueName": "The Richness Man in World",
 		"uniques": ["[+1 Gold] from each Trade Route",
 			"[+1 Faith, +1 Happiness] from [{Hill} {Desert}] tiles [in this city]",
-			"[+200]% [Luxury resource] resource production",
 			"[+50]% [Gold] [in all cities] <during a Golden Age>"],
 		"cities": ["Nyeni","Timbuktu","Gao","Walata","Jenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
