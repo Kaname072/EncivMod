@@ -199,7 +199,7 @@
 	{
 		"name": "Ayyubid Caliphate",
 		"leaderName": "Salahuddin Ayubi",
-		"adjective": ["ayyubians"],
+		"adjective": ["arabian"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
 		"personality": "Salahuddin Ayubi",
@@ -228,11 +228,10 @@
 		"outerColor": [255,204,2],
 		"innerColor": [255,255,255],
 		"favoredReligion": "Islam",
-		"uniqueName": "Piety and Honor",
+		"uniqueName": "Ayyubid Dynasty",
 		"uniques": ["When defeating a [{non-[Barbarian]} {Land}] unit, earn [5] Gold and recruit it <with [22]% chance>",
-			"[-15]% Strength <for [Military] units> <when attacking> <vs [{Wounded} {Land}] units>",
-			"[+30]% Strength <for [Military] units> <when defending> <vs [{Wounded} {Land}] units>",
-		"[+1 Happiness] from [Desert] tiles [in this city]"]
+			"[+1 Science] from all [Faith] buildings",
+		"[+2 Food] from [{Desert} {Farm}] tiles [in this city]"]
 		"cities": ["Cairo","Baghdad","Aleppo","Mecca","Damascus","Medina","Hama","Sana'a",
 			"Acre","Sidon","Beirut","Ascalon","Hisn Kayfa","Alexandria","Jerusalem"]
 	},
