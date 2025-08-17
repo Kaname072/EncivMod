@@ -227,13 +227,13 @@
 		"tradeRequest": "My brother, you can accept this?",
 
 		"outerColor": [255,204,2],
-		"innerColor": [255,165,2],
+		"innerColor": [255,125,2],
 		"favoredReligion": "Islam",
 		"uniqueName": "Ayyubid Dynasty",
-		"uniques": ["When defeating a [{non-[Barbarian]} {Land}] unit, earn [5] Gold and recruit it <with [22]% chance>",
+		"uniques": ["[+1 Gold] from each Trade Route",
+			"When defeating a [{non-[Barbarian]} {Land}] unit, earn [20] Gold and recruit it <with [22]% chance>",
 			"[+1 Science, +1 Culture] from all [Faith] buildings",
-		"[+2 Food] from [{Desert} {Farm}] tiles [in this city]",
-		"[+100] [Oil] resource production"]
+		"[+100]% [Oil] resource production"]
 		"cities": ["Cairo","Baghdad","Aleppo","Mecca","Damascus","Medina","Hama","Sana'a",
 			"Acre","Sidon","Beirut","Ascalon","Hisn Kayfa","Alexandria","Jerusalem",
 			"Aden","Yamama","Muscat","Mansura","Bukhara","Fez","Shiraz","Merw","Balkh","Mosul"]
