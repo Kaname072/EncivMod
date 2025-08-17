@@ -243,7 +243,7 @@ ReligionIcons/Dagonism
   offset: 0, 0
   index: -1
 
-gameL1.png
+gameL2.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -286,6 +286,20 @@ LeaderIcons/Salahuddin Ayubi
 LeaderIcons/Viriathus
   rotate: false
   xy: 500, 250
+  size: 250, 250
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Dom Pedro II
+  rotate: false
+  xy: 750, 0
+  size: 250, 250
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Mansa Musa
+  rotate: false
+  xy: 750, 250
   size: 250, 250
   orig: 100, 100
   offset: 0, 0
