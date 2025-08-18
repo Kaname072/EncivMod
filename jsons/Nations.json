@@ -25,8 +25,8 @@
 
 		"uniqueName": "American Freedom",
 		"uniques": ["[+1] Sight <for [{Military} {Land}] units>",
-			"[-50]% Gold cost of acquiring tiles [in all cities]",
-			"Militaristic City-States grant units [4] times as fast when you are at war with a common nation <when number of [Cities] is less than [4]>"],
+			"[+1] Movement <for [Land] units> <in [Foreign Land] tiles>",
+			"[Great General] is earned [50]% faster"],
 		
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
 			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
@@ -308,7 +308,8 @@
 		"innerColor": [246,198,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Volunteers of the Fatherland",
-		"uniques": ["[-60]% maintenance costs <for [{Military} {Land}] units> <when not at war>",
+		"uniques": ["Militaristic City-States grant units [5] times as fast when you are at war with a common nation <when number of [{Military} {Units}] is less than [{Enemy} {Military} {Units}]>",
+			"[-40]% maintenance costs <for [{Military} {Land}] units> <when not at war>",
 			"[+2 Culture] from [Jungle] tiles [in this city]",
 			"[+1 Culture] from [Coast] tiles [in this city]"]
 		"cities": ["Rio de Janeiro","São Paulo","Salvador","Fortaleza","Florianópolis","Paraíba","Belém",
