@@ -269,7 +269,6 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "Ayyubid Dynasty",
 		"uniques": ["[+1 Gold] from each Trade Route",
-			"Free Great Person <when the city is captured>",
 			"[+100]% [Oil] resource production"],
 		"cities": ["Cairo","Baghdad","Aleppo","Mecca","Damascus","Medina","Hama","Sana'a",
 			"Acre","Sidon","Beirut","Ascalon","Hisn Kayfa","Alexandria","Jerusalem",
@@ -308,8 +307,8 @@
 		"innerColor": [246,198,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Volunteers of the Fatherland",
-		"uniques": ["Militaristic City-States grant units [5] times as fast when you are at war with a common nation <when number of [{Military} {Units}] is less than [{Enemy} {Military} {Units}]>",
-			"[-40]% maintenance costs <for [{Military} {Land}] units> <when not at war>",
+		"uniques": ["Militaristic City-States grant units [6] times as fast when you are at war with a common nation <when number of [{Military} {Units}] is less than [12]>",
+			"[-50]% maintenance costs <for [{Military} {Land}] units> <when not at war>",
 			"[+2 Culture] from [Jungle] tiles [in this city]",
 			"[+1 Culture] from [Coast] tiles [in this city]"]
 		"cities": ["Rio de Janeiro","São Paulo","Salvador","Fortaleza","Florianópolis","Paraíba","Belém",
