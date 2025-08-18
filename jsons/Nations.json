@@ -25,7 +25,8 @@
 
 		"uniqueName": "American Freedom",
 		"uniques": ["[+1] Sight <for [{Military} {Land}] units>",
-			"[-50]% Gold cost of acquiring tiles [in all cities]"],
+			"[-50]% Gold cost of acquiring tiles [in all cities]",
+			"Militaristic City-States grant units [4] times as fast when you are at war with a common nation <when number of [Cities] is less than [4]>"],
 		
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
 			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
@@ -268,9 +269,8 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "Ayyubid Dynasty",
 		"uniques": ["[+1 Gold] from each Trade Route",
-			"[+25] Golden Age length",
-			"[+2 Science] from all [Faith] buildings",
-		"[+100]% [Oil] resource production"]
+			"Free Great Person <when the city is captured>",
+			"[+100]% [Oil] resource production"],
 		"cities": ["Cairo","Baghdad","Aleppo","Mecca","Damascus","Medina","Hama","Sana'a",
 			"Acre","Sidon","Beirut","Ascalon","Hisn Kayfa","Alexandria","Jerusalem",
 			"Aden","Yamama","Muscat","Mansura","Bukhara","Fez","Shiraz","Merw","Balkh","Mosul"]
