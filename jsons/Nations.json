@@ -23,7 +23,7 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Christianity",
 
-		"uniqueName": "Manifest Destiny",
+		"uniqueName": "American Freedom",
 		"uniques": ["[+1] Sight <for [{Military} {Land}] units>",
 			"[-50]% Gold cost of acquiring tiles [in all cities]"],
 		
@@ -268,8 +268,8 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "Ayyubid Dynasty",
 		"uniques": ["[+1 Gold] from each Trade Route",
-			"When defeating a [{non-[Barbarian]} {Land}] unit, earn [20] Gold and recruit it <with [22]% chance>",
-			"[+1 Science, +1 Culture] from all [Faith] buildings",
+			"[+25] Golden Age length",
+			"[+2 Science] from all [Faith] buildings",
 		"[+100]% [Oil] resource production"]
 		"cities": ["Cairo","Baghdad","Aleppo","Mecca","Damascus","Medina","Hama","Sana'a",
 			"Acre","Sidon","Beirut","Ascalon","Hisn Kayfa","Alexandria","Jerusalem",
