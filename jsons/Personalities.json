@@ -258,4 +258,34 @@
       "Freedom": 5,
       "Autocracy": 3,
       "Order": 4
+    }
+  },
+  {
+    "name": "Abraham Lincoln",
+    "production": 6,
+    "food": 7,
+    "gold": 8,
+    "science": 8,
+    "culture": 5,
+    "happiness": 7,
+    "faith": 6,
+    "military": 8,
+    "aggressive": 3,
+    "declareWar": 5,
+    "commerce": 8,
+    "diplomacy": 11,
+    "loyal": 9,
+    "expansion": 9,
+    "priorities": {
+      "Tradition": 11,
+      "Liberty": 9,
+      "Honor": 7,
+      "Commerce": 10,
+      "Patronage": 4,
+      "Piety": 3,
+      "Rationalism": 8,
+      "Freedom": 2,
+      "Autocracy": 6,
+      "Order": 3
+  }
 ]
