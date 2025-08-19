@@ -190,7 +190,7 @@
 		"uniqueName": "Divine Protection",
 		"uniques": ["Enemy [Land] units must spend [1] extra movement points when inside your territory <while the empire is happy>",
 		"[+2 Production, +1 Faith] from [Fort] tiles [in this city]",
-		"[+1 Culture] from all [Culture] buildings"]
+		"[+1 Culture] from all [Culture] buildings"],
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe & Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
@@ -309,7 +309,7 @@
 		"uniques": ["Militaristic City-States grant units [3] times as fast when you are at war with a common nation",
 			"[-44]% maintenance costs <for [{Military} {Land}] units> <when not at war>",
 			"[+2 Culture] from [Jungle] tiles [in this city]",
-			"[+1 Culture] from [Coast] tiles [in this city]"]
+			"[+1 Culture] from [Coast] tiles [in this city]"],
 		"cities": ["Rio de Janeiro","São Paulo","Salvador","Fortaleza","Florianópolis","Paraíba","Belém",
 			"Teresina","São Vincente","Maceió","Natal","Rio Branco","Macapá","Porto Alegre","João Pessoa","Curitiba"]
 	},
