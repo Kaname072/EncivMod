@@ -66,8 +66,8 @@
 		"afterPeace": "I dont wanna peace but, this war is starting became interesthing",
 		"tradeRequest": "Accept my offer, my brother",
 
-		"outerColor": [255,255,255],
-		"innerColor": [235,0,0],
+		"outerColor": [126,0,12],
+		"innerColor": [0,82,56],
 		"favoredReligion": "Orthodoxy Christianity",
 		"uniqueName": "Dragon of Wallachia",
 		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]",
@@ -264,8 +264,8 @@
 		"afterPeace": "Hphm!!",
 		"tradeRequest": "My brother, you can accept this?",
 
-		"outerColor": [255,204,2],
-		"innerColor": [255,125,2],
+		"outerColor": [43,88,46],
+		"innerColor": [146,221,10],
 		"favoredReligion": "Islam",
 		"uniqueName": "Ayyubid Dynasty",
 		"uniques": ["[+1 Gold] from each Trade Route",
@@ -277,7 +277,7 @@
 	{
 		"name": "Brazil",
 		"leaderName": "Dom Pedro II",
-		"adjective": ["brazilians"],
+		"adjective": ["brazilian"],
 		"startBias": ["Jungle","Coast"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Dom Pedro II",
@@ -352,5 +352,45 @@
 			"[+50]% [Gold] [in all cities] <during a Golden Age>"],
 		"cities": ["Nyeni","Timbuktu","Gao","Walata","Jenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
+	},
+	{
+		"name": "Sumerians",
+		"leaderName": "Gilgamesh",
+		"adjective": ["sumerian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Gilgamesh",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "Its all or nothing!",
+		"attacked": "I had a vision of it!",
+		"defeated": "Imposible! how you? what demon you are?",
+		"introduction": "Hello strange, i am Great Gilgamesh!",
+		
+		"neutralHello": "Hello again!",
+		"neutralLetsHearIt": ["What you need?"],
+		"neutralNo": ["Haha! No."],
+		"neutralYes": ["Yes! yes! yes!"],
+
+		"hateHello": "What you need now?",
+		"hateLetsHearIt": ["You are lose time!"],
+		"hateNo": ["No! now end it!"],
+		"hateYes": ["Ok! just on!"],
+		
+		"afterPeace": "Why? you have fear?",
+		"tradeRequest": "Commerce! you want?",
+
+		"outerColor": [14,69,179],
+		"innerColor": [226,191,87],
+		"favoredReligion": "Politeism",
+		"uniqueName": "Brave Warriors",
+		"uniques": ["[+15]% Strength <for [Ranged] units>",
+			"[+15]% Strength <for [Mounted] units>]",
+			"City-State territory always counts as friendly territory"],
+		"cities": ["Uruk","Ur","Eridu","Nippur","Lagash","Umma","Adab","Zabalam","Girsu","Nigin","Larsa",
+			"El Obeid","Shuruppak","Abu Salabikh","Kish","Kutha","Djemdet-Nasr","Tell Agrab","Tutub",
+			"Eshnunna"]
 	}
 ]
