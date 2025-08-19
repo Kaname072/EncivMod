@@ -230,5 +230,32 @@
       "Autocracy": 4,
       "Order": 3
     }
-  }
+  },
+  {
+    "name": "Gilgamesh",
+    "production": 6,
+    "food": 5,
+    "gold": 5,
+    "science": 4,
+    "culture": 7,
+    "happiness": 6,
+    "faith": 3,
+    "military": 6,
+    "aggressive": 4,
+    "declareWar": 3,
+    "commerce": 6,
+    "diplomacy": 5,
+    "loyal": 6,
+    "expansion": 6,
+    "priorities": {
+      "Tradition": 3,
+      "Liberty": 7,
+      "Honor": 5,
+      "Commerce": 5,
+      "Patronage": 6,
+      "Piety": 3,
+      "Rationalism": 6,
+      "Freedom": 5,
+      "Autocracy": 3,
+      "Order": 4
 ]
