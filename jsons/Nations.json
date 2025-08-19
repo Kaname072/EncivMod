@@ -71,8 +71,8 @@
 		"favoredReligion": "Orthodoxy Christianity",
 		"uniqueName": "Dragon of Wallachia",
 		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]",
-			"[+33]% Strength <for [Military] units> <vs [{Military} {Wounded}] units>",
-			"[+10]% [Culture] [in cities following our religion]",
+			"[+15]% Strength <for [Military] units> <vs [{Military} {Wounded}] units>",
+			"[+20]% [Culture] [in cities following our religion]",
 			"Cities are razed [2] times as fast"],
 		"cities": ["Târgoviste","Bucharest","Câmpulung","Curtea de Argeș","Brăila","Pitesti",
 		"Buzăo","Drobeta-Turnu Severin","Rãmnicu Vâlcea"]
@@ -187,12 +187,10 @@
 		"outerColor": [255,255,230],
 		"innerColor": [255,216,0],
 		"favoredReligion": "Catholic Christianity",
-		"uniqueName": "Religious Tolerance",
-		"uniques": ["[+1 Faith, +1 Production] from [Fort] tiles [in this city]",
-			"Free Social Policy <upon discovering [Mathematics] technology>",
-			"Free Social Policy <upon discovering [Philosophy] technology>",
-			"Free Social Policy <upon discovering [Theology] technology>",
-		"[+50]% Strength <for [Military] units> <when attacking> <in [City center] tiles>"]
+		"uniqueName": "Divine Protection",
+		"uniques": ["Enemy [Land] units must spend [1] extra movement points when inside your territory <while the empire is happy>",
+		"[+2 Production, +1 Faith] from [Fort] tiles [in this city]",
+		"[+1 Culture] from all [Culture] buildings"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe & Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
