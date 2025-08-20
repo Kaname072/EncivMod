@@ -24,9 +24,9 @@
 		"favoredReligion": "Christianity",
 
 		"uniqueName": "American Freedom",
-		"uniques": ["[+1] Sight <for [{Military} {Land}] units>",
-			"[+1] Movement <for [Land] units> <in [Foreign Land] tiles>",
-			"[Great General] is earned [50]% faster"],
+		"uniques": ["Triggers a [America Election] event <every [10] turns>",
+			"[+1] Sight <for [{Military} {Land}] units>",
+			"[+1] Movement <for [Land] units> <in [Foreign Land] tiles>"],
 		
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
 			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
