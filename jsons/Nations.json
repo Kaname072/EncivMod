@@ -24,7 +24,7 @@
 		"favoredReligion": "Christianity",
 
 		"uniqueName": "American Freedom",
-		"uniques": ["Triggers a [America Election] event <every [10] turns>",
+		"uniques": ["Triggers a [America Election] event <upon entering a new era>",
 			"[+1] Sight <for [{Military} {Land}] units>",
 			"[+1] Movement <for [Land] units> <in [Foreign Land] tiles>"],
 		
@@ -306,7 +306,7 @@
 		"innerColor": [246,198,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Volunteers of the Fatherland",
-		"uniques": ["[2] free [Warrior] units appear <every [2] turns> <during a war>",
+		"uniques": ["Militaristic City-States grant units [4] times as fast when you are at war with a common nation",
 			"[-44]% maintenance costs <for [{Military} {Land}] units> <when not at war>",
 			"[+2 Culture] from [Jungle] tiles [in this city]",
 			"[+1 Culture] from [Coast] tiles [in this city]"],
