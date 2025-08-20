@@ -1,0 +1,18 @@
+[
+  {
+    "name": "America Election",
+    "text" "Choose your partineer!",
+    "choices":[
+      {
+        "text": "Rebublicans",
+        "triggeredUniques":["[+5]% [Faith] [in all cities]","[+10]% [Gold] [in all cities]"],
+      },
+      {
+        "text": "Democrates",
+        "triggeredUniques":["[+10] [Science] [in all cities]","[+10]% [Culture] [in all cities]"]
+      }
+    ]
+  }
+]
+  
+    
