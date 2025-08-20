@@ -1,7 +1,7 @@
 [
   {
     "name": "America Election",
-    "text" "Choose your partineer!",
+    "text": "Choose your partineer!",
     "choices":[
       {
         "text": "Rebublicans",
