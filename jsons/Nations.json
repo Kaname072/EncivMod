@@ -306,7 +306,7 @@
 		"innerColor": [246,198,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Volunteers of the Fatherland",
-		"uniques": ["[2] free [Warrior] units appear <every [2] turns> <for [1] turns> <when at war>",
+		"uniques": ["[2] free [Warrior] units appear <every [2] turns> <during a war>",
 			"[-44]% maintenance costs <for [{Military} {Land}] units> <when not at war>",
 			"[+2 Culture] from [Jungle] tiles [in this city]",
 			"[+1 Culture] from [Coast] tiles [in this city]"],
