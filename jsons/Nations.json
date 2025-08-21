@@ -25,6 +25,7 @@
 
 		"uniqueName": "American Freedom",
 		"uniques": ["Free Social Policy <upon entering a new era>",
+			"Triggers a [Election] event <upon entering a new era>",
 			"[+1] Sight <for [{Military} {Land}] units>",
 			"[+1] Movement <for [Air] units>"],
 		
