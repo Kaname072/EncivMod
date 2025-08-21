@@ -2,7 +2,7 @@
 	{
 		"name": "Kongo Warrior"
 		"replaces": "Spearman",
-		"uniqueTo": "Kongo Kingdom"
+		"uniqueTo": "Kongo"
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 11,
@@ -17,14 +17,14 @@
 	{
 		"name": "Portuguese Gunman",
 		"replaces": "Musketman",
-		"uniqueTo": "Kongo Kingdom",
+		"uniqueTo": "Kongo",
 		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 24,
 		"cost": 150,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
-		"uniques": ["Earn [100]% of killed [All] unit's [Strength] as [Gold]"]
+		"uniques": ["Earn [50]% of killed [All] unit's [Strength] as [Gold]"]
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
 	},
