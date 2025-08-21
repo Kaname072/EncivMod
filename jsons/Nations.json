@@ -6,8 +6,8 @@
 		"preferredVictoryType": "Scientific",
 		"personality": "Abraham Lincoln",
 
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "Abraham Lincoln, the best, Mr. President! You came to power in 1861, winning the American Civil War. You led the United States with enormous glory and power! Your achievements, such as the liberation of slaves, major political changes, and a reshaping of the image of the great red and blue of America, will never be forgotten!",
+		"startIntroPart2": "But could you recreate an Empire of freedom and science as before?",
 		
 		"declaringWar": "Your wanton aggression leaves us no choice. Prepare for war!",
 		"attacked": "You have mistaken our love of peace for weakness. You shall regret this!",
@@ -45,8 +45,8 @@
 		"preferredVictoryType": "Cultural",
 		"personality": "Vlad III",
 		
-		"startIntroPart1": "Long ago, we were ruled by traitors, but since the rise of our great Vlad III, we have won our honor and faith against our enemies!",
-		"startIntroPart2": "We will go all out for glory and victory on our journey with the great Vlad III.",
+		"startIntroPart1": "Vlad III, even after being captured as a prisoner by the Ottomans, his faith and perseverance never wavered! You showed your enemies your strength, faith, courage, and violence; they all ran away just by seeing your face! You showed them that there is already a lord here!",
+		"startIntroPart2": "Long ago, we were ruled by traitors, but since the rise of our great Vlad III, we have won our honor and faith against our enemies!",
 		
 		"declaringWar": "You disrespected God! and disrespected me, prepare to war!",
 		"attacked": "You will pay!",
@@ -85,7 +85,7 @@
 		"preferredVictoryType": "Diplomatic",
 		"personality": "Alfonso I",
 		
-		"startIntroPart1": "With great faith and commerce, we, the Kingdom of Kongo, strengthened with our great majesty Alfonso I.",
+		"startIntroPart1": "Great King Alfonso I! What you endured to attain this throne is just a demonstration of what we are capable of! Even with your brother challenging you to war, you did not back down! And with the help of the five celestial warriors, you established close ties with the great Portuguese, creating rich and prosperous trade routes for our glory! You expanded our Empire and our dreams.",
 		"startIntroPart2": "With our faith in our God, we will go to triumph and glory even with many challenges to face. We will not give up on our path.",
 		
 		"declaringWar": "In Jesus name! you will fall!",
@@ -202,7 +202,7 @@
 		"preferredVictoryType": "Cultural",
 		"personality": "Viriathus",
 		
-		"startIntroPart1": "Oh Great Leader Viriat! with your glorious and sovereignty! you defeats the big Rome Empire with you little but glorious army starts a new day to wake all Lusitanians to us glory!",
+		"startIntroPart1": "Oh Great Leader Viriathus! with your glorious and sovereignty! you defeats the big Rome Empire with you little but glorious army starts a new day to wake all Lusitanians to us glory!",
 		"startIntroPart2": "But you really can to create the Big Lusitanian Nation? you can do it? with us Army, Culture and Glory. We can conquist everything in us way!",
 		
 		"declaringWar": "You will pay for your sins!",
