@@ -1,18 +1,18 @@
 [
   {
-    "name":"America Election",
-    "text":"Choose your partineer!",
+    "name":"Election",
+    "text":"Choose your political bias!",
     "choices":[
       {
         "text": "Rebublicans",
-        "triggeredUniques":["[+5]% [Faith] [in all cities] <for [8] turns>","[+10]% [Gold] [in all cities] <for [8] turns>"],
+        "triggeredUniques": ["[+5]% [Faith] [in all cities] <for [8] turns>","[+10]% [Gold] [in all cities] <for [8] turns>"],
       },
       {
         "text": "Democrates",
-        "triggeredUniques":["[+10] [Science] [in all cities] <for [8] turns>","[+10]% [Culture] [in all cities] <for [8] turns>"]
-      },
-    ],
-  },
+        "triggeredUniques": ["[+10] [Science] [in all cities] <for [8] turns>","[+10]% [Culture] [in all cities] <for [8] turns>"]
+      }
+    ]
+  }
 ]
   
     
