@@ -1,5 +1,5 @@
 
-game.png
+game0.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -14,13 +14,6 @@ NationIcons/Principality of Wallachia
 NationIcons/Kongo
   rotate: false
   xy: 100, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/The Philistines
-  rotate: false
-  xy: 200, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -81,16 +74,9 @@ UnitIcons/Volunteer
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Hangman
+UnitIcons/Rosiori
   rotate: false
   xy: 300, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Goliath
-  rotate: false
-  xy: 700, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -116,20 +102,6 @@ UnitIcons/Elite Warrior
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Ayyubian Warrior
-  rotate: false
-  xy: 600, 200
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Mangonel
-  rotate: false
-  xy: 700, 200
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 UnitIcons/Baloon
   rotate: false
   xy: 0, 300
@@ -137,16 +109,16 @@ UnitIcons/Baloon
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Mandekalu
+UnitIcons/Mali Merchant
   rotate: false
-  xy: 300, 300
+  xy: 200, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Mali Merchant
+UnitIcons/Khopesh
   rotate: false
-  xy: 200, 300
+  xy: 600, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -186,7 +158,14 @@ BuildingIcons/Stone Wall
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Orthodoxy Church
+BuildingIcons/Ziggurat
+  rotate: false
+  xy: 600, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Painted Church
   rotate: false
   xy: 500, 200
   size: 100, 100
@@ -231,13 +210,6 @@ ReligionIcons/Catholic Christianity
 ReligionIcons/Politeism
   rotate: false
   xy: 500, 300
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ReligionIcons/Dagonism
-  rotate: false
-  xy: 600, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
