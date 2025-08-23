@@ -10,32 +10,34 @@
 		"uniques": ["[+2 Production] from [Mountain] tiles [in this city]","Destroyed when the city is captured"]
 	},
 	{
-		"name": "Statue of Dagom",
-		"replaces": "Shrine",
-		"uniqueTo" : "The Philistines",
-		"faith": 1,
-		"cost": 40,
-		"maintenance": 1,
-		"requiredTech": "Pottery",
-		"uniques": ["Removes extra unhappiness from annexed cities",
-			"Only available <when religion is enabled>"]
+		"name": "Ziggurat",
+		"replaces": "Temple",
+		"uniqueTo": "Sumerians",
+		"faith": 2,
+		"culture": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
 	},
 	{
 		"name": "Stone Wall"
 		"replaces": "Walls",
 		"uniqueTo": "The Lusitanians",
 		"cityStrength": 5,
-		"cityHealth": 40,
+		"cityHealth": 50,
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
-		"uniques": ["New [Military] units start with [10] XP [in this city]",
+		"uniques": ["New [Military] units start with [5] XP [in this city]",
 			"Destroyed when the city is captured"]
 	},
 	{
-		"name": "Orthodoxy Church"
+		"name": "Painted Church"
 		"replaces": "Temple",
 		"uniqueTo": "Principality of Wallachia",
-		"faith": 3,
+		"faith": 2,
+		"culture": 2,
 		"requiredBuilding": "Shrine",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
