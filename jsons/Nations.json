@@ -24,7 +24,7 @@
 		"favoredReligion": "Christianity",
 
 		"uniqueName": "American Freedom",
-		"uniques": ["[+1] [Science] per every [150] [Gold]",
+		"uniques": ["[+1 Science] per every [150] [Gold]",
 			"[+100]% [Oil] resource production",
 			"[+25]% Production when constructing [Gold] buildings [in all cities]"],
 		
@@ -112,8 +112,8 @@
 		"uniques": ["[-66]% maintenance costs <for [Portuguese Gunman] units>",
 			"[+1 Culture] from each Trade Route",
 			"[+2 Gold, +1 Faith] from every [Harbor]",
-		"Cannot build [Shrine] building",
-		"Cannot build [Temple] building",],
+			"Cannot build [Shrine]",
+			"Cannot build [Temple]"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
 	},
