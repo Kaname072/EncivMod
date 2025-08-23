@@ -25,8 +25,8 @@
 
 		"uniqueName": "American Freedom",
 		"uniques": ["[+1 Science] per every [200] [Gold]",
-			"[+100]% [Oil] resource production",
-			"[+25]% Production when constructing [Gold] buildings [in all cities]"],
+			"[+25]% Production when constructing [Gold] buildings [in all cities]",
+			"[-10]% cost of adopting new policies",],
 		
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
 			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
@@ -111,9 +111,7 @@
 		"uniqueName": "Portugal Alliance",
 		"uniques": ["[-66]% maintenance costs <for [Portuguese Gunman] units>",
 			"[+1 Culture] from each Trade Route",
-			"[+2 Gold, +1 Faith] from every [Harbor]",
-			"Cannot build [Shrine] [in all cities]",
-			"Cannot build [Temple] [in all cities]"],
+			"[+2 Gold, +1 Faith] from every [Harbor]"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
 	},
@@ -247,7 +245,7 @@
 		"startIntroPart2": "The great Emperor Dom Pedro II would bring Brazilian peace to all civilizations. Great Emperor, will you be able to maintain the great balance of this land? Will you be able to make this nation great and unified? We trust in you! Great Dom Pedro II!",
 		
 		"declaringWar": "You forced me to do it",
-		"attacked": "You will pay!",
+		"attacked": "You have commited a fool mistake!",
 		"defeated": "May God grant me my last wish, peace and prosperity for Brazil...",
 		"introduction": "It seems that great minds are destined to meet",
 		
@@ -270,7 +268,7 @@
 		"uniqueName": "Volunteers of the Fatherland",
 		"uniques": ["[+50]% Production when constructing [Military] units [in all cities] <when at war>",
 			"[-50]% maintenance costs <for [{Military} {Land}] units> <when not at war>",
-			"[+25]% [Culture] [in all cities] <during a Golden Age>"],
+			"[+50]% [Culture] [in all cities] <during a Golden Age>"],
 		"cities": ["Rio de Janeiro","São Paulo","Salvador","Fortaleza","Florianópolis","Paraíba","Belém",
 			"Teresina","São Vincente","Maceió","Natal","Rio Branco","Macapá","Porto Alegre","João Pessoa","Curitiba"]
 	},
@@ -347,8 +345,11 @@
 		"favoredReligion": "Politeism",
 		"uniqueName": "The Epic of Gilgamesh",
 		"uniques": ["Free Great Person <upon discovering [Writing] technology>",
-		"Gain [100] [Culture] <upon expending a [Great Person] unit> <(modified by game speed)>",
-		"[+20]% Great Person generation [in capital]"],
+			"Gain [100] [Culture] <upon expending a [Great Person] unit> <during [Ancient era]> <hidden from users>",
+			"Gain [150] [Culture] <upon expending a [Great Person] unit> <during [Classical era]> <hidden from users>",
+			"Gain [200] [Culture] <upon expending a [Great Person] unit> <during [Renaissance era]> <hidden from users>",
+			"Comment [When expending a Great Person, you will receive a +100 Culture (you gain more +50 Culture for Era,before Medieval era)]",
+			"[+10]% Great Person generation [in capital]"]
 		"cities": ["Uruk","Ur","Eridu","Nippur","Lagash","Umma","Adab","Zabalam","Girsu","Nigin","Larsa",
 			"El Obeid","Shuruppak","Abu Salabikh","Kish","Kutha","Djemdet-Nasr","Tell Agrab","Tutub",
 			"Eshnunna"]
