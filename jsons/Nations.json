@@ -116,45 +116,6 @@
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
 	},
 	{
-		"name": "The Philistines",
-		"leaderName": "King Achish",
-		"adjective": ["philistines"],
-		"startBias": ["Coast"],
-		"preferredVictoryType": "Domination",
-		"personality": "King Achish",
-		
-		"startIntroPart1": "Coming from the Aegean Sea, we were condemned to lose in many wars! But with our new weapon of war, GOLIATH! We will never lose again! We will not fear any civilization or Empire",
-		"startIntroPart2": "Our golden age will reign over every corner of this world! The Great King Achish! Destroy all our enemies!",
-		
-		"declaringWar": "You faith is weak! prepare to war!",
-		"attacked": "Really? ok.",
-		"defeated": "Thas is ridiculous! we vanish!",
-		"introduction": "Another civilization? hello.",
-		
-		"neutralHello": "Hey brother! what you mean?",
-		"neutralLetsHearIt": ["What you need something?"],
-		"neutralNo": ["No."],
-		"neutralYes": ["Yes.","Thats good for us"],
-
-		"hateHello": "I angry with you!",
-		"hateLetsHearIt": ["GO ON!"],
-		"hateNo": ["NO! NO! NO!"],
-		"hateYes": ["Ok, just now"],
-		
-		"afterPeace": "We back again!",
-		"tradeRequest": "Accept my offer?",
-
-		"outerColor": [255,242,213],
-		"innerColor": [132,0,0],
-		"favoredReligion": "Dagonism",
-		"uniqueName": "Dagom Blesses",
-		"uniques": ["[+100]% [Iron] resource production",
-			"[+1 Faith] from [Fish] tiles [in this city]",
-			"[+33]% Strength <for [Siege] units> <vs [Cities]>"],
-		"cities": ["Gath","Ashkalon","Ashdod","Gaza","Ekron","Libnah","Azekah","Sharuhen",
-			"Gerar","Azor","Tel Qasila","Aphek","Gibbethon","Yurza"]
-	},
-	{
 		"name": "Jerusalem Kingdom",
 		"leaderName": "Baldwin IV",
 		"adjective": ["jerusalem"],
@@ -383,11 +344,10 @@
 		"outerColor": [14,69,179],
 		"innerColor": [226,191,87],
 		"favoredReligion": "Politeism",
-		"uniqueName": "Brave Adventure",
-		"uniques": ["[+1] Sight <for [Ranged] units>",
-			"[+15]% Strength <for [Ranged] units>",
-			"[+150 Culture] for discovering a Natural Wonder (bonus enhanced to [+350 Culture] if first to discover it)",
-			"City-State territory always counts as friendly territory"],
+		"uniqueName": "The Epic of Gilgamesh",
+		"uniques": ["Free Great Person <upon discovering [Writing]>",
+		"Gain [100] [Culture] <upon expending a [Great Person] unit> <(modified by game speed)>",
+		"[+25%] Great Person generation"],
 		"cities": ["Uruk","Ur","Eridu","Nippur","Lagash","Umma","Adab","Zabalam","Girsu","Nigin","Larsa",
 			"El Obeid","Shuruppak","Abu Salabikh","Kish","Kutha","Djemdet-Nasr","Tell Agrab","Tutub",
 			"Eshnunna"]
