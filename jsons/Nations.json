@@ -24,9 +24,9 @@
 		"favoredReligion": "Christianity",
 
 		"uniqueName": "American Freedom",
-		"uniques": ["[+4 Science] from [Uranium] tiles [in all cities]",
-			"[+1] Sight <for [{Military} {Land}] units>",
-			"[+20]% Production when constructing [Gold] buildings [in all cities]"],
+		"uniques": ["[+1] [Science] per [250] [Gold]",
+			"[+100]% [Oil] resource production",
+			"[+25]% Production when constructing [Gold] buildings [in all cities]"],
 		
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
 			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
@@ -198,7 +198,7 @@
 		"leaderName": "Salahuddin Ayubi",
 		"adjective": ["Arabian"],
 		"startBias": ["Desert"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Scientific",
 		"personality": "Salahuddin Ayubi",
 		
 		"startIntroPart1": "God bless you! Great Salahuddin! you empire and caliphate is the big and better of this lands! in crusades your army fight with glory to rescue Jerusalem City from Papal States! and now you earned the city on you hands!",
@@ -227,7 +227,7 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "Ayyubid Dynasty",
 		"uniques": ["[+1 Gold] from each Trade Route",
-			"[+15]% [Science] [in all cities] <while the empire is happy>",
+			"[+25]% [Science] [in all cities] <while the empire is happy>",
 			"[+100]% [Oil] resource production"],
 		"cities": ["Cairo","Baghdad","Aleppo","Mecca","Damascus","Medina","Hama","Sana'a",
 			"Acre","Sidon","Beirut","Ascalon","Hisn Kayfa","Alexandria","Jerusalem",
@@ -268,8 +268,7 @@
 		"uniqueName": "Volunteers of the Fatherland",
 		"uniques": ["[+50]% Production when constructing [Military] units [in all cities] <when at war>",
 			"[-50]% maintenance costs <for [{Military} {Land}] units> <when not at war>",
-			"[+2 Culture] from [Jungle] tiles [in this city]",
-			"[+1 Culture] from [River] tiles [in this city]"],
+			"[+25]% [Culture] [in all cities] <during a Golden Age>"],
 		"cities": ["Rio de Janeiro","São Paulo","Salvador","Fortaleza","Florianópolis","Paraíba","Belém",
 			"Teresina","São Vincente","Maceió","Natal","Rio Branco","Macapá","Porto Alegre","João Pessoa","Curitiba"]
 	},
@@ -345,9 +344,9 @@
 		"innerColor": [226,191,87],
 		"favoredReligion": "Politeism",
 		"uniqueName": "The Epic of Gilgamesh",
-		"uniques": ["Free Great Person <upon discovering [Writing]>",
+		"uniques": ["Free Great Person <upon discovering [Writing] technology>",
 		"Gain [100] [Culture] <upon expending a [Great Person] unit> <(modified by game speed)>",
-		"[+25%] Great Person generation"],
+		"[+50%] Great Person generation [in capital]"],
 		"cities": ["Uruk","Ur","Eridu","Nippur","Lagash","Umma","Adab","Zabalam","Girsu","Nigin","Larsa",
 			"El Obeid","Shuruppak","Abu Salabikh","Kish","Kutha","Djemdet-Nasr","Tell Agrab","Tutub",
 			"Eshnunna"]
