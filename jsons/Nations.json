@@ -112,8 +112,8 @@
 		"uniques": ["[-66]% maintenance costs <for [Portuguese Gunman] units>",
 			"[+1 Culture] from each Trade Route",
 			"[+2 Gold, +1 Faith] from every [Harbor]",
-		"Cannot build [Shrine] buildings",
-		"Cannot build [Temple] buildings",],
+		"Cannot build [Shrine] building",
+		"Cannot build [Temple] building",],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
 	},
@@ -348,7 +348,7 @@
 		"uniqueName": "The Epic of Gilgamesh",
 		"uniques": ["Free Great Person <upon discovering [Writing] technology>",
 		"Gain [100] [Culture] <upon expending a [Great Person] unit> <(modified by game speed)>",
-		"[+50]% Great Person generation [in capital]"],
+		"[+20]% Great Person generation [in capital]"],
 		"cities": ["Uruk","Ur","Eridu","Nippur","Lagash","Umma","Adab","Zabalam","Girsu","Nigin","Larsa",
 			"El Obeid","Shuruppak","Abu Salabikh","Kish","Kutha","Djemdet-Nasr","Tell Agrab","Tutub",
 			"Eshnunna"]
