@@ -66,7 +66,7 @@
 		"uniqueTo": "Jerusalem Kingdom",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 23,
+		"strength": 25,
 		"cost": 120,
 		"requiredTech": "Steel",
 		"upgradesTo": "Musketman",
@@ -86,7 +86,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["[+10]% Strength bonus for [Land] units within [1] tiles",
+		"uniques": ["[+15]% Strength bonus for [Land] units within [1] tiles",
 			"Can move after attacking",
 			"No defensive terrain bonus",
 			"[-33]% Strength <vs cities> <when attacking>" ],
@@ -128,10 +128,11 @@
 		"uniqueTo": "Brazil"
 		"movement": 3,
 		"strength": 15,
-		"cost": 50,
+		"cost": 60,
+		"upgradesTo": "Helicopter Gunship",
 		"requiredTech": "Mathematics",
 		"obsoleteTech": "Computers",
-		"uniques": ["[+100]% Strength <after discovering [Chemistry]>","[+1] Sight","Invisible to non-adjacent units <in [Open terrain] tiles>",
+		"uniques": ["[+100]% Strength <after discovering [Chemistry]>","[+2] Sight","Invisible to non-adjacent units <in [Open terrain] tiles>",
 		"Never appears as a Barbarian unit"]
 		"attackSound": "cannon"
 	},
@@ -140,25 +141,10 @@
 		"replaces": "Great Merchant",
 		"uniqueTo": "Mali",
 		"unitType": "Civilian",
-		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [50] Influence",
+		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [60] Influence",
             "Can instantly construct a [Customs house] improvement <by consuming this unit>",
             "Is part of Great Person group [Great Person]",
 			"Great Person - [Gold]", "Unbuildable", "Uncapturable"],
 		"movement": 2
-	},
-	{
-		"name": "Mandekalu Cavalry",
-		"unitType": "Mounted",
-		"replaces": "Knight",
-		"uniqueTo": "Mali",
-		"movement": 4,
-		"strength": 20,
-		"cost": 110,
-		"requiredTech": "Chivalry",
-		"requiredResource": "Horses",
-		"upgradesTo": "Cavalry",
-		"obsoleteTech": "Military Science",
-		"uniques": ["Can move after attacking","No defensive terrain bonus"],
-		"attackSound": "horse"
 	}
 ]
