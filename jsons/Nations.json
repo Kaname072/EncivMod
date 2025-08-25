@@ -26,7 +26,7 @@
 		"uniqueName": "American Freedom",
 		"uniques": ["[+1 Science] per every [200] [Gold]",
 			"[+25]% Production when constructing [Gold] buildings [in all cities]",
-			"[-10]% cost of adopting new policies"],
+			"[-10]% Culture cost of adopting new Policies"],
 		
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
 			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
@@ -149,7 +149,7 @@
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Divine Protection",
 		"uniques": ["Enemy [Land] units must spend [1] extra movement points when inside your territory <while the empire is happy>",
-			"[+2 Food, +1 Science] [in all cities following our religion]",
+			"[+2 Food, +1 Science] [in cities following our religion]",
 			"Starts with [Archery]"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe & Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
@@ -227,7 +227,7 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "Ayyubid Dynasty",
 		"uniques": ["[+1 Gold] from each Trade Route",
-			"[+15]% [Science] [in all cities following our religion] <while the empire is happy>",
+			"[+15]% [Science] [in cities following our religion] <while the empire is happy>",
 			"[+100]% [Oil] resource production"],
 		"cities": ["Cairo","Baghdad","Aleppo","Mecca","Damascus","Medina","Hama","Sana'a",
 			"Acre","Sidon","Beirut","Ascalon","Hisn Kayfa","Alexandria","Jerusalem",
@@ -306,7 +306,7 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "The Richness Man in World",
 		"uniques": ["[+1 Gold] from each Trade Route",
-			"[+1 Faith, +1 Happiness] from [{Hill} {Desert}] tiles [in this city]",
+			"[+1] Movement <for [Mounted] units>",
 			"[+50]% [Gold] [in all cities] <during a Golden Age>"],
 		"cities": ["Nyeni","Timbuktu","Gao","Walata","Jenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
