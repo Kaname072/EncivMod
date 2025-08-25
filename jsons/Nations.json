@@ -26,7 +26,7 @@
 		"uniqueName": "American Freedom",
 		"uniques": ["[+1 Science] per every [200] [Gold]",
 			"[+25]% Production when constructing [Gold] buildings [in all cities]",
-			"[-10]% cost of adopting new policies",],
+			"[-10]% cost of adopting new policies"],
 		
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
 			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
@@ -127,7 +127,7 @@
 		"startIntroPart2": "God bless Jerusalem and its followers. Do not fear before God's holy kingdom"
 		
 		"declaringWar": "My tolerance with you is over!",
-		"attacked": "You will pay!",
+		"attacked": "Well, i really do it?",
 		"defeated": "That is shame, the evil forces never wins the holy kingdom. you will pay for this",
 		"introduction": "Do not fear",
 		
@@ -148,9 +148,9 @@
 		"innerColor": [255,216,0],
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Divine Protection",
-		"uniques": ["Enemy [Land] units must spend [1] extra movement points when inside your territory <before adopting [Rationalism]>",
-			"[+2 Production, +1 Faith] from [Fort] tiles [in this city]",
-		"[+1 Culture] from all [Faith] buildings"],
+		"uniques": ["Enemy [Land] units must spend [1] extra movement points when inside your territory <while the empire is happy>",
+			"Gain [+100] [Culture <upon expending a [Great General] unit>",
+			"Starts with [Archery]"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe & Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
@@ -227,7 +227,7 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "Ayyubid Dynasty",
 		"uniques": ["[+1 Gold] from each Trade Route",
-			"[+25]% [Science] [in all cities] <while the empire is happy>",
+			"[+15]% [Science] [in all cities] <while the empire is happy>",
 			"[+100]% [Oil] resource production"],
 		"cities": ["Cairo","Baghdad","Aleppo","Mecca","Damascus","Medina","Hama","Sana'a",
 			"Acre","Sidon","Beirut","Ascalon","Hisn Kayfa","Alexandria","Jerusalem",
@@ -345,10 +345,7 @@
 		"favoredReligion": "Politeism",
 		"uniqueName": "The Epic of Gilgamesh",
 		"uniques": ["Free Great Person <upon discovering [Writing] technology>",
-			"Gain [100] [Culture] <upon expending a [Great Person] unit> <during [Ancient era]> <hidden from users>",
-			"Gain [150] [Culture] <upon expending a [Great Person] unit> <during [Classical era]> <hidden from users>",
-			"Gain [200] [Culture] <upon expending a [Great Person] unit> <during [Renaissance era]> <hidden from users>",
-			"Comment [When expending a Great Person, you will receive a +100 Culture (you gain more +50 Culture for Era,before Medieval era)]",
+			"Gain [100] [Culture] <upon expending a [Great Person] unit> <(modified by game speed)>",
 			"[+10]% Great Person generation [in capital]"]
 		"cities": ["Uruk","Ur","Eridu","Nippur","Lagash","Umma","Adab","Zabalam","Girsu","Nigin","Larsa",
 			"El Obeid","Shuruppak","Abu Salabikh","Kish","Kutha","Djemdet-Nasr","Tell Agrab","Tutub",
