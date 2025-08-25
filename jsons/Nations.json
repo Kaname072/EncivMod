@@ -149,7 +149,7 @@
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Divine Protection",
 		"uniques": ["Enemy [Land] units must spend [1] extra movement points when inside your territory <while the empire is happy>",
-			"Gain [+100] [Culture <upon expending a [Great General] unit>",
+			"[+2 Food, +1 Science] [in all cities following our religion]",
 			"Starts with [Archery]"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe & Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
@@ -227,7 +227,7 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "Ayyubid Dynasty",
 		"uniques": ["[+1 Gold] from each Trade Route",
-			"[+15]% [Science] [in all cities] <while the empire is happy>",
+			"[+15]% [Science] [in all cities following our religion] <while the empire is happy>",
 			"[+100]% [Oil] resource production"],
 		"cities": ["Cairo","Baghdad","Aleppo","Mecca","Damascus","Medina","Hama","Sana'a",
 			"Acre","Sidon","Beirut","Ascalon","Hisn Kayfa","Alexandria","Jerusalem",
@@ -345,8 +345,8 @@
 		"favoredReligion": "Politeism",
 		"uniqueName": "The Epic of Gilgamesh",
 		"uniques": ["Free Great Person <upon discovering [Writing] technology>",
-			"Gain [100] [Culture] <upon expending a [Great Person] unit> <(modified by game speed)>",
-			"[+10]% Great Person generation [in capital]"]
+			"[+10]% Great Person generation [in capital]",
+			"[+1 Food] from [{River} {non-[Wheat]} {non-[Flood plains]}] [in this city]"],
 		"cities": ["Uruk","Ur","Eridu","Nippur","Lagash","Umma","Adab","Zabalam","Girsu","Nigin","Larsa",
 			"El Obeid","Shuruppak","Abu Salabikh","Kish","Kutha","Djemdet-Nasr","Tell Agrab","Tutub",
 			"Eshnunna"]
