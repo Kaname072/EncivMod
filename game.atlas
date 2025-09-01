@@ -151,6 +151,13 @@ UnitIcons/Celestial Warrior
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Portuguese Caravel
+  rotate: false
+  xy: 400, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ImprovementIcons/Aztecs Pyramid
   rotate: false
   xy: 700, 100
