@@ -4,14 +4,14 @@
     "uniqueTo": "Aztecs",
 		"terrainsCanBeBuiltOn": ["Jungle"],
 	  "faith": 2,
-	  "food" 1,
+	  "food": 1,
 		"turnsToBuild": 10,
 		"techRequired": "Masonry",
 		"uniques": ["[+2 Culture] <after discovering [Theology]>",
 			"Unbuildable <after discovering [Theology]>",
 			"Gives a defensive bonus of [10]%",
             "Will not be replaced by automated units",
-		"Unpillagable",
+			"Unpillagable",
 			"Does not need removal of [Jungle]"]
   }
 ]
