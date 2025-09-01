@@ -1,20 +1,17 @@
 [
   {
-    "name": "Impaled Bodies",
-    "uniqueTo": "Principality of Wallachia",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow"],
-	  "food":-1,
-		"turnsToBuild": 2,
-		"techRequired": "Iron Working",
-		"uniques": ["[+2 Culture] <after discovering [Archaeology]>",
-			"Unbuildable <for [Worker] units>",
-			"Gives a defensive bonus of [30]%",
-			"Adjacent enemy units ending their turn take [30] damage",
-			"Can be built outside your borders",
-			"Removes removable features when built",
+    "name": "Aztecs Pyramid",
+    "uniqueTo": "Aztecs",
+		"terrainsCanBeBuiltOn": ["Jungle"],
+	  "faith": 2,
+	  "food" 1,
+		"turnsToBuild": 10,
+		"techRequired": "Masonry",
+		"uniques": ["[+2 Culture] <after discovering [Theology]>",
+			"Unbuildable <after discovering [Theology]>",
+			"Gives a defensive bonus of [10]%",
             "Will not be replaced by automated units",
 		"Unpillagable",
-		"Does not need removal of [Forest]",
 			"Does not need removal of [Jungle]"]
   }
 ]
