@@ -117,7 +117,7 @@
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
 	{
-		"name": "The Lusitanians",
+		"name": "Lusitanians",
 		"leaderName": "Viriathus",
 		"adjective": ["Lusitanians"],
 		"startBias": ["Hill"],
@@ -147,53 +147,12 @@
 
 		"outerColor": [0,105,180],
 		"innerColor": [0,186,238],
-		"favoredReligion": "Politeism"
 		"uniqueName": "Heroism Lusitanian",
 		"uniques": ["[+1 Culture] from [Hill] tiles [in this city]",
 			"[+1 Culture] from [Hill] tiles [in this city] <after discovering [Steel]>",
 			"[{Military} {Sword}] units gain the [Formation I] promotion",
 		"\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Viseu"]
-	},
-	{
-		"name": "Arabia",
-		"leaderName": "Salahuddin Ayubi",
-		"adjective": ["Arabian"],
-		"startBias": ["Desert"],
-		"preferredVictoryType": "Scientific",
-		"personality": "Salahuddin Ayubi",
-		
-		"startIntroPart1": "God bless you! Great Salahuddin! you empire and caliphate is the big and better of this lands! in crusades your army fight with glory to rescue Jerusalem City from Papal States! and now you earned the city on you hands!",
-		"startIntroPart2": "Now you can make the big caliphate again? can make us big and stronger again? oh god! you can do it? YES! is now or never!",
-		
-		"declaringWar": "You are dead man!",
-		"attacked": "You are disgusting!",
-		"defeated": "I can believe on it...",
-		"introduction": "New people here? well, hello.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["You need something?"],
-		"neutralNo": ["I can't!","Sorry, no"],
-		"neutralYes": ["Yes.","Thats good for me"],
-
-		"hateHello": "No you here.",
-		"hateLetsHearIt": ["You dont listening what i say?!"],
-		"hateNo": ["Thats is imposiple now!"],
-		"hateYes": ["yes."],
-		
-		"afterPeace": "Hphm!!",
-		"tradeRequest": "My brother, you can accept this?",
-
-		"outerColor": [43,88,46],
-		"innerColor": [146,221,10],
-		"favoredReligion": "Islam",
-		"uniqueName": "Ayyubid Dynasty",
-		"uniques": ["[+1 Gold] from each Trade Route",
-			"[+15]% [Science] [in all cities] <while the empire is happy>",
-			"[+100]% [Oil] resource production"],
-		"cities": ["Cairo","Baghdad","Aleppo","Mecca","Damascus","Medina","Hama","Sana'a",
-			"Acre","Sidon","Beirut","Ascalon","Hisn Kayfa","Alexandria","Jerusalem",
-			"Aden","Yamama","Muscat","Mansura","Bukhara","Fez","Shiraz","Merw","Balkh","Mosul"]
 	},
 	{
 		"name": "Brazil",
