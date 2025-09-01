@@ -111,7 +111,7 @@
 		"uniqueName": "Portugal Alliance",
 		"uniques": ["[-66]% maintenance costs <for [Portuguese Gunman] units>",
 			"[+1 Culture] from each Trade Route",
-			"[+2 Gold, +1 Faith] from every [Harbor]"],
+			"[+2 Gold, +1 Faith] from every [Harbor]",],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
 	},
