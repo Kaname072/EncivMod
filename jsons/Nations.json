@@ -1,43 +1,5 @@
 [
 	{
-		"name": "America",
-		"leaderName": "Abraham Lincoln",
-		"adjective": ["American"],
-		"preferredVictoryType": "Scientific",
-		"personality": "Abraham Lincoln",
-
-		"startIntroPart1": "Abraham Lincoln, the best, Mr. President! You came to power in 1861, winning the American Civil War. You led the United States with enormous glory and power! Your achievements, such as the liberation of slaves, major political changes, and a reshaping of the image of the great red and blue of America, will never be forgotten!",
-		"startIntroPart2": "But could you recreate an Empire of freedom and science as before?",
-		
-		"declaringWar": "Your wanton aggression leaves us no choice. Prepare for war!",
-		"attacked": "You have mistaken our love of peace for weakness. You shall regret this!",
-		"defeated": "The day...is yours. I hope you will be merciful in your triumph.",
-		"introduction": "The people of the United States of America welcome you.",
-
-		"neutralHello": "Good day.",
-		"hateHello": "Well?",
-		"tradeRequest": "Is the following trade of interest to you?",
-
-
-		"outerColor": [ 28,51,119],
-		"innerColor": [255,255,255],
-		"favoredReligion": "Christianity",
-
-		"uniqueName": "American Freedom",
-		"uniques": ["[+1 Science] per every [200] [Gold]",
-			"[+25]% Production when constructing [Gold] buildings [in all cities]",
-			"[-10]% Culture cost of adopting new Policies"],
-		
-		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
-			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
-			"Cleveland","Kansas City","San Diego","Richmond","Las Vegas","Phoenix","Albuquerque","Minneapolis","Pittsburgh",
-			"Oakland","Tampa Bay","Orlando","Tacoma","Santa Fe","Olympia","Hunt Valley","Springfield","Palo Alto","Centralia",
-			"Spokane","Jacksonville","Savannah","Charleston","San Antonio","Birmingham","Anchorage","Sacramento","Reno",
-			"Salt Lake City","Boise","Milwaukee","Santa Cruz","Little Rock"],
-		
-		"spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
-	},
-	{
 		"name": "Principality of Wallachia",
 		"leaderName": "Vlad III",
 		"adjective": ["wallachians"],
@@ -70,8 +32,8 @@
 		"innerColor": [0,110,56],
 		"favoredReligion": "Orthodoxy Christianity",
 		"uniqueName": "Dragon of Wallachia",
-		"uniques": ["Earn [60]% of killed [Military] unit's [Strength] as [Faith]",
-			"[+30]% Strength <for [Mounted] units> <vs [Land] units>",
+		"uniques": ["Earn [75]% of killed [Military] unit's [Strength] as [Faith]",
+			"[+50]% [Faith] [in all cities] <during a Golden Age>",
 			"Cities are razed [2] times as fast"],
 		"cities": ["Târgoviste","Bucharest","Câmpulung","Curtea de Argeș","Brăila","Pitesti",
 		"Buzăo","Drobeta-Turnu Severin","Rãmnicu Vâlcea"]
@@ -111,7 +73,7 @@
 		"uniqueName": "Portugal Alliance",
 		"uniques": ["[-66]% maintenance costs <for [Portuguese Gunman] units>",
 			"[+1 Culture] from each Trade Route",
-			"[+25%] [Gold] from every [Harbor]",
+			"[+5 Gold, +2 Culture] from every [Harbor]",
 			"Comment [Cannot can found a religion]"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
@@ -347,7 +309,7 @@
 		"uniqueName": "The Epic of Gilgamesh",
 		"uniques": ["Free Great Person <upon discovering [Writing] technology>",
 			"[+10]% Great Person generation [in all cities]",
-			"[+2 Food] from [Lakes] [in this city]"],
+			"[+2 Food] from [Lakes] tiles [in this city]"],
 		"cities": ["Uruk","Ur","Eridu","Nippur","Lagash","Umma","Adab","Zabalam","Girsu","Nigin","Larsa",
 			"El Obeid","Shuruppak","Abu Salabikh","Kish","Kutha","Djemdet-Nasr","Tell Agrab","Tutub",
 			"Eshnunna"]
