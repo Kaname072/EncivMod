@@ -13,7 +13,7 @@
 		"declaringWar": "You disrespected God! and disrespected me, prepare to war!",
 		"attacked": "You will pay!",
 		"defeated": "Oh no! thats is not happening! my glory! my faith! what's happened here!?",
-		"introduction": "We are Wallachians! God bless you. you have some faith in us God?",
+		"introduction": "God bless you.",
 		
 		"neutralHello": "Hello",
 		"neutralLetsHearIt": ["You need something?"],
@@ -148,11 +148,11 @@
 		"outerColor": [0,105,180],
 		"innerColor": [0,186,238],
 		"uniqueName": "Heroism Lusitanian",
-		"uniques": ["[+1 Culture] from [Hill] tiles [in this city]",
-			"[+1 Culture] from [Hill] tiles [in this city] <after discovering [Steel]>",
-			"[{Military} {Sword}] units gain the [Formation I] promotion",
-		"\"Borrows\" city names from other civilizations in the game"],
-		"cities": ["Viseu"]
+		"uniques": ["[+2 Culture] from [Forest] tiles [in this city]",
+			"[+1 Culture] from [Hill] tiles [in this city]",
+			"[{Military} {Sword}] units gain the [Formation I] promotion"],
+		"cities": ["Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
+		"Caetobriga","Metellinum","Igaeditanorum"]
 	},
 	{
 		"name": "Brazil",
@@ -228,7 +228,7 @@
 		"uniqueName": "The Richness Man in World",
 		"uniques": ["[+1 Gold] from each Trade Route",
 			"[+50]% [Gold] [in all cities] <during a Golden Age>",
-			"[+2] Movement <for [Mounted] units> <in [Enemy Land] tiles>"],
+			"[+1] Movement <for [Mounted] units> <in [Enemy Land] tiles>"],
 		"cities": ["Nyeni","Timbuktu","Gao","Walata","Djenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
 	},
@@ -307,5 +307,43 @@
 		"uniques": ["[+50]% [Happiness] [in annexed cities]"],
 		"cities": ["Pella","Atheus","Granicus","Ephesos","Halicarnassus","Gordion","Ancyra","Issus","Alexandria","Damascus",
 			"Tyre","Gaza","Nisibis","Gaugamela","Persepolis","Pattala","Rhambacia"]
+	},
+	{
+		"name": "Portugal",
+		"leaderName": "Dom João III",
+		"adjective": ["portuguese"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Dom João III",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "Your are no fit to control a nation!",
+		"attacked": "I'll don't have mercy too!",
+		"defeated": "Portugal, you people we need to be strong! be strong! God bless Portugal...",
+		"introduction": "Good Morning, Sir!",
+		
+		"neutralHello": "Hello",
+		"neutralLetsHearIt": ["Wow?"],
+		"neutralNo": ["I refuse"],
+		"neutralYes": ["That's nice to us"],
+
+		"hateHello": "I dont wanna talk.",
+		"hateLetsHearIt": ["Hey! what i said?"],
+		"hateNo": ["No, friend!"],
+		"hateYes": ["I do"],
+		
+		"afterPeace": "I just do it",
+		"tradeRequest": "Portugal need you decision",
+
+		"outerColor": [255,0,0],
+		"innerColor": [0,106,0],
+		"favoredReligion": "Catholic Christianity",
+		"uniqueName": "Great Navigations",
+		"uniques": ["[+1] Movement <for [Water] units>",
+			"[+2 Production, +1 Gold] [in coastal cities]",
+			"[+1 Gold] from each Trade Route <after discovering [Navigation]>"],
+		"cities": ["Lisboa"]
 	}
 ]
