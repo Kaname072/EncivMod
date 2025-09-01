@@ -137,6 +137,20 @@ UnitIcons/Khopesh Warrior
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Gladius
+  rotate: false
+  xy: 700, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Celestial Warrior
+  rotate: false
+  xy: 300, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ImprovementIcons/Aztecs Pyramid
   rotate: false
   xy: 700, 100
