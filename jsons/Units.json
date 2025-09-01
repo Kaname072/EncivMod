@@ -6,12 +6,12 @@
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 11,
-		"cost": 42,
+		"cost": 45,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>",
-			"[+33]% Strength <vs [Ranged] units>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"promotions": ["Cover I"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -86,7 +86,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["[+15]% Strength bonus for [Land] units within [1] tiles",
+		"uniques": ["[+10]% Strength bonus for [Land] units within [2] tiles",
 			"Can move after attacking",
 			"No defensive terrain bonus",
 			"[-33]% Strength <vs cities> <when attacking>" ],
@@ -103,7 +103,7 @@
 		"cost": 60,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
-		"uniques": ["Invisible to non-adjacent units <in [Forest] tiles>"],
+		"uniques": ["Invisible to non-adjacent units <in [Hill] tiles>"],
 		"obsoleteTech": "Steel",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
@@ -114,11 +114,11 @@
 		"uniqueTo": "Brazil",
 		"unitType": "Gunpowder",
 		"movement": 2,
-		"strength": 25,
-		"cost": 125,
+		"strength": 24,
+		"cost": 135,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
-		"uniques": ["[+1] Movement <in [Foreign Land] tiles>"]
+		"uniques": ["Ignore terrain cost <in [Foreign Land] tiles>"]
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
 	},
@@ -146,5 +146,22 @@
             "Is part of Great Person group [Great Person]",
 			"Great Person - [Gold]", "Unbuildable", "Uncapturable"],
 		"movement": 2
+	},
+	{
+		"name": "Celestial Warrior",
+		"replaces": "Great Prophet"
+		"uniqueTo": "Kongo",
+		"unitType": "Civilian",
+		"uniques": [
+            "Can instantly construct a [Holy site] improvement <by consuming this unit> <if it hasn't used other actions yet>",
+            "Can Spread Religion <for [2] movement> <[4] times> <after which this unit is consumed>",
+			"Removes other religions when spreading religion",
+            "Invisible to non-adjacent units",
+            "Is part of Great Person group [Prophet]",
+			"May enter foreign tiles without open borders", "Great Person - [Faith]",
+			"Unbuildable", "Religious Unit", "Only available <when religion is enabled>",
+			"Can be earned through combat","Ignore terrain cost","[+30]% Strength bonus for [Military] units within [2] tiles"],
+		"movement": 2,
+		"religiousStrength": 1000
 	}
 ]
