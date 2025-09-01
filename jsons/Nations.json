@@ -2,7 +2,7 @@
 	{
 		"name": "Principality of Wallachia",
 		"leaderName": "Vlad III",
-		"adjective": ["wallachians"],
+		"adjective": ["wallachian"],
 		"startBias": ["Avoid [Snow]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Vlad III",
@@ -228,7 +228,7 @@
 		"uniqueName": "The Richness Man in World",
 		"uniques": ["[+1 Gold] from each Trade Route",
 			"[+30]% [Gold] [in all cities] <during a Golden Age>",
-			"[Mounted] units gain the [Pillaging Attack] promotion"],
+			"[Mounted] units gain the [Mandekalu Spirit] promotion"],
 		"cities": ["Nyeni","Timbuktu","Gao","Walata","Djenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
 	},
