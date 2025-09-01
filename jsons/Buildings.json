@@ -2,12 +2,12 @@
 	{
 		"name": "Dolmen"
 		"replaces": "Monument",
-		"uniqueTo": "The Lusitanians",
+		"uniqueTo": "Lusitanians",
 		"culture": 2,
 		"cost": 30,
 		"hurryCostModifier": 30,
 		"maintenance": 0,
-		"uniques": ["[+2 Production] from [Mountain] tiles [in this city]","Destroyed when the city is captured"]
+		"uniques": ["[+1 Faith] from [River] tiles [in this city]","Destroyed when the city is captured"]
 	},
 	{
 		"name": "Ziggurat",
@@ -22,22 +22,25 @@
 		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
 	},
 	{
-		"name": "Stone Wall"
-		"replaces": "Walls",
-		"uniqueTo": "The Lusitanians",
-		"cityStrength": 5,
-		"cityHealth": 50,
-		"hurryCostModifier": 25,
-		"requiredTech": "Masonry",
-		"uniques": ["New [Military] units start with [5] XP [in this city]",
-			"Destroyed when the city is captured"]
+		"name": "Navigation School",
+		"uniqueTo": "Portugal",
+		"science": 2,
+		"culture": 1,
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"isNationalWonder": true,
+		"requiredBuilding": "Library",
+		"uniques": ["[+1] Sight <for [Water] units>",
+			"[+2 Science] from [Water] tiles [in this city]",
+			"Must be next to [Coast]"],
+		"requiredTech": "Optics"
 	},
 	{
 		"name": "Painted Church"
 		"replaces": "Temple",
 		"uniqueTo": "Principality of Wallachia",
 		"faith": 2,
-		"culture": 2,
+		"culture": 3,
 		"requiredBuilding": "Shrine",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
@@ -74,7 +77,7 @@
 		"percentStatBonus": {"science": 33},
 		"specialistSlots": {"Scientist": 2},
 		"requiredBuilding": "Library",
-		"uniques": ["Must be next to [Desert]","[+1 Science] from each Trade Route","[+1 Science] from [Desert] tiles [in this city]"],
+		"uniques": ["Must be next to [Desert]","[+1 Science] from each Trade Route","[+2 Science] from [Desert] tiles [in this city]"],
 		"requiredTech": "Education"
 	}
 ]
