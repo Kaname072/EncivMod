@@ -1,5 +1,5 @@
 
-game0.png
+game.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -18,6 +18,13 @@ NationIcons/Kongo
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Portugal
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Jerusalem Kingdom
   rotate: false
   xy: 300, 0
@@ -25,7 +32,7 @@ NationIcons/Jerusalem Kingdom
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/The Lusitanians
+NationIcons/Lusitanians
   rotate: false
   xy: 400, 0
   size: 100, 100
@@ -49,6 +56,13 @@ NationIcons/Brazil
 NationIcons/Mali
   rotate: false
   xy: 700, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Macedonia
+  rotate: false
+  xy: 800, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -116,30 +130,30 @@ UnitIcons/Mali Merchant
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Khopesh
+UnitIcons/Khopesh Warrior
   rotate: false
   xy: 600, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ImprovementIcons/Impaled Bodies
+ImprovementIcons/Aztecs Pyramid
   rotate: false
-  xy: 400, 100
+  xy: 700, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Impaled Bodies
+TileSets/FantasyHex/Tiles/Aztecs Pyramid
   rotate: false
   xy: 535, 134
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Statue of Dagom
+BuildingIcons/Navigation School
   rotate: false
-  xy: 600, 100
+  xy: 500, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -147,13 +161,6 @@ BuildingIcons/Statue of Dagom
 BuildingIcons/Dolmen
   rotate: false
   xy: 300, 200
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Stone Wall
-  rotate: false
-  xy: 400, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -203,13 +210,6 @@ ReligionIcons/Orthodoxy Christianity
 ReligionIcons/Catholic Christianity
   rotate: false
   xy: 600, 300
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ReligionIcons/Politeism
-  rotate: false
-  xy: 500, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
