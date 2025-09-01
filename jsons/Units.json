@@ -2,7 +2,7 @@
 	{
 		"name": "Kongo Warrior"
 		"replaces": "Spearman",
-		"uniqueTo": "Kongo"
+		"uniqueTo": "Kongo",
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 11,
@@ -125,7 +125,7 @@
 	{
 			"name": "Baloon",
 		"unitType": "Helicopter",
-		"uniqueTo": "Brazil"
+		"uniqueTo": "Brazil",
 		"movement": 3,
 		"strength": 15,
 		"cost": 60,
@@ -133,7 +133,7 @@
 		"requiredTech": "Mathematics",
 		"obsoleteTech": "Computers",
 		"uniques": ["[+100]% Strength <after discovering [Chemistry]>","[+2] Sight","Invisible to non-adjacent units <in [Open terrain] tiles>",
-		"Never appears as a Barbarian unit"]
+		"Never appears as a Barbarian unit"],
 		"attackSound": "cannon"
 	},
 	{
@@ -149,7 +149,7 @@
 	},
 	{
 		"name": "Celestial Warrior",
-		"replaces": "Great Prophet"
+		"replaces": "Great Prophet",
 		"uniqueTo": "Kongo",
 		"unitType": "Civilian",
 		"uniques": [
