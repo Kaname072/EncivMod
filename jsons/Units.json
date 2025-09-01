@@ -118,7 +118,7 @@
 		"cost": 135,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
-		"uniques": ["Ignore terrain cost <in [Foreign Land] tiles>"]
+		"uniques": ["Ignore terrain cost <in [Enemy Land] tiles>"]
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
 	},
@@ -132,7 +132,7 @@
 		"upgradesTo": "Helicopter Gunship",
 		"requiredTech": "Mathematics",
 		"obsoleteTech": "Computers",
-		"uniques": ["[+100]% Strength <after discovering [Chemistry]>","[+2] Sight","Invisible to non-adjacent units <in [Open terrain] tiles>",
+		"uniques": ["[+100]% Strength <after discovering [Chemistry]>","[+1] Sight","May enter foreign tiles without open borders",
 		"Never appears as a Barbarian unit"],
 		"attackSound": "cannon"
 	},
