@@ -312,5 +312,43 @@
 		"cities": ["Uruk","Ur","Eridu","Nippur","Lagash","Umma","Adab","Zabalam","Girsu","Nigin","Larsa",
 			"El Obeid","Shuruppak","Abu Salabikh","Kish","Kutha","Djemdet-Nasr","Tell Agrab","Tutub",
 			"Eshnunna"]
+	},
+	{
+		"name": "Macedonia",
+		"leaderName": "Great Alexander",
+		"adjective": ["macedonian"],
+		"startBias": ["Avoid [Snow]"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Great Alexander",
+		
+		"startIntroPart1": "Vlad III, even after being captured as a prisoner by the Ottomans, his faith and perseverance never wavered! You showed your enemies your strength, faith, courage, and violence; they all ran away just by seeing your face! You showed them that there is already a lord here!",
+		"startIntroPart2": "Long ago, we were ruled by traitors, but since the rise of our great Vlad III, we have won our honor and faith against our enemies!",
+		
+		"declaringWar": "You disrespected God! and disrespected me, prepare to war!",
+		"attacked": "You will pay!",
+		"defeated": "Oh no! thats is not happening! my glory! my faith! what's happened here!?",
+		"introduction": "We are Wallachians! God bless you. you have some faith in us God?",
+		
+		"neutralHello": "Hello",
+		"neutralLetsHearIt": ["You need something?"],
+		"neutralNo": ["No."],
+		"neutralYes": ["Yes.","Thats good for me"],
+
+		"hateHello": "I dont wanna talk with you.",
+		"hateLetsHearIt": ["What's going now?!"],
+		"hateNo": ["I said and continous saying, NO!"],
+		"hateYes": ["That is fine."],
+		
+		"afterPeace": "I dont wanna peace but, this war is starting became interesthing",
+		"tradeRequest": "Accept my offer, my brother",
+
+		"outerColor": [0,100,202],
+		"innerColor": [0,100,150],
+		"uniqueName": "Dragon of Wallachia",
+		"uniques": ["Earn [75]% of killed [Military] unit's [Strength] as [Faith]",
+			"[+50]% [Faith] [in all cities] <during a Golden Age>",
+			"Cities are razed [2] times as fast"],
+		"cities": ["Pella","Atheus","Granicus","Ephesos","Halicarnassus","Gordion","Ancyra","Issus","Alexandria","Damascus",
+			"Tyre","Gaza","Nisibis","Gaugamela","Persepolis","Pattala","Rhambacia"]
 	}
 ]
