@@ -45,7 +45,7 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Khopesh",
+		"name": "Khopesh Warrior",
 		"replaces": "Swordsman",
 		"uniqueTo": "Sumerians",
 		"unitType": "Sword",
@@ -163,5 +163,21 @@
 			"Can be earned through combat","Ignore terrain cost","[+30]% Strength bonus for [Military] units within [2] tiles"],
 		"movement": 2,
 		"religiousStrength": 1000
-	}
+	},
+	{
+		"name": "Portuguese Caravel",
+		"replaces": "Caravel",
+		"uniqueTo": "Portugal",
+		"unitType": "Melee Water",
+		"movement": 4,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Astronomy",
+		"upgradesTo": "Ironclad",
+		"obsoleteTech": "Combustion",
+		"uniques": ["[+1] Sight", "Withdraws before melee combat <with [80]% chance>"],
+		"hurryCostModifier": 30,
+		"attackSound": "cannon"
+	},
+	{
 ]
