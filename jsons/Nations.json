@@ -74,7 +74,7 @@
 		"uniques": ["[-66]% maintenance costs <for [Portuguese Gunman] units>",
 			"[+1 Culture] from each Trade Route",
 			"[+5 Gold, +2 Culture] from every [Harbor]",
-			"Comment [Cannot can found a religion]"],
+			"Comment [Cannot be found a religion]"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
 	},
@@ -227,8 +227,8 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "The Richness Man in World",
 		"uniques": ["[+1 Gold] from each Trade Route",
-			"[+50]% [Gold] [in all cities] <during a Golden Age>",
-			"[+1] Movement <for [Mounted] units> <in [Enemy Land] tiles>"],
+			"[+30]% [Gold] [in all cities] <during a Golden Age>",
+			"[Mounted] units gain the [Pillaging Attack] promotion"],
 		"cities": ["Nyeni","Timbuktu","Gao","Walata","Djenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
 	},
@@ -266,7 +266,7 @@
 		"favoredReligion": "Politeism",
 		"uniqueName": "The Epic of Gilgamesh",
 		"uniques": ["Free Great Person <upon discovering [Writing] technology>",
-			"[+10]% Great Person generation [in all cities]",
+			"[+20]% Great Person generation [in all cities]",
 			"[+2 Food] from [Lakes] tiles [in this city]"],
 		"cities": ["Uruk","Ur","Eridu","Nippur","Lagash","Umma","Adab","Zabalam","Girsu","Nigin","Larsa",
 			"El Obeid","Shuruppak","Abu Salabikh","Kish","Kutha","Djemdet-Nasr","Tell Agrab","Tutub",
@@ -304,7 +304,10 @@
 		"outerColor": [0,100,202],
 		"innerColor": [255,255,255],
 		"uniqueName": "The Greatest",
-		"uniques": ["[+50]% [Happiness] [in annexed cities]"],
+		"uniques": ["[+50]% [Happiness] [in annexed cities]",
+		"[+50]% [Culture] [in annexed cities]",
+		"Upon capturing a city, receive [10] times its [Science] production as [Culture] immediately",
+		"Gain a free [Courthouse] [in annexed cities]"],
 		"cities": ["Pella","Atheus","Granicus","Ephesos","Halicarnassus","Gordion","Ancyra","Issus","Alexandria","Damascus",
 			"Tyre","Gaza","Nisibis","Gaugamela","Persepolis","Pattala","Rhambacia"]
 	},
@@ -337,12 +340,12 @@
 		"afterPeace": "I just do it",
 		"tradeRequest": "Portugal need you decision",
 
-		"outerColor": [255,0,0],
-		"innerColor": [0,106,0],
+		"outerColor": [255,255,255],
+		"innerColor": [0,81,151],
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Great Navigations",
 		"uniques": ["[+1] Movement <for [Water] units>",
-			"[+2 Production, +1 Gold] [in coastal cities]",
+			"[+2 Production, +1 Gold] [in all coastal cities]",
 			"[+1 Gold] from each Trade Route <after discovering [Navigation]>"],
 		"cities": ["Lisboa"]
 	}
