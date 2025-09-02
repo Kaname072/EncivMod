@@ -1,7 +1,7 @@
 [
   {
     "name": "Mandekalu Spirit",
-		"uniques": ["[+200]% Strength <vs Cities> <when attacking>"],
+		"uniques": ["[+200]% Strength <vs [Cities]> <when attacking>"],
 		"unitTypes": ["Mounted"],
   }
 ]
