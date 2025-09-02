@@ -306,7 +306,7 @@
 		"uniqueName": "The Greatest",
 		"uniques": ["[+50]% [Happiness] [in annexed cities]",
 		"[+50]% [Culture] [in annexed cities]",
-		"Upon capturing a city, receive [10] times its [Science] production as [Culture] immediately",
+		"Upon capturing a city, receive [10] times its [Culture] production as [Culture] immediately",
 		"Gain a free [Courthouse] [in annexed cities]"],
 		"cities": ["Pella","Atheus","Granicus","Ephesos","Halicarnassus","Gordion","Ancyra","Issus","Alexandria","Damascus",
 			"Tyre","Gaza","Nisibis","Gaugamela","Persepolis","Pattala","Rhambacia"]
