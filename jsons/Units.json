@@ -94,9 +94,9 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Elite Warrior",
+		"name": "Shield Warrior",
 		"replaces": "Swordsman",
-		"uniqueTo": "The Lusitanians",
+		"uniqueTo": "Lusitanians",
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 13,
@@ -153,16 +153,15 @@
 		"uniqueTo": "Kongo",
 		"unitType": "Civilian",
 		"uniques": [
-            "Can instantly construct a [Holy site] improvement <by consuming this unit> <if it hasn't used other actions yet>",
+            "Can instantly construct a [Monument] improvement <by consuming this unit> <if it hasn't used other actions yet>",
             "Can Spread Religion <for [2] movement> <[4] times> <after which this unit is consumed>",
 			"Removes other religions when spreading religion",
             "Invisible to non-adjacent units",
             "Is part of Great Person group [Prophet]",
 			"May enter foreign tiles without open borders", "Great Person - [Faith]",
-			"Unbuildable", "Religious Unit", "Only available <when religion is enabled>",
-			"Can be earned through combat","Ignore terrain cost","[+30]% Strength bonus for [Military] units within [2] tiles"],
+			"Unbuildable",
+			"Can be earned through combat","Ignore terrain cost","[+15]% Strength bonus for [Military] units within [2] tiles"],
 		"movement": 2,
-		"religiousStrength": 1000
 	},
 	{
 		"name": "Portuguese Caravel",
@@ -185,7 +184,7 @@
 		"uniqueTo": "Macedonia",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 15,
+		"strength": 16,
 		"cost": 75,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
