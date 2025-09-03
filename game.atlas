@@ -109,9 +109,9 @@ UnitIcons/Templar
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Elite Warrior
+UnitIcons/Shild Warrior
   rotate: false
-  xy: 200, 200
+  xy: 400, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -236,7 +236,7 @@ ReligionIcons/Catholic Christianity
   offset: 0, 0
   index: -1
 
-gameL3.png
+gameL4.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -262,7 +262,7 @@ LeaderIcons/Baldwin IV
   orig: 100, 100
   offset: 0, 0
   index: -1
-LeaderIcons/King Achish
+LeaderIcons/Dom João III
   rotate: false
   xy: 250, 250
   size: 250, 250
@@ -297,7 +297,7 @@ LeaderIcons/Mansa Musa
   orig: 100, 100
   offset: 0, 0
   index: -1
-LeaderIcons/Abraham Lincoln
+LeaderIcons/Alexander the Great
   rotate: false
   xy: 1000, 0
   size: 250, 250
