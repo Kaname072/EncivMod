@@ -1,15 +1,21 @@
 [
   {
 	  "name": "Mandekalu Spirit",
-	  "uniques": ["[+250]% Strength <when attacking> <vs cities>"],
+	  "uniques": ["[+400]% Strength <when attacking> <vs cities>"],
   },
 	{
-		"name": "Killer Instinct",
-		"uniques": ["[+250]% Strength <when attacking>",
-			"Invisible to non-adjacent units",
-			"Can see invisible [Land] units",
-			"No defensive terrain bonus",
-			"Can only attack [Land] units",
-			"May enter foreign tiles without open borders"],
+		"name": "Infiltrate",
+		"uniques": ["May enter foreign tiles without open borders"],
+		"unitTypes": ["Murderder"]
+		"column": 1,
+		"row": 1,
+	},
+	{
+		"name": "Thief",
+		"uniques": ["No Movement Cost to Pillage",
+		"Earn [20]% of killed [Military] unit's [Cost] as [Gold]"],
+		"unitTypes": ["Murderder"]
+		"column": 2,
+		"row": 1,
 	}
 ]
