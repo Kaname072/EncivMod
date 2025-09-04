@@ -7,6 +7,6 @@
       "[+150]% Strength <when attacking>",
       "[+100]% Strength <when attacking> <vs [non-Wounded] units>",
       "No defensive terrain bonus",
-      "Can only attack [Land] units"]
+      "Can only attack [{Military} {Land}] units"]
   }
 ]
