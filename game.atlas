@@ -179,6 +179,13 @@ UnitIcons/Drone
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Shield Warrior
+  rotate: false
+  xy: 400, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ImprovementIcons/Aztecs Pyramid
   rotate: false
   xy: 700, 100
@@ -266,6 +273,27 @@ UnitPromotionIcons/Mandekalu Spirit
 UnitPromotionIcons/Killer Instinct
   rotate: false
   xy: 900, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Jump Attack
+  rotate: false
+  xy: 800, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Infiltrate
+  rotate: false
+  xy: 900, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Thief
+  rotate: false
+  xy: 800, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
