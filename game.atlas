@@ -1,5 +1,5 @@
 
-game1.png
+game2.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -186,6 +186,13 @@ UnitIcons/Shield Warrior
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Mercenary
+  rotate: false
+  xy: 900, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ImprovementIcons/Aztecs Pyramid
   rotate: false
   xy: 700, 100
@@ -277,7 +284,7 @@ UnitPromotionIcons/Killer Instinct
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Jump Attack
+UnitPromotionIcons/Surprise Attack
   rotate: false
   xy: 800, 200
   size: 100, 100
@@ -293,7 +300,14 @@ UnitPromotionIcons/Infiltrate
   index: -1
 UnitPromotionIcons/Thief
   rotate: false
-  xy: 800, 100
+  xy: 800, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Break Neck
+  rotate: false
+  xy: 700, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
