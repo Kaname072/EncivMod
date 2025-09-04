@@ -37,7 +37,7 @@
 	},
 	{
 		"name": "Break Neck",
-		"uniques": ["[+250]% Strength <when attacking> <vs [non-Wounded] units>"],
+		"uniques": ["[+200]% Strength <when attacking> <vs [non-Wounded] units>"],
 		"unitTypes": ["Murderer"]
 		"column": 29,
 		"row": 1,
