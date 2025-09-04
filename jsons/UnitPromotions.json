@@ -5,7 +5,8 @@
   },
 	{
 		"name": "Infiltrate",
-		"uniques": ["May enter foreign tiles without open borders"],
+		"uniques": ["May enter foreign tiles without open borders",
+		"City-State territory always counts as friendly territory"],
 		"unitTypes": ["Murderer"]
 		"column": 27,
 		"row": 1,
@@ -13,13 +14,13 @@
 	{
 		"name": "Thief",
 		"uniques": ["No movement cost to pillage",
-		"Earn [20]% of killed [Military] unit's [Cost] as [Gold]"],
+		"Earn [10]% of killed [Military] unit's [Cost] as [Gold]"],
 		"unitTypes": ["Murderer"]
 		"column": 28,
 		"row": 1,
 	},
 	{
-		"name": "Break Neck",
+		"name": "Speed Hand",
 		"prerequisites": ["Thief"]
 		"uniques": ["[+1] Movement","Can move after attacking"],
 		"unitTypes": ["Murderer"]
@@ -28,10 +29,17 @@
 	},
 	{
 		"name": "Surprise Attack",
-		"prerequisites": ["Infiltrate"],
-		"uniques": ["May Paradrop to [Land] tiles up to [3] tiles away"],
+		"prerequisites": ["Break Neck"],
+		"uniques": ["May Paradrop to [Land] tiles up to [2] tiles away"],
 		"unitTypes": ["Murderer"]
-		"column": 27,
+		"column": 29,
 		"row": 2,
+	},
+	{
+		"name": "Break Neck",
+		"uniques": ["[+250]% Strength <when attacking> <vs [non-Wounded] units>"],
+		"unitTypes": ["Murderer"]
+		"column": 29,
+		"row": 1,
 	}
 ]
