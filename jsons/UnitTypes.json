@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Murderer",
+    "movimentType": "Land",
+    "uniques": ["Invisible to non-adjacent units",
+      "Can see invisible [Murderer] units",
+      "[+250]% Strength <when attacking>",
+      "No defensive terrain bonus"]
+  }
+]
