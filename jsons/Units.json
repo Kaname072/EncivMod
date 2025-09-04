@@ -211,9 +211,9 @@
 		"movement": 3,
 		"strength": 7,
 		"cost": 30,
-		"techRequired": "Iron Working",
+		"requiredTech": "Iron Working",
 		"obsoleteTech": "Gunpowder",
-		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"uniques": ["Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost","Killer Instinct"],
 		"attackSound": "metalhit"
 	},
@@ -223,9 +223,9 @@
 		"movement": 3,
 		"strength": 12,
 		"cost": 50,
-		"techRequired": "Gunpowder",
+		"requiredTech": "Gunpowder",
 		"obsoleteTech": "Computers",
-		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"uniques": ["Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost","Killer Instinct"],
 		"attackSound": "metalhit"
 	},
@@ -235,7 +235,7 @@
 		"movement": 4,
 		"strength": 20,
 		"cost": 70,
-		"techRequired": "Computers",
+		"requiredTech": "Computers",
 		"uniques": ["Never appears as a Barbarian unit","Self-destructs when attacking"],
 		"promotions": ["Ignore terrain cost","Killer Instinct"],
 		"attackSound": "machinegun"
