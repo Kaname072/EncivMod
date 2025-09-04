@@ -21,7 +21,7 @@
 	{
 		"name": "Speed Hand",
 		"prerequisites": ["Thief"]
-		"uniques": ["[+1] Movement","Can move after attacking"],
+		"uniques": ["May withdraw before melee <with [10]% chance>","Can move after attacking"],
 		"unitTypes": ["Murderer"]
 		"column": 28,
 		"row": 2,
@@ -40,5 +40,10 @@
 		"unitTypes": ["Murderer"]
 		"column": 29,
 		"row": 1,
+	},
+	{
+		"name": "Predict",
+		"uniques": ["[+50]% Strength <when defending> <vs [Murderer] units>"],
+		"unitTypes": ["Sword","Ranged","Gunpowder","Mounted","Armored"],
 	}
 ]
