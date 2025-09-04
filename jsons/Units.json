@@ -208,9 +208,8 @@
 	{
 		"name": "Assasin",
 		"unitType": "Murderer",
-		"movement": 3,
+		"movement": 2,
 		"strength": 7,
-		"rangedStrength": 12,
 		"cost": 30,
 		"upgradesTo": "Spy Assasin",
 		"requiredTech": "Trapping",
@@ -222,9 +221,8 @@
 	{
 		"name": "Spy Assasin",
 		"unitType": "Murderer",
-		"movement": 3,
+		"movement": 2,
 		"strength": 12,
-		"rangedStrength": 15,
 		"cost": 50,
 		"upgradesTo": "Drone",
 		"requiredTech": "Gunpowder",
@@ -236,9 +234,8 @@
 	{
 		"name": "Drone",
 		"unitType": "Murderer",
-		"movement": 4,
+		"movement": 3,
 		"strength": 20,
-		"rangedStrength": 24,
 		"cost": 70,
 		"requiredTech": "Computers",
 		"uniques": ["Never appears as a Barbarian unit"],
@@ -251,12 +248,10 @@
 		"uniqueTo": "Barbarians",
 		"movement": 2,
 		"strength": 5,
-		"rangedStrength": 7,
 		"cost": 20,
 		"upgradesTo": "Spy Assasin",
 		"requiredTech": "Iron Working",
 		"obsoleteTech": "Gunpowder",
-		"uniques": ["Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "metalhit"
 	}
