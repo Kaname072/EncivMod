@@ -256,6 +256,13 @@ ReligionIcons/Catholic Christianity
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitPromotionIcons/Mandekalu Spirit
+  rotate: false
+  xy: 0, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 
 gameL4.png
 size: 512, 128
