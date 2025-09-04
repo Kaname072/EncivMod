@@ -1,5 +1,5 @@
 
-game.png
+game1.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -158,6 +158,27 @@ UnitIcons/Portuguese Caravel
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Assasin
+  rotate: false
+  xy: 900, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Spy Assasin
+  rotate: false
+  xy: 900, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Spy Drone
+  rotate: false
+  xy: 900, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ImprovementIcons/Aztecs Pyramid
   rotate: false
   xy: 700, 100
@@ -262,14 +283,14 @@ LeaderIcons/Baldwin IV
   orig: 100, 100
   offset: 0, 0
   index: -1
-LeaderIcons/Dom João III
+LeaderIcons/Alexander the Great
   rotate: false
   xy: 250, 250
   size: 250, 250
   orig: 100, 100
   offset: 0, 0
   index: -1
-LeaderIcons/Salahuddin Ayubi
+LeaderIcons/Montezuma I
   rotate: false
   xy: 500, 0
   size: 250, 250
@@ -297,7 +318,7 @@ LeaderIcons/Mansa Musa
   orig: 100, 100
   offset: 0, 0
   index: -1
-LeaderIcons/Alexander the Great
+LeaderIcons/Dom João III
   rotate: false
   xy: 1000, 0
   size: 250, 250
