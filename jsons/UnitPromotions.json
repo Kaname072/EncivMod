@@ -14,7 +14,7 @@
 	{
 		"name": "Thief",
 		"uniques": ["No movement cost to pillage",
-		"Earn [10]% of killed [Military] unit's [Cost] as [Gold]"],
+		"Earn [50]% of the damage done to [Land] units as [Gold]"],
 		"unitTypes": ["Murderer"]
 		"column": 28,
 		"row": 1,
