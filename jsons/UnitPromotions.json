@@ -12,10 +12,26 @@
 	},
 	{
 		"name": "Thief",
-		"uniques": ["No Movement Cost to Pillage",
+		"uniques": ["No movement cost to pillage",
 		"Earn [20]% of killed [Military] unit's [Cost] as [Gold]"],
 		"unitTypes": ["Murderer"]
 		"column": 28,
 		"row": 1,
+	},
+	{
+		"name": "Break Neck",
+		"prerequisites": ["Thief"]
+		"uniques": ["[+1] Movement","Can move after attacking"],
+		"unitTypes": ["Murderder"]
+		"column": 28,
+		"row": 2,
+	},
+	{
+		"name": "Surprise Attack",
+		"prerequisites": ["Infiltrate"],
+		"uniques": ["May Paradrop to [Land] tiles up to [3] tiles away"],
+		"unitTypes": ["Murderder"]
+		"column": 27,
+		"row": 2,
 	}
 ]
