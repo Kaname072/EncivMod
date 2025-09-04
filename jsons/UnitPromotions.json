@@ -1,7 +1,12 @@
 [
   {
-    "name": "Mandekalu Spirit",
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>"],
-		"unitTypes": ["Mounted"],
-  }
+	  "name": "Mandekalu Spirit",
+	  "uniques": ["[+200]% Strength <when attacking> <vs cities>"],
+	  "unitTypes": ["Mounted"],
+  },
+	{
+		"name": "Killer Instinct",
+		"uniques": ["[+300]% Strength <when attacking>","Invisible to non-adjacent units","Can see invisible [Scout] units","No defensive terrain bonus"],
+		"unitTypes": ["Scout"],
+	}
 ]
