@@ -5,8 +5,7 @@
   },
 	{
 		"name": "Infiltrate",
-		"uniques": ["May enter foreign tiles without open borders",
-		"City-State territory always counts as friendly territory"],
+		"uniques": ["May enter foreign tiles without open borders"],
 		"unitTypes": ["Murderer"]
 		"column": 27,
 		"row": 1,
