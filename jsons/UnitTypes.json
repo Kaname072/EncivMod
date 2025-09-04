@@ -4,8 +4,8 @@
     "movementType": "Land",
     "uniques": ["Invisible to non-adjacent units",
       "Can see invisible [Murderer] units",
-      "[+250]% Strength <when attacking>",
-      "[-50% Strength <when attacking> <vs [Mounted] units>",
+      "[+150]% Strength <when attacking>",
+      "[+100]% Strength <when attacking> <vs non-adjacent units>",
       "No defensive terrain bonus",
       "Can only attack [Land] units"]
   }
