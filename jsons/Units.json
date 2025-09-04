@@ -207,37 +207,37 @@
 	},
 	{
 		"name": "Assasin",
-		"unitType": "Scout",
+		"unitType": "Murderer",
 		"movement": 3,
 		"strength": 7,
 		"cost": 30,
 		"requiredTech": "Iron Working",
 		"obsoleteTech": "Gunpowder",
 		"uniques": ["Never appears as a Barbarian unit"],
-		"promotions": ["Ignore terrain cost","Killer Instinct"],
+		"promotions": ["Ignore terrain cost"],
 		"attackSound": "metalhit"
 	},
 	{
 		"name": "Spy Assasin",
-		"unitType": "Scout",
+		"unitType": "Murderer",
 		"movement": 3,
 		"strength": 12,
 		"cost": 50,
 		"requiredTech": "Gunpowder",
 		"obsoleteTech": "Computers",
 		"uniques": ["Never appears as a Barbarian unit"],
-		"promotions": ["Ignore terrain cost","Killer Instinct"],
-		"attackSound": "metalhit"
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "shot"
 	},
 	{
 		"name": "Drone",
-		"unitType": "Scout",
+		"unitType": "Murderer",
 		"movement": 4,
 		"strength": 20,
 		"cost": 70,
 		"requiredTech": "Computers",
 		"uniques": ["Never appears as a Barbarian unit","Self-destructs when attacking"],
-		"promotions": ["Ignore terrain cost","Killer Instinct"],
+		"promotions": ["Ignore terrain cost"],
 		"attackSound": "machinegun"
 	}
 ]
