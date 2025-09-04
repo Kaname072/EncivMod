@@ -7,7 +7,7 @@
 		"name": "Infiltrate",
 		"uniques": ["May enter foreign tiles without open borders"],
 		"unitTypes": ["Murderder"]
-		"column": 1,
+		"column": 27,
 		"row": 1,
 	},
 	{
@@ -15,7 +15,7 @@
 		"uniques": ["No Movement Cost to Pillage",
 		"Earn [20]% of killed [Military] unit's [Cost] as [Gold]"],
 		"unitTypes": ["Murderder"]
-		"column": 2,
+		"column": 28,
 		"row": 1,
 	}
 ]
