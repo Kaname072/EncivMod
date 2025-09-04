@@ -1,12 +1,17 @@
 [
   {
 	  "name": "Mandekalu Spirit",
-	  "uniques": ["[+200]% Strength <when attacking> <vs cities>"],
+	  "uniques": ["[+250]% Strength <when attacking> <vs cities>"],
 	  "unitTypes": ["Mounted"],
   },
 	{
 		"name": "Killer Instinct",
-		"uniques": ["[+300]% Strength <when attacking>","Invisible to non-adjacent units","Can see invisible [Scout] units","No defensive terrain bonus"],
+		"uniques": ["[+300]% Strength <when attacking>",
+			"Invisible to non-adjacent units",
+			"Can see invisible [Scout] units",
+			"No defensive terrain bonus",
+			"Can only attack [Land] units",
+			"May enter foreign tiles without open borders"],
 		"unitTypes": ["Scout"],
 	}
 ]
