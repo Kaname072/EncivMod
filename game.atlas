@@ -172,7 +172,7 @@ UnitIcons/Spy Assasin
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Spy Drone
+UnitIcons/Drone
   rotate: false
   xy: 900, 300
   size: 100, 100
@@ -259,6 +259,13 @@ ReligionIcons/Catholic Christianity
 UnitPromotionIcons/Mandekalu Spirit
   rotate: false
   xy: 0, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Killer Instinct
+  rotate: false
+  xy: 900, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
