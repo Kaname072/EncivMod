@@ -153,7 +153,7 @@
 		"uniqueTo": "Kongo",
 		"unitType": "Civilian",
 		"uniques": [
-            "Can instantly construct a [Monument] improvement <by consuming this unit> <if it hasn't used other actions yet>",
+            "Can instantly construct a [Landmark] improvement <by consuming this unit> <if it hasn't used other actions yet>",
             "Can Spread Religion <for [2] movement> <[4] times> <after which this unit is consumed>",
 			"Removes other religions when spreading religion",
             "Invisible to non-adjacent units",
@@ -192,5 +192,52 @@
 		"requiredResource": "Iron",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Scout",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 5,
+		"cost": 25,
+		"upgradesTo": "Assasin",
+		"obsoleteTech": "Iron Working",
+		"uniques": ["May upgrade to [Assasin] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Assasin",
+		"unitType": "Scout",
+		"movement": 3,
+		"strength": 7,
+		"cost": 30,
+		"techRequired": "Iron Working",
+		"obsoleteTech": "Gunpowder",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost","Killer Instinct"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Spy Assasin",
+		"unitType": "Scout",
+		"movement": 3,
+		"strength": 12,
+		"cost": 50,
+		"techRequired": "Gunpowder",
+		"obsoleteTech": "Computers",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost","Killer Instinct"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Drone",
+		"unitType": "Scout",
+		"movement": 4,
+		"strength": 20,
+		"cost": 70,
+		"techRequired": "Computers",
+		"uniques": ["Never appears as a Barbarian unit","Self-destructs when attacking"],
+		"promotions": ["Ignore terrain cost","Killer Instinct"],
+		"attackSound": "machinegun"
 	}
 ]
