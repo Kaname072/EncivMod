@@ -241,5 +241,19 @@
 		"uniques": ["Never appears as a Barbarian unit","Self-destructs when attacking"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "machinegun"
+	},
+	{
+		"name": "Mercenary",
+		"unitType": "Murderer",
+		"uniqueTo": "Barbarians",
+		"movement": 2,
+		"strength": 5,
+		"cost": 20,
+		"upgradesTo": "Spy Assasin",
+		"requiredTech": "Iron Working",
+		"obsoleteTech": "Gunpowder",
+		"uniques": ["Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "metalhit"
 	}
 ]
