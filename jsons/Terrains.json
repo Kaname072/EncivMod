@@ -2,7 +2,7 @@
   {
 	  "name": "Inactive Vulcano",
 	  "type": "TerrainFeature",
-	  "occursOn": ["Hill"],
+	  "occursOn": ["Plains"],
 	  "science": 3,
 	  "impassable": true,
 	  "uniques": ["Rough terrain","Rare feature",
