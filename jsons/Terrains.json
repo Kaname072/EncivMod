@@ -10,10 +10,17 @@
 		  "Units ending their turn on this terrain take [25] damage",
 		  "Always Fertility [-1] for Map Generation",
 		  "Considered [Undesirable] when determining start locations",
-		  "Neighboring tiles will convert to [Hill]"],
+		  "Neighboring tiles will convert to [Vulcano Plains]"],
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
 		"weight": 10
-  }
+  },
+	{
+		"name": "Vulcano Plains",
+		"type": "Land",
+		"movementCost": 1,
+		"production": 2,
+		"weight": 0,
+	}
 ]
