@@ -23,7 +23,7 @@
 		"uniques": ["Occurs at temperature between [0.9] and [1] and humidity between [0] and [0.2]",
 			"Occurs at temperature between [0.8] and [0.9] and humidity between [0.2] and [0.6]",
 			"Occurs at temperature between [0.7] and [0.8] and humidity between [0.3] and [0.4]",
-			"A Region is formed with at least [30]% [Vulcano Plains] tiles, with priority [7]"]
+			"A Region is formed with at least [10]% [Vulcano Plains] tiles, with priority [3]"]
 	},
 	{
 		"name": "Plains",
