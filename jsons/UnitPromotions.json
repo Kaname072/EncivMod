@@ -1,7 +1,7 @@
 [
   {
 	  "name": "Mandekalu Spirit",
-	  "uniques": ["[+333]% Strength <when attacking> <vs cities>"],
+	  "uniques": ["[+233]% Strength <when attacking> <vs cities>"],
   },
 	{
 		"name": "Infiltrate",
@@ -19,9 +19,9 @@
 		"row": 1,
 	},
 	{
-		"name": "Speed Hand",
+		"name": "Runner",
 		"prerequisites": ["Thief"]
-		"uniques": ["May withdraw before melee <with [10]% chance>","Can move after attacking"],
+		"uniques": ["Withdraws before melee combat <with [10]% chance>","Can move after attacking"],
 		"unitTypes": ["Murderer"]
 		"column": 28,
 		"row": 2,
@@ -36,7 +36,7 @@
 	},
 	{
 		"name": "Break Neck",
-		"uniques": ["[+200]% Strength <when attacking> <vs [non-Wounded] units>"],
+		"uniques": ["[+100]% Strength <when attacking> <vs [non-{Wounded}] units>"],
 		"unitTypes": ["Murderer"]
 		"column": 29,
 		"row": 1,
