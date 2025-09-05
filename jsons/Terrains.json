@@ -20,7 +20,7 @@
 		"type": "Land",
 		"movementCost": 1,
 		"production": 2,
-		"uniques": ["Occurs at temperature between [0.6] and [0.8] and humidity between [0.4] and [0.8]",
+		"uniques": ["Occurs in chains at high elevations",
 		"A Region is formed with at least [10]% [Vulcano Plains] tiles, with priority [3]"],
 		"weight": 0,
 	}
