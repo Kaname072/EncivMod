@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Inactive Vulcano",
+		"type": "Land",
+		"science": 3,
+    "impassable": true,
+		"uniques": ["Rough terrain","Rare feature",
+      "Has an elevation of [2] for visibility calculations",
+      "Units ending their turn on this terrain take [25] damage",
+      "Always Fertility [-2] for Map Generation",
+      "Considered [Undesirable] when determining start locations",
+      "Neighboring tiles will convert to [Hill]"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10
+  }
+]
