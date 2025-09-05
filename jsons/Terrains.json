@@ -20,7 +20,7 @@
 		"movementCost": 1,
 		"production": 2,
 		"RGB": [64, 64, 64],
-		"uniques": ["Occurs at temperature between [0.9] and [1] and humidity between [0] and [0.1]",
+		"uniques": ["Occurs at temperature between [0.9] and [1] and humidity between [0] and [0.2]",
 			"A Region is formed with at least [30]% [Vulcano Plains] tiles, with priority [3]"]
 	},
 	{
