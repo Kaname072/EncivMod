@@ -247,7 +247,7 @@
 		"unitType": "Murderer",
 		"uniqueTo": "Barbarians",
 		"movement": 2,
-		"strength": 5,
+		"strength": 6,
 		"cost": 20,
 		"upgradesTo": "Spy Assasin",
 		"requiredTech": "Iron Working",
