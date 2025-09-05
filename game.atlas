@@ -209,7 +209,7 @@ TileSets/FantasyHex/Tiles/Aztecs Pyramid
   index: -1
 TileSets/FantasyHex/Tiles/Vulcano Plains
   rotate: false
-  xy: 534, 433
+  xy: 534, 435
   size: 31, 28
   orig: 100, 100
   offset: 0, 0
@@ -223,7 +223,7 @@ TileSets/FantasyHex/Tiles/Baobab Tree
   index: -1
 TileSets/FantasyHex/Tiles/Inactive Vulcano
   rotate: false
-  xy: 634, 433
+  xy: 635, 434
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
