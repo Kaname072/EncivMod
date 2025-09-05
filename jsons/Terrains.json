@@ -2,7 +2,7 @@
   {
 	  "name": "Inactive Vulcano",
 	  "type": "TerrainFeature",
-	  "occursOn": ["Plains"],
+	  "occursOn": ["Vulcano Plains"],
 	  "science": 3,
 	  "impassable": true,
 	  "uniques": ["Rough terrain","Rare feature",
@@ -20,6 +20,7 @@
 		"type": "Land",
 		"movementCost": 1,
 		"production": 2,
+		"uniques": ["Occurs at temperature between [0.5] and [1] and humidity between [0] and [1]"],
 		"weight": 0,
 	}
 ]
