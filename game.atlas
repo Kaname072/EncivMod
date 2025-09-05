@@ -1,5 +1,5 @@
 
-game2.png
+game3.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -203,6 +203,20 @@ ImprovementIcons/Aztecs Pyramid
 TileSets/FantasyHex/Tiles/Aztecs Pyramid
   rotate: false
   xy: 535, 134
+  size: 31, 31
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Baobab Tree
+  rotate: false
+  xy: 235, 234
+  size: 31, 31
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Inactive Vulcano
+  rotate: false
+  xy: 635, 434
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
