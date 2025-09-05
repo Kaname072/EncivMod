@@ -25,7 +25,6 @@
 			"Occurs at temperature between [0.7] and [0.4] and humidity between [0.4] and [0.6]",
 			"Occurs at temperature between [0.6] and [0.4] and humidity between [0.2] and [0.4]",
 			"Occurs at temperature between [0.5] and [0.4] and humidity between [0] and [0.2]",
-			"A Region is formed with at least [30]% [Vulcano Plains] tiles, with priority [7]"],
-		"weight": 0,
+			"A Region is formed with at least [30]% [Vulcano Plains] tiles, with priority [7]"]
 	}
 ]
