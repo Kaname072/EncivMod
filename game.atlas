@@ -210,7 +210,7 @@ TileSets/FantasyHex/Tiles/Aztecs Pyramid
 TileSets/FantasyHex/Tiles/Vulcano Plains
   rotate: false
   xy: 534, 433
-  size: 31, 31
+  size: 31, 28
   orig: 100, 100
   offset: 0, 0
   index: -1
