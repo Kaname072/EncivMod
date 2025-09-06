@@ -110,7 +110,8 @@
 		"innerColor": [255,216,0],
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Religious Tolerance",
-		"uniques": ["[+1 Culture] from every [Religion]"]
+		"uniques": ["[+25]% [Culture] from every [Religion]",
+		"When spreading religion to a city, gain [10] times the amount of followers of other religions as [Culture]"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe & Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
