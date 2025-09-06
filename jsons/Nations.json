@@ -33,7 +33,7 @@
 		"favoredReligion": "Orthodoxy Christianity",
 		"uniqueName": "Dragon of Wallachia",
 		"uniques": ["Earn [75]% of killed [Military] unit's [Strength] as [Faith]",
-			"[+50]% [Faith] [in all cities] <during a Golden Age>",
+			"[+50]% [Faith] [in all cities following our religion] <during a Golden Age>",
 			"Cities are razed [2] times as fast"],
 		"cities": ["Târgoviste","Bucharest","Câmpulung","Curtea de Argeș","Brăila","Pitesti",
 		"Buzăo","Drobeta-Turnu Severin","Rãmnicu Vâlcea"]
@@ -73,8 +73,7 @@
 		"uniqueName": "Portugal Alliance",
 		"uniques": ["[-66]% maintenance costs <for [Portuguese Gunman] units>",
 			"[+1 Culture] from each Trade Route",
-			"[+5 Gold, +2 Culture] from every [Harbor]",
-			"Comment [Cannot be found a religion]"],
+			"[+5 Gold, +2 Culture] from every [Harbor]"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
 	},
@@ -225,9 +224,9 @@
 		"outerColor": [216,1,55],
 		"innerColor": [255,204,0],
 		"favoredReligion": "Islam",
-		"uniqueName": "The Richness Man in World",
+		"uniqueName": "The Great Peregrineer",
 		"uniques": ["[+1 Gold] from each Trade Route",
-			"[+30]% [Gold] [in all cities] <during a Golden Age>",
+			"[+2 Faith] [in all cities connected to holy city]",
 			"[Mounted] units gain the [Mandekalu Spirit] promotion"],
 		"cities": ["Nyeni","Timbuktu","Gao","Walata","Djenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
@@ -265,8 +264,7 @@
 		"innerColor": [226,191,87],
 		"uniqueName": "The Epic of Gilgamesh",
 		"uniques": ["Free Great Person <upon discovering [Writing] technology>",
-			"[+20]% Great Person generation [in all cities]",
-			"[+2 Food] from [Lakes] tiles [in this city]"],
+			"[+20]% Great Person generation [in all cities]"],
 		"cities": ["Uruk","Ur","Eridu","Nippur","Lagash","Umma","Adab","Zabalam","Girsu","Nigin","Larsa",
 			"El Obeid","Shuruppak","Abu Salabikh","Kish","Kutha","Djemdet-Nasr","Tell Agrab","Tutub",
 			"Eshnunna"]
@@ -303,9 +301,8 @@
 		"outerColor": [0,100,202],
 		"innerColor": [255,255,255],
 		"uniqueName": "The Greatest",
-		"uniques": ["[+50]% [Happiness] [in annexed cities]",
+		"uniques": ["[+100]% [Happiness] [in puppeted cities]",
 		"[+50]% [Culture] [in annexed cities]",
-		"Upon capturing a city, receive [10] times its [Culture] production as [Culture] immediately",
 		"Gain a free [Courthouse] [in annexed cities]"],
 		"cities": ["Pella","Atheus","Granicus","Ephesos","Halicarnassus","Gordion","Ancyra","Issus","Alexandria","Damascus",
 			"Tyre","Gaza","Nisibis","Gaugamela","Persepolis","Pattala","Rhambacia"]
