@@ -110,7 +110,7 @@
 		"innerColor": [255,216,0],
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Religious Tolerance",
-		"uniques": ["[+5]% [Culture] [in holy city]"]
+		"uniques": ["[+5]% [Culture] [in holy cities]"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe & Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
