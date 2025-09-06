@@ -110,8 +110,7 @@
 		"innerColor": [255,216,0],
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Religious Tolerance",
-		"uniques": ["[+25]% [Culture] from every [Religion] [in this city]",
-		"When spreading religion to a city, gain [10] times the amount of followers of other religions as [Culture]"]
+		"uniques": ["[+5]% [Culture] [in holy city]"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe & Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
@@ -226,7 +225,7 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "The Great Peregrineer",
 		"uniques": ["[+1 Gold] from each Trade Route",
-			"[+1 Faith] from [Road] tiles <during a Golden Age>",
+			"[+1 Faith] from [Road] tiles [in this city] <during a Golden Age>",
 			"[Mounted] units gain the [Mandekalu Spirit] promotion"],
 		"cities": ["Nyeni","Timbuktu","Gao","Walata","Djenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
