@@ -7,7 +7,7 @@
 		"cost": 30,
 		"hurryCostModifier": 30,
 		"maintenance": 0,
-		"uniques": ["[+1 Faith] from [River] tiles [in this city]","Destroyed when the city is captured"]
+		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
 		"name": "Ziggurat",
@@ -24,14 +24,13 @@
 	{
 		"name": "Navigation School",
 		"uniqueTo": "Portugal",
-		"science": 2,
-		"culture": 1,
+		"science": 4,
+		"culture": 2,
 		"maintenance": 2,
 		"hurryCostModifier": 15,
 		"isNationalWonder": true,
 		"requiredBuilding": "Library",
-		"uniques": ["[+1] Sight <for [Water] units>",
-			"[+2 Science] from [Water] tiles [in this city]",
+		"uniques": ["[+1 Science] from [Water] tiles [in this city]",
 			"Must be next to [Coast]"],
 		"requiredTech": "Optics"
 	},
@@ -52,6 +51,7 @@
 		"replaces": "Theatre",
 		"uniqueTo": "Brazil",
 		"happiness": 3,
+		"culture": 2,
 		"hurryCostModifier": 10,
 		"maintenance": 2,
 		"uniques": ["[+1 Culture] per [2] population [in this city]"],
@@ -61,12 +61,12 @@
 	{
 		"name":"Buddha Golden Statue",
 		"isWonder": true,
-		"faith": 9,
-		"culture": 6,
-		"gold": 3,
+		"maintenance": 3,
+		"faith": 8,
+		"culture": 4,
+		"gold": 2,
 		"requiredTech": "Theology",
-		"uniques": ["Only available <when religion is enabled>"],
-		"requiredResource": "Gold Ore"
+		"uniques": ["Only available <when religion is enabled>"]
 	},
 	{
 		"name": "Sankore University",
@@ -77,7 +77,7 @@
 		"percentStatBonus": {"science": 33},
 		"specialistSlots": {"Scientist": 2},
 		"requiredBuilding": "Library",
-		"uniques": ["Must be next to [Desert]","[+1 Science] from each Trade Route","[+2 Science] from [Desert] tiles [in this city]"],
+		"uniques": ["Must be next to [Desert]","[+2 Science] from [Desert] tiles [in this city]"],
 		"requiredTech": "Education"
 	}
 ]
