@@ -1,5 +1,5 @@
 
-game4.png
+game5.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -116,9 +116,9 @@ UnitIcons/Shild Warrior
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Baloon
+UnitIcons/Pracinha
   rotate: false
-  xy: 0, 300
+  xy: 400, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -207,23 +207,9 @@ TileSets/FantasyHex/Tiles/Aztecs Pyramid
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Vulcano Plains
+TileSets/FantasyHex/Tiles/Diamond
   rotate: false
-  xy: 534, 435
-  size: 31, 28
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Baobab Tree
-  rotate: false
-  xy: 235, 234
-  size: 31, 31
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Inactive Vulcano
-  rotate: false
-  xy: 635, 434
+  xy: 535, 434
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
@@ -291,6 +277,13 @@ ReligionIcons/Catholic Christianity
   orig: 100, 100
   offset: 0, 0
   index: -1
+ResourceIcons/Diamond
+  rotate: false
+  xy: 600, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitPromotionIcons/Mandekalu Spirit
   rotate: false
   xy: 0, 400
@@ -329,6 +322,20 @@ UnitPromotionIcons/Thief
 UnitPromotionIcons/Break Neck
   rotate: false
   xy: 700, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Runner
+  rotate: false
+  xy: 400, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Prayer
+  rotate: false
+  xy: 300, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
