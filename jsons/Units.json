@@ -103,7 +103,7 @@
 		"cost": 60,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
-		"uniques": ["Invisible to non-adjacent units <in [Hill] tiles>"],
+		"promotions": ["Shock I"],
 		"obsoleteTech": "Steel",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
@@ -115,7 +115,7 @@
 		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 24,
-		"cost": 135,
+		"cost": 125,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"uniques": ["Ignore terrain cost <in [Enemy Land] tiles>"]
@@ -123,45 +123,17 @@
 		"attackSound": "shot"
 	},
 	{
-			"name": "Baloon",
-		"unitType": "Helicopter",
+		"name": "Pracinha",
+		"replaces": "Infantry",
 		"uniqueTo": "Brazil",
-		"movement": 3,
-		"strength": 15,
-		"cost": 60,
-		"upgradesTo": "Helicopter Gunship",
-		"requiredTech": "Mathematics",
-		"obsoleteTech": "Computers",
-		"uniques": ["[+100]% Strength <after discovering [Chemistry]>","[+1] Sight","May enter foreign tiles without open borders",
-		"Never appears as a Barbarian unit"],
-		"attackSound": "cannon"
-	},
-	{
-		"name": "Mali Merchant",
-		"replaces": "Great Merchant",
-		"uniqueTo": "Mali",
-		"unitType": "Civilian",
-		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [60] Influence",
-            "Can instantly construct a [Customs house] improvement <by consuming this unit>",
-            "Is part of Great Person group [Great Person]",
-			"Great Person - [Gold]", "Unbuildable", "Uncapturable"],
-		"movement": 2
-	},
-	{
-		"name": "Celestial Warrior",
-		"replaces": "Great Prophet",
-		"uniqueTo": "Kongo",
-		"unitType": "Civilian",
-		"uniques": [
-            "Can instantly construct a [Landmark] improvement <by consuming this unit> <if it hasn't used other actions yet>",
-            "Can Spread Religion <for [2] movement> <[4] times> <after which this unit is consumed>",
-			"Removes other religions when spreading religion",
-            "Invisible to non-adjacent units",
-            "Is part of Great Person group [Prophet]",
-			"May enter foreign tiles without open borders", "Great Person - [Faith]",
-			"Unbuildable",
-			"Can be earned through combat","Ignore terrain cost","[+15]% Strength bonus for [Military] units within [2] tiles"],
+		"unitType": "Gunpowder",
 		"movement": 2,
+		"strength": 70,
+		"cost": 350,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"attackSound": "shot"
 	},
 	{
 		"name": "Portuguese Caravel",
