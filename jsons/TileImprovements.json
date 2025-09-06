@@ -1,17 +1,18 @@
 [
-  {
-    "name": "Aztecs Pyramid",
-    "uniqueTo": "Aztecs",
+	{
+		"name": "Aztecs Pyramid",
+		"uniqueTo": "Aztecs",
 		"terrainsCanBeBuiltOn": ["Jungle","Plains"],
-	  "culture": 2,
-	  "faith": 1,
-		"turnsToBuild": 10,
+		"culture": 2,
+		"faith": 1,
+		"turnsToBuild": 8,
 		"techRequired": "Masonry",
-		"uniques": ["[+2 Culture] <after discovering [Theology]>",
+		"uniques": [
+			"[+2 Culture] <after discovering [Theology]>",
+			"[+1 Culture] for each adjacent [Jungle]",
+			"[-2 Culture, -1 Faith] for each adjacent [Aztecs Pyramid]",
 			"Unbuildable <after discovering [Scientific Theory]>",
-			"Gives a defensive bonus of [10]%",
             "Will not be replaced by automated units",
-			"Unpillagable",
 			"Does not need removal of [Jungle]"]
-  }
+	}
 ]
