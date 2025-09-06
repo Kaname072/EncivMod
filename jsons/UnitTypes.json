@@ -5,7 +5,7 @@
     "uniques": ["Invisible to non-adjacent units",
       "Can see invisible [Murderer] units",
       "[+150]% Strength <when attacking>",
-      "[-50]% Strength <when attacking> <when adjacent to a [Enemy] unit>",
+      "[-50]% Strength <when adjacent to a [{Enemy} {Melee}] unit>",
       "No defensive terrain bonus",
       "Can only attack [{Military} {Land}] units"]
   }
