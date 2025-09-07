@@ -3,7 +3,7 @@
 		"name": "Principality of Wallachia",
 		"leaderName": "Vlad III",
 		"adjective": ["wallachian"],
-		"startBias": ["Avoid [Snow]"],
+		"startBias": ["Avoid [Desert]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Vlad III",
 		
@@ -32,9 +32,8 @@
 		"innerColor": [0,110,56],
 		"favoredReligion": "Orthodoxy Christianity",
 		"uniqueName": "Dragon of Wallachia",
-		"uniques": ["Earn [75]% of killed [Military] unit's [Strength] as [Faith]",
-			"[+10]% [Faith] [in cities following our religion]",
-			"Cities are razed [2] times as fast"],
+		"uniques": ["Earn [50]% of killed [Military] unit's [Cost] as [Faith]",
+		"May buy [Murderer] units with [Faith] for [1] times their normal Production cost"],
 		"cities": ["Târgoviste","Bucharest","Câmpulung","Curtea de Argeș","Brăila","Pitesti",
 		"Buzăo","Drobeta-Turnu Severin","Rãmnicu Vâlcea"]
 	},
@@ -71,9 +70,9 @@
 		"innerColor": [246,0,0],
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Portugal Alliance",
-		"uniques": ["[-55]% maintenance costs <for [Portuguese Gunman] units>",
-			"[+1 Culture] from each Trade Route",
-			"[+5 Gold, +2 Culture] from every [Harbor]"],
+		"uniques": ["[+1 Culture] from each Trade Route",
+			"[+2 Faith] [in all cities] <before the [Renaissance era]>",
+			"[+25]% [Gold] [in all coastal cities] <after the [Renaissance era>"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
 	},
@@ -110,7 +109,7 @@
 		"innerColor": [255,216,0],
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Faith Defense",
-		"uniques": ["[+2 Culture] from all [Faith] buildings",
+		"uniques": ["[+1 Culture] from all [Faith] buildings",
 		"[+25]% Production when constructing [{Wonder} {Faith}] buildings [in holy cities]"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe & Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
@@ -223,8 +222,9 @@
 		"outerColor": [216,1,55],
 		"innerColor": [255,204,0],
 		"favoredReligion": "Islam",
-		"uniqueName": "The Great Peregrineer",
+		"uniqueName": "Mansa's Richness",
 		"uniques": ["[+1 Gold, +1 Faith] from each Trade Route",
+			"[+10]% [Gold] [in all cities] <during a Golden Age>",
 			"[Mounted] units gain the [Mandekalu Spirit] promotion"],
 		"cities": ["Nyeni","Timbuktu","Gao","Walata","Djenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
@@ -299,8 +299,8 @@
 		"outerColor": [0,100,202],
 		"innerColor": [255,255,255],
 		"uniqueName": "The Greatest",
-		"uniques": ["[+100]% [Happiness] [in puppeted cities]",
-		"[+50]% [Culture] [in annexed cities]",
+		"uniques": ["When defeating a [{Military} {Melee} {non-[Barbarian]}] units gain [0] Gold and recruit it <with [7]% chance>",
+		"[+25]% [Culture] [in annexed cities]",
 		"Gain a free [Courthouse] [in annexed cities]"],
 		"cities": ["Pella","Atheus","Granicus","Ephesos","Halicarnassus","Gordion","Ancyra","Issus","Alexandria","Damascus",
 			"Tyre","Gaza","Nisibis","Gaugamela","Persepolis","Pattala","Rhambacia"]
