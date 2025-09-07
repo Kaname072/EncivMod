@@ -112,7 +112,7 @@
 		"uniqueName": "Religious Tolerance",
 		"uniques": ["[+2 Culture] from all [Faith] buildings",
 		"[+25]% Production when constructing [{Wonder} {Faith}] buildings [in holy cities]",
-		"[+1 Culture] per every [1] [{non-[Follower of this Religion]}]"]
+		"[+1 Culture] per every [1] [{non-[Follower of our Religion]}]"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe & Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
