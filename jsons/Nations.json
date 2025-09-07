@@ -70,9 +70,9 @@
 		"innerColor": [246,0,0],
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Portugal Alliance",
-		"uniques": ["[+1 Culture] from each Trade Route",
-			"[+2 Faith] [in all cities] <before the [Renaissance era]>",
-			"[+25]% [Gold] [in all coastal cities] <after the [Renaissance era]>"],
+		"uniques": ["[+2 Culture] from each Trade Route",
+			"[+25]% [Gold] [in all coastal cities] <after the [Renaissance era]>",
+			"[-25]% Gold cost of acquiring new tiles reduced"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
 	},
@@ -111,7 +111,7 @@
 		"uniqueName": "Faith Defense",
 		"uniques": ["[+1 Culture] from all [Faith] buildings",
 		"[+25]% Production when constructing [{Wonder} {Faith}] buildings [in holy cities]",
-		"May choose [1] additional [Pantheon] beliefs when [founding] a religion"]
+		"May choose [1] additional [Follower] beliefs when [founding] a religion"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe & Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
@@ -300,7 +300,7 @@
 		"outerColor": [0,100,202],
 		"innerColor": [255,255,255],
 		"uniqueName": "The Greatest",
-		"uniques": ["When defeating a [{Military} {Melee} {non-[Barbarian]}] unit's gain [0] Gold and recruit it <with [7]% chance>",
+		"uniques": ["When defeating a [{Military} {Melee} {non-[Barbarian]}] unit, earn [15] Gold and recruit it <with [7]% chance>",
 		"[+25]% [Culture] [in annexed cities]",
 		"Gain a free [Courthouse] [in annexed cities]"],
 		"cities": ["Pella","Atheus","Granicus","Ephesos","Halicarnassus","Gordion","Ancyra","Issus","Alexandria","Damascus",
@@ -339,9 +339,10 @@
 		"innerColor": [0,81,151],
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Great Navigations",
-		"uniques": ["[+1] Movement <for [Water] units>",
-			"[+2 Production, +1 Gold] [in all coastal cities]",
-			"[+2 Gold] from each Trade Route <after discovering [Navigation]>"],
-		"cities": ["Lisboa"]
+		"uniques": ["[+25]% [Production] [in all coastal cities]",
+			"[+2 Gold] from every [Luxury resource] resource",
+			"Enables [All] units to enter ocean tiles <after discovering [Optics]>"],
+		"cities": ["Lisboa","Porto","Portalegre","Castelo Branco","Figueira da Foz","Santarém","Setúbal","Évora",
+		"Almada","Beja","Portimão","Faro","Olhão","Aveiro"]
 	}
 ]
