@@ -71,8 +71,8 @@
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Portugal Alliance",
 		"uniques": ["[+2 Culture] from each Trade Route",
-			"[+25]% [Gold] [in all coastal cities] <after the [Renaissance era]>",
-			"[-25]% Gold cost of acquiring new tiles reduced"],
+			"[+15]% [Gold] [in all coastal cities]",
+			"[-25]% Gold cost of acquiring new tiles"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
 	},
@@ -340,7 +340,7 @@
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Great Navigations",
 		"uniques": ["[+25]% [Production] [in all coastal cities]",
-			"[+2 Gold] from every [Luxury resource] resource",
+			"[+2 Gold] from every [Luxury resource]",
 			"Enables [All] units to enter ocean tiles <after discovering [Optics]>"],
 		"cities": ["Lisboa","Porto","Portalegre","Castelo Branco","Figueira da Foz","Santarém","Setúbal","Évora",
 		"Almada","Beja","Portimão","Faro","Olhão","Aveiro"]
