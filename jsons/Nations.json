@@ -33,7 +33,7 @@
 		"favoredReligion": "Orthodoxy Christianity",
 		"uniqueName": "Dragon of Wallachia",
 		"uniques": ["Earn [50]% of killed [Military] unit's [Cost] as [Faith]",
-		"May buy [Murderer] units with [Faith] for [1] times their normal Production cost"],
+		"[Faith] cost of purchasing [Inquisitor] units [-10]%"],
 		"cities": ["Târgoviste","Bucharest","Câmpulung","Curtea de Argeș","Brăila","Pitesti",
 		"Buzăo","Drobeta-Turnu Severin","Rãmnicu Vâlcea"]
 	},
@@ -72,7 +72,7 @@
 		"uniqueName": "Portugal Alliance",
 		"uniques": ["[+1 Culture] from each Trade Route",
 			"[+2 Faith] [in all cities] <before the [Renaissance era]>",
-			"[+25]% [Gold] [in all coastal cities] <after the [Renaissance era>"],
+			"[+25]% [Gold] [in all coastal cities] <after the [Renaissance era]>"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
 	},
@@ -110,7 +110,8 @@
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Faith Defense",
 		"uniques": ["[+1 Culture] from all [Faith] buildings",
-		"[+25]% Production when constructing [{Wonder} {Faith}] buildings [in holy cities]"]
+		"[+25]% Production when constructing [{Wonder} {Faith}] buildings [in holy cities]",
+		"May choose [1] additional [Pantheon] beliefs when [founding] a religion"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe & Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
@@ -146,9 +147,9 @@
 		"outerColor": [0,105,180],
 		"innerColor": [0,186,238],
 		"uniqueName": "Heroism Lusitanian",
-		"uniques": ["[+2 Culture] from [Forest] tiles [in this city]",
-			"[+1 Culture] from [Hill] tiles [in this city]",
-			"[{Military} {Sword}] units gain the [Formation I] promotion"],
+		"uniques": ["[+25] XP gained from combat",
+			"[-25]% Gold cost of upgrading <for [Military] units>",
+			"[+2 Culture] from every [Walls]"],
 		"cities": ["Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 		"Caetobriga","Metellinum","Igaeditanorum"]
 	},
@@ -299,7 +300,7 @@
 		"outerColor": [0,100,202],
 		"innerColor": [255,255,255],
 		"uniqueName": "The Greatest",
-		"uniques": ["When defeating a [{Military} {Melee} {non-[Barbarian]}] units gain [0] Gold and recruit it <with [7]% chance>",
+		"uniques": ["When defeating a [{Military} {Melee} {non-[Barbarian]}] unit's gain [0] Gold and recruit it <with [7]% chance>",
 		"[+25]% [Culture] [in annexed cities]",
 		"Gain a free [Courthouse] [in annexed cities]"],
 		"cities": ["Pella","Atheus","Granicus","Ephesos","Halicarnassus","Gordion","Ancyra","Issus","Alexandria","Damascus",
@@ -340,7 +341,7 @@
 		"uniqueName": "Great Navigations",
 		"uniques": ["[+1] Movement <for [Water] units>",
 			"[+2 Production, +1 Gold] [in all coastal cities]",
-			"[+1 Gold] from each Trade Route <after discovering [Navigation]>"],
+			"[+2 Gold] from each Trade Route <after discovering [Navigation]>"],
 		"cities": ["Lisboa"]
 	}
 ]
