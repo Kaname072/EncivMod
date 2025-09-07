@@ -111,10 +111,10 @@
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Religious Tolerance",
 		"uniques": ["[+5]% [Culture] [in holy cities] <when number of [Religion] is more than [0]>",
-		"[+5]% [Culture] [in holy cities] <when number of [Religion] is more than [1]>",
-		"[+5]% [Culture] [in holy cities] <when number of [Religion] is more than [2]>",
-		"[+5]% [Culture] [in holy cities] <when number of [Religion] is more than [3]>",
-		"[+5]% [Culture] [in holy cities] <when number of [Religion] is more than [4]>"]
+		"[+5]% [Culture] [in holy cities] <when number of [Religions] is more than [1]>",
+		"[+5]% [Culture] [in holy cities] <when number of [Religions] is more than [2]>",
+		"[+5]% [Culture] [in holy cities] <when number of [Religions] is more than [3]>",
+		"[+5]% [Culture] [in holy cities] <when number of [Religions] is more than [4]>"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe & Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
