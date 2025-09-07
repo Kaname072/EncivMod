@@ -109,10 +109,9 @@
 		"outerColor": [255,255,230],
 		"innerColor": [255,216,0],
 		"favoredReligion": "Catholic Christianity",
-		"uniqueName": "Religious Tolerance",
+		"uniqueName": "Faith Defense",
 		"uniques": ["[+2 Culture] from all [Faith] buildings",
-		"[+25]% Production when constructing [{Wonder} {Faith}] buildings [in holy cities]",
-		"[+10 Culture] [{non-[in cities following our religion]}]"]
+		"[+25]% Production when constructing [{Wonder} {Faith}] buildings [in holy cities]"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe & Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
@@ -188,7 +187,6 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Volunteers of the Fatherland",
 		"uniques": ["[+25]% Production when constructing [Military] units [in all cities] <when at war>",
-			"[-50]% maintenance costs <for [{Military} {Land}] units> <when not at war>",
 			"[+50]% [Culture] [in all cities] <during a Golden Age>"],
 		"cities": ["Rio de Janeiro","São Paulo","Salvador","Fortaleza","Florianópolis","Paraíba","Belém",
 			"Teresina","São Vincente","Maceió","Natal","Rio Branco","Macapá","Porto Alegre","João Pessoa","Curitiba"]
@@ -226,8 +224,7 @@
 		"innerColor": [255,204,0],
 		"favoredReligion": "Islam",
 		"uniqueName": "The Great Peregrineer",
-		"uniques": ["[+1 Gold] from each Trade Route",
-			"[+1 Faith] from [Road] tiles [in this city] <during a Golden Age>",
+		"uniques": ["[+1 Gold, +1 Faith] from each Trade Route",
 			"[Mounted] units gain the [Mandekalu Spirit] promotion"],
 		"cities": ["Nyeni","Timbuktu","Gao","Walata","Djenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
@@ -265,7 +262,7 @@
 		"innerColor": [226,191,87],
 		"uniqueName": "The Epic of Gilgamesh",
 		"uniques": ["Free Great Person <upon discovering [Writing] technology>",
-			"[+20]% Great Person generation [in all cities]"],
+			"[+25]% Great Person generation [in all cities]"],
 		"cities": ["Uruk","Ur","Eridu","Nippur","Lagash","Umma","Adab","Zabalam","Girsu","Nigin","Larsa",
 			"El Obeid","Shuruppak","Abu Salabikh","Kish","Kutha","Djemdet-Nasr","Tell Agrab","Tutub",
 			"Eshnunna"]
