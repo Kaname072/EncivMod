@@ -110,11 +110,9 @@
 		"innerColor": [255,216,0],
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Religious Tolerance",
-		"uniques": ["[+5]% [Culture] [in holy cities] <when number of [Religion] is more than [0]>",
-		"[+5]% [Culture] [in holy cities] <when number of [Religions] is more than [1]>",
-		"[+5]% [Culture] [in holy cities] <when number of [Religions] is more than [2]>",
-		"[+5]% [Culture] [in holy cities] <when number of [Religions] is more than [3]>",
-		"[+5]% [Culture] [in holy cities] <when number of [Religions] is more than [4]>"]
+		"uniques": ["[+2 Culture] from every [Faith] buildings",
+		"[+25]% Production when constructing [{Wonder} {Faith}] buildings [in holy cities]",
+		"[+1 Culture] from every [{non-[Follower of our Religion]}]"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe & Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
