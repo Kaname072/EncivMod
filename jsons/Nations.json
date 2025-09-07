@@ -33,7 +33,7 @@
 		"favoredReligion": "Orthodoxy Christianity",
 		"uniqueName": "Dragon of Wallachia",
 		"uniques": ["Earn [50]% of killed [Military] unit's [Cost] as [Faith]",
-		"[Faith] cost of purchasing [Inquisitor] units [-10]%"],
+		"[Faith] cost of purchasing [Inquisitor] units [-25]%"],
 		"cities": ["Târgoviste","Bucharest","Câmpulung","Curtea de Argeș","Brăila","Pitesti",
 		"Buzăo","Drobeta-Turnu Severin","Rãmnicu Vâlcea"]
 	},
@@ -69,10 +69,10 @@
 		"outerColor": [255,212,0],
 		"innerColor": [246,0,0],
 		"favoredReligion": "Catholic Christianity",
-		"uniqueName": "Portugal Alliance",
+		"uniqueName": "Tradition Religion",
 		"uniques": ["[+2 Culture] from each Trade Route",
-			"[+15]% [Gold] [in all coastal cities]",
-			"[-25]% Gold cost of acquiring new tiles"],
+			"[+25]% [Gold] [in all coastal cities] <after discovering [Navigation]>",
+			"May choose [1] additional [Pantheon] beliefs when [founding] a religion"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
 	},
@@ -110,8 +110,7 @@
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Faith Defense",
 		"uniques": ["[+1 Culture] from all [Faith] buildings",
-		"[+25]% Production when constructing [{Wonder} {Faith}] buildings [in holy cities]",
-		"May choose [1] additional [Follower] beliefs when [founding] a religion"]
+		"[+25]% Production when constructing [{Wonder} {Faith}] buildings [in holy cities]"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe & Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
