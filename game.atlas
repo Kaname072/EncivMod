@@ -355,6 +355,89 @@ UnitPromotionIcons/Prayer
   offset: 0, 0
   index: -1
 
+unitssprites.png
+size: 512, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Units/Assasin
+  rotate: false
+  xy: 23, 0
+  size: 10, 14
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shield Warrior
+  rotate: false
+  xy: 39, 24
+  size: 11, 15
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sofa
+  rotate: false
+  xy: 39, 0
+  size: 10, 16
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Farimba
+  rotate: false
+  xy: 0, 0
+  size: 19, 19
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rosiori
+  rotate: false
+  xy: 55, 0
+  size: 15, 24
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Kongo Warrior
+  rotate: false
+  xy: 78, 0
+  size: 11, 20
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pracinha
+  rotate: false
+  xy: 5, 25
+  size: 10, 14
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Volunteer
+  rotate: false
+  xy: 20, 25
+  size: 11, 14
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Templar
+  rotate: false
+  xy: 82, 26
+  size: 10, 14
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Holy Cavalry
+  rotate: false
+  xy: 55, 29
+  size: 20, 25
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Portuguese Caravel
+  rotate: false
+  xy: 36, 52
+  size: 15, 20
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
 gameL4.png
 size: 512, 128
 format: RGBA8888
