@@ -200,9 +200,23 @@ ImprovementIcons/Aztecs Pyramid
   orig: 100, 100
   offset: 0, 0
   index: -1
+ImprovementIcons/Feitoria
+  rotate: false
+  xy: 900, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Aztecs Pyramid
   rotate: false
-  xy: 535, 134
+  xy: 534, 134
+  size: 31, 31
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Feitoria
+  rotate: false
+  xy: 234, 434
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
