@@ -153,7 +153,7 @@
 		"attackSound": "cannon"
 	},
 	{
-		"name": "Gladius",
+		"name": "Xiphos Warrior",
 		"replaces": "Swordsman",
 		"uniqueTo": "Macedonia",
 		"unitType": "Sword",
@@ -202,5 +202,38 @@
 		"requiredTech": "Iron Working",
 		"obsoleteTech": "Steel",
 		"attackSound": "metalhit"
-	}
+	},
+	{
+		"name": "Kopis Cavalry",
+		"replaces": "Horseman",
+		"uniqueTo": "Macedonia",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 12,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Horses",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
+	},
+	{
+		"name": "Sofa",
+		"replaces": "Composite Bowman",
+		"uniqueTo": "Mali",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 9,
+		"rangedStrength": 11,
+		"cost": 75,
+		"requiredTech": "Construction",
+		"uniques": ["Can move immediately once bought"],
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Farimba",
 ]
