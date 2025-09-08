@@ -14,5 +14,16 @@
 			"Unbuildable <after discovering [Scientific Theory]>",
             "Will not be replaced by automated units",
 			"Does not need removal of [Jungle]"]
+	},
+	{
+		"name": "Feitoria",
+		"uniqueTo": "Portugal",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"gold": 2,
+		"turnsToBuild": 7,
+		"techRequired": "Guilds",
+		"uniques": ["[-1 Gold] for each adjacent [Feitoria]",
+			"[+2 Gold] for each adjacent [Customs house]",
+			"Can only be built in [Coastal] tiles"]
 	}
 ]
