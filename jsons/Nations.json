@@ -71,7 +71,7 @@
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Tradition Religion",
 		"uniques": ["[+2 Culture] from each Trade Route",
-			"[+25]% [Gold] [in all coastal cities] <after discovering [Navigation]>",
+			"[+10]% [Gold] [in all coastal cities] <after discovering [Navigation]>",
 			"May choose [1] additional [Pantheon] beliefs when [founding] a religion"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
@@ -338,7 +338,7 @@
 		"innerColor": [0,81,151],
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Great Navigations",
-		"uniques": ["[+25]% [Production] [in all coastal cities]",
+		"uniques": ["[+10]% [Production] [in all coastal cities]",
 			"[+2 Gold] from every [Luxury resource]",
 			"Enables [All] units to enter ocean tiles <after discovering [Optics]>"],
 		"cities": ["Lisboa","Porto","Portalegre","Castelo Branco","Figueira da Foz","Santarém","Setúbal","Évora",
