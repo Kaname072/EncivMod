@@ -1,5 +1,5 @@
 
-game5.png
+game.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -123,9 +123,16 @@ UnitIcons/Pracinha
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Mali Merchant
+UnitIcons/Farimba
   rotate: false
-  xy: 200, 300
+  xy: 0, 500
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sofa
+  rotate: false
+  xy: 100, 500
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -137,16 +144,23 @@ UnitIcons/Khopesh Warrior
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Gladius
+UnitIcons/Xiphos Warrior
   rotate: false
   xy: 700, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Celestial Warrior
+UnitIcons/Kopis Cavalry
   rotate: false
   xy: 300, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Minister
+  rotate: false
+  xy: 200, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -161,20 +175,6 @@ UnitIcons/Portuguese Caravel
 UnitIcons/Assasin
   rotate: false
   xy: 900, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Spy Assasin
-  rotate: false
-  xy: 900, 200
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Drone
-  rotate: false
-  xy: 900, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
