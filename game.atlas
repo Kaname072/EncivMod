@@ -209,21 +209,21 @@ ImprovementIcons/Feitoria
   index: -1
 TileSets/FantasyHex/Tiles/Aztecs Pyramid
   rotate: false
-  xy: 534, 134
+  xy: 535, 134
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Feitoria
   rotate: false
-  xy: 234, 434
+  xy: 234, 435
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Diamond
   rotate: false
-  xy: 535, 434
+  xy: 534, 435
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
