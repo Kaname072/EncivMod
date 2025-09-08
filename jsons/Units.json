@@ -6,7 +6,7 @@
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 11,
-		"cost": 50,
+		"cost": 56,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
@@ -229,14 +229,14 @@
 		"rangedStrength": 11,
 		"cost": 75,
 		"requiredTech": "Construction",
-		"uniques": ["Can move immediately once bought"],
+		"uniques": ["Can move immediately once bought","Withdraws before melee combat <with [20]% chance>"],
 		"obsoleteTech": "Machinery",
 		"upgradesTo": "Crossbowman",
 		"attackSound": "arrow"
 	},
 	{
 		"name": "Farimba",
-		"name": "Great General",
+		"replaces": "Great General",
 		"uniqueTo": "Mali",
 		"unitType": "Civilian",
 		"uniques": [
@@ -246,6 +246,6 @@
 			"Can be earned through combat",
             "Is part of Great Person group [General]",
 			"Great Person - [War]", "Unbuildable", "Uncapturable"],
-		"movement": 4
+		"movement": 3
 	}
 ]
