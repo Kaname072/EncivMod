@@ -355,7 +355,7 @@ UnitPromotionIcons/Prayer
   offset: 0, 0
   index: -1
 
-unitsprites.png
+unitsicon.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -418,14 +418,14 @@ TileSets/FantasyHex/Units/Volunteer
   index: -1
 TileSets/FantasyHex/Units/Templar
   rotate: false
-  xy: 260, 62
+  xy: 210, 62
   size: 29, 25
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Holy Cavalry
   rotate: false
-  xy: 210, 62
+  xy: 260, 62
   size: 29, 25
   orig: 100, 100
   offset: 0, 0
