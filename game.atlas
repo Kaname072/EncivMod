@@ -355,7 +355,7 @@ UnitPromotionIcons/Prayer
   offset: 0, 0
   index: -1
 
-unitsicon.png
+FantasyHexUnits.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -363,77 +363,77 @@ repeat: none
 TileSets/FantasyHex/Units/Assasin
   rotate: false
   xy: 60, 12
-  size: 29, 25
+  size: 30, 30
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Shield Warrior
   rotate: false
   xy: 110, 62
-  size: 29, 25
+  size: 30, 30
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Sofa
   rotate: false
   xy: 110, 12
-  size: 29, 25
+  size: 30, 30
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Farimba
   rotate: false
   xy: 10, 12
-  size: 29, 25
+  size: 30, 30
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rosiori
   rotate: false
   xy: 160, 12
-  size: 29, 25
+  size: 30, 30
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Kongo Warrior
   rotate: false
   xy: 210, 12
-  size: 29, 25
+  size: 30, 30
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pracinha
   rotate: false
   xy: 10, 62
-  size: 29, 25
+  size: 30, 30
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Volunteer
   rotate: false
   xy: 60, 62
-  size: 29, 25
+  size: 30, 30
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Templar
   rotate: false
   xy: 210, 62
-  size: 29, 25
+  size: 30, 30
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Holy Cavalry
   rotate: false
   xy: 160, 62
-  size: 29, 25
+  size: 33, 30
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Portuguese Caravel
   rotate: false
   xy: 10, 112
-  size: 29, 25
+  size: 30, 30
   orig: 100, 100
   offset: 0, 0
   index: -1
