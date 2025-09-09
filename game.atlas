@@ -418,14 +418,14 @@ TileSets/FantasyHex/Units/Volunteer
   index: -1
 TileSets/FantasyHex/Units/Templar
   rotate: false
-  xy: 210, 62
+  xy: 260, 62
   size: 29, 25
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Holy Cavalry
   rotate: false
-  xy: 260, 62
+  xy: 210, 62
   size: 29, 25
   orig: 100, 100
   offset: 0, 0
