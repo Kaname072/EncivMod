@@ -362,77 +362,77 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/FantasyHex/Units/Assasin
   rotate: false
-  xy: 60, 12
+  xy: 60, 16
   size: 30, 30
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Shield Warrior
   rotate: false
-  xy: 110, 62
+  xy: 110, 66
   size: 30, 30
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Sofa
   rotate: false
-  xy: 110, 12
+  xy: 110, 16
   size: 30, 30
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Farimba
   rotate: false
-  xy: 10, 12
+  xy: 10, 16
   size: 30, 30
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rosiori
   rotate: false
-  xy: 160, 12
+  xy: 160, 16
   size: 30, 30
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Kongo Warrior
   rotate: false
-  xy: 210, 12
+  xy: 210, 16
   size: 30, 30
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pracinha
   rotate: false
-  xy: 10, 62
+  xy: 10, 66
   size: 30, 30
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Volunteer
   rotate: false
-  xy: 60, 62
+  xy: 60, 66
   size: 30, 30
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Templar
   rotate: false
-  xy: 210, 62
+  xy: 210, 66
   size: 30, 30
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Holy Cavalry
   rotate: false
-  xy: 160, 62
-  size: 33, 30
+  xy: 160, 66
+  size: 34, 30
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Portuguese Caravel
   rotate: false
-  xy: 10, 112
+  xy: 10, 116
   size: 30, 30
   orig: 100, 100
   offset: 0, 0
