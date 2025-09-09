@@ -69,7 +69,7 @@
 		"outerColor": [255,212,0],
 		"innerColor": [246,0,0],
 		"favoredReligion": "Catholic Christianity",
-		"uniqueName": "Tradition Religion",
+		"uniqueName": "Traditional Religion",
 		"uniques": ["[+2 Culture] from each Trade Route",
 			"[+10]% [Gold] [in all coastal cities] <after discovering [Navigation]>",
 			"May choose [1] additional [Pantheon] beliefs when [founding] a religion"],
@@ -108,7 +108,7 @@
 		"outerColor": [255,255,230],
 		"innerColor": [255,216,0],
 		"favoredReligion": "Catholic Christianity",
-		"uniqueName": "Faith Defense",
+		"uniqueName": "Faith Defensor",
 		"uniques": ["[+1 Culture] from all [Faith] buildings",
 		"[+25]% Production when constructing [{Wonder} {Faith}] buildings [in holy cities]"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe & Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
