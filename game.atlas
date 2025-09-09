@@ -390,14 +390,14 @@ TileSets/FantasyHex/Units/Farimba
   index: -1
 TileSets/FantasyHex/Units/Rosiori
   rotate: false
-  xy: 210, 12
+  xy: 160, 12
   size: 29, 25
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Kongo Warrior
   rotate: false
-  xy: 260, 12
+  xy: 210, 12
   size: 29, 25
   orig: 100, 100
   offset: 0, 0
@@ -418,14 +418,14 @@ TileSets/FantasyHex/Units/Volunteer
   index: -1
 TileSets/FantasyHex/Units/Templar
   rotate: false
-  xy: 260, 62
+  xy: 210, 62
   size: 29, 25
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Holy Cavalry
   rotate: false
-  xy: 210, 62
+  xy: 160, 62
   size: 29, 25
   orig: 100, 100
   offset: 0, 0
