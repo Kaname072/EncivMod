@@ -146,7 +146,7 @@
 		"innerColor": [0,186,238],
 		"uniqueName": "Heroism Lusitanian",
 		"uniques": ["[+25] XP gained from combat <during a Golden Age>",
-		"[+2 Culture] from [Forest] tiles"],
+		"[+2 Culture] from [Forest] tiles [in this city]"],
 		"cities": ["Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 		"Caetobriga","Metellinum","Igaeditanorum"]
 	},
