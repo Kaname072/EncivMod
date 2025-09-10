@@ -70,8 +70,7 @@
 		"innerColor": [246,0,0],
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Traditional Religion",
-		"uniques": ["[+2 Culture] from each Trade Route",
-			"[+10]% [Gold] [in all coastal cities] <after discovering [Navigation]>",
+		"uniques": ["[+1 Culture, +1 Faith] per [2] population [in all cities] <before discovering [Navigation]>",
 			"May choose [1] additional [Pantheon] beliefs when [founding] a religion"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
@@ -146,7 +145,8 @@
 		"outerColor": [0,105,180],
 		"innerColor": [0,186,238],
 		"uniqueName": "Heroism Lusitanian",
-		"uniques": ["[+10] XP gained from combat"],
+		"uniques": ["[+25] XP gained from combat <during a Golden Age>",
+		"[+2 Culture] from [Forest] tiles"],
 		"cities": ["Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 		"Caetobriga","Metellinum","Igaeditanorum"]
 	},
@@ -223,7 +223,7 @@
 		"uniqueName": "Mansa's Richness",
 		"uniques": ["[+1 Gold, +1 Faith] from each Trade Route",
 			"[+10]% [Gold] [in all cities] <during a Golden Age>",
-			"[Mounted] units gain the [Mandekalu Spirit] promotion"],
+			"[+30]% Strength <for [Mounted] units>"],
 		"cities": ["Nyeni","Timbuktu","Gao","Walata","Djenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
 	},
@@ -260,7 +260,7 @@
 		"innerColor": [226,191,87],
 		"uniqueName": "The Epic of Gilgamesh",
 		"uniques": ["Free Great Person <upon discovering [Writing] technology>",
-			"[+25]% Great Person generation [in all cities]"],
+			"[+10]% Great Person generation [in all cities]"],
 		"cities": ["Uruk","Ur","Eridu","Nippur","Lagash","Umma","Adab","Zabalam","Girsu","Nigin","Larsa",
 			"El Obeid","Shuruppak","Abu Salabikh","Kish","Kutha","Djemdet-Nasr","Tell Agrab","Tutub",
 			"Eshnunna"]
@@ -298,8 +298,8 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "The Greatest",
 		"uniques": ["When defeating a [{Military} {Melee} {non-[Barbarian]}] unit, earn [15] Gold and recruit it <with [7]% chance>",
-		"[+25]% [Culture] [in annexed cities]",
-		"Gain a free [Courthouse] [in annexed cities]"],
+		"[+10]% [Culture] [in annexed cities]",
+		"[+5]% [Culture] [in puppeted cities]"],
 		"cities": ["Pella","Atheus","Granicus","Ephesos","Halicarnassus","Gordion","Ancyra","Issus","Alexandria","Damascus",
 			"Tyre","Gaza","Nisibis","Gaugamela","Persepolis","Pattala","Rhambacia"]
 	},
