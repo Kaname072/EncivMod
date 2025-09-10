@@ -137,7 +137,7 @@
 
 		"hateHello": "No you here.",
 		"hateLetsHearIt": ["You dont listening what i say?!"],
-		"hateNo": ["Thats is imposiple now!"],
+		"hateNo": ["Thats is imposible now!"],
 		"hateYes": ["yes."],
 		
 		"afterPeace": "The Lusitanians never loses!",
@@ -146,9 +146,7 @@
 		"outerColor": [0,105,180],
 		"innerColor": [0,186,238],
 		"uniqueName": "Heroism Lusitanian",
-		"uniques": ["[+25] XP gained from combat",
-			"[-25]% Gold cost of upgrading <for [Military] units>",
-			"[+2 Culture] from every [Walls]"],
+		"uniques": ["[+10] XP gained from combat"],
 		"cities": ["Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 		"Caetobriga","Metellinum","Igaeditanorum"]
 	},
