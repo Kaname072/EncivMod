@@ -155,6 +155,7 @@
 	{
 		"name": "Phalanx",
 		"replaces": "Spearman",
+		"uniqueTo": "Macedonia",
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 12,
