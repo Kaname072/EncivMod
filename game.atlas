@@ -125,14 +125,14 @@ UnitIcons/Pracinha
   index: -1
 UnitIcons/Farimba
   rotate: false
-  xy: 0, 400
+  xy: 0, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Sofa
   rotate: false
-  xy: 0, 500
+  xy: 0, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
