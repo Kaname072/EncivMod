@@ -153,18 +153,16 @@
 		"attackSound": "cannon"
 	},
 	{
-		"name": "Xiphos Warrior",
-		"replaces": "Swordsman",
-		"uniqueTo": "Macedonia",
+		"name": "Phalanx",
+		"replaces": "Spearman",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 16,
-		"cost": 75,
-		"requiredTech": "Iron Working",
-		"upgradesTo": "Longswordsman",
-		"obsoleteTech": "Steel",
-		"requiredResource": "Iron",
-		"hurryCostModifier": 20,
+		"strength": 12,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+30]% Strength <vs [Mounted] units>","[+10] Strength bonus for [Phalanx] units within [1] tiles"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -204,7 +202,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Kopis Cavalry",
+		"name": "Prodromoi Cavalry",
 		"replaces": "Horseman",
 		"uniqueTo": "Macedonia",
 		"unitType": "Mounted",
