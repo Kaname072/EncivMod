@@ -107,9 +107,9 @@
 		"outerColor": [255,255,230],
 		"innerColor": [255,216,0],
 		"favoredReligion": "Catholic Christianity",
-		"uniqueName": "Saint Kingdom",
-		"uniques": ["[+1 Faith] from every specialist [in all cities]"]
-		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe & Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
+		"uniqueName": "Religious Tolerance",
+		"uniques": ["[+100]% [Culture] [{in all cities} {non-[in cities following our religion]}]"]
+		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe","Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
 	{
@@ -144,9 +144,8 @@
 		"outerColor": [0,105,180],
 		"innerColor": [0,186,238],
 		"uniqueName": "Heroism Lusitanian",
-		"uniques": ["No damage penalty for wounded units <for [Sword] units> <in [Friendly Land] tiles>",
-			"[+25] XP gained from combat <during a Golden Age>",
-			"[+2 Culture] [in all cities] <with [2] to [3] neighboring [{unimproved} {Forest}] tiles>"],
+		"uniques": ["No damage penalty for wounded units <for [Sword] units>",
+			"[+10]% XP gained from combat"],
 		"cities": ["Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 		"Caetobriga","Metellinum","Igaeditanorum"]
 	},
@@ -221,8 +220,8 @@
 		"innerColor": [255,204,0],
 		"favoredReligion": "Islam",
 		"uniqueName": "Mansa's Richness",
-		"uniques": ["[+1 Gold, +1 Faith] from each Trade Route",
-			"[+10]% [Gold] [in all cities] <during a Golden Age>",
+		"uniques": ["[+2 Gold] from each Trade Route",
+			"[+25]% [Gold] [in all cities] <during a Golden Age>",
 			"No damage penalty for wounded units <for [Mounted] units>"],
 		"cities": ["Nyeni","Timbuktu","Gao","Walata","Jenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
@@ -295,9 +294,10 @@
 		"tradeRequest": "Hey! my people need your arms!",
 
 		"outerColor": [0,100,202],
-		"innerColor": [255,255,255],
+		"innerColor": [245,245,245],
 		"uniqueName": "The Greatest",
-		"uniques": ["When defeating a [{Military} {Melee} {non-[Barbarian]}] unit, earn [15] Gold and recruit it <with [7]% chance>",
+		"uniques": ["When defeating a [{Military} {Melee} {non-[Barbarian]}] unit, earn [15] Gold and recruit it <with [7]% chance> <hidden from users>",
+			"Comment [When defeating a Military Melee Enemy unit in a war you can recruit it with 7% chance]",
 		"[+10]% [Culture] [in annexed cities]",
 		"[+20]% [Culture] [in puppeted cities]"],
 		"cities": ["Pella","Atheus","Granicus","Ephesos","Halicarnassus","Gordion","Ancyra","Issus","Alexandria","Damascus",
@@ -336,7 +336,7 @@
 		"innerColor": [0,81,151],
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Great Navigations",
-		"uniques": ["[+3 Production] [in all coastal cities]",
+		"uniques": ["[+5]% [Production] [in all coastal cities]",
 			"[+2 Gold] from every [Luxury resource]",
 			"Enables [All] units to enter ocean tiles <after discovering [Optics]>"],
 		"cities": ["Lisboa","Porto","Portalegre","Castelo Branco","Figueira da Foz","Santarém","Setúbal","Évora",
