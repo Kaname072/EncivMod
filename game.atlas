@@ -1,5 +1,5 @@
 
-game.png
+game0.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -125,14 +125,14 @@ UnitIcons/Pracinha
   index: -1
 UnitIcons/Farimba
   rotate: false
-  xy: 0, 500
+  xy: 0, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Sofa
   rotate: false
-  xy: 100, 500
+  xy: 0, 500
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -144,14 +144,14 @@ UnitIcons/Khopesh Warrior
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Xiphos Warrior
+UnitIcons/Phalanx
   rotate: false
   xy: 700, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Kopis Cavalry
+UnitIcons/Prodromoi Cavalry
   rotate: false
   xy: 300, 300
   size: 100, 100
@@ -249,7 +249,7 @@ BuildingIcons/Ziggurat
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Painted Church
+BuildingIcons/Painted Monastery
   rotate: false
   xy: 500, 200
   size: 100, 100
@@ -294,13 +294,6 @@ ReligionIcons/Catholic Christianity
 ResourceIcons/Diamond
   rotate: false
   xy: 600, 400
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitPromotionIcons/Mandekalu Spirit
-  rotate: false
-  xy: 0, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
