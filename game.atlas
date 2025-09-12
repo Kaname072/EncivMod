@@ -144,6 +144,20 @@ UnitIcons/Khopesh Warrior
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Phalanx
+  rotate: false
+  xy: 700, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Prodromoi Cavalry
+  rotate: false
+  xy: 300, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Minister
   rotate: false
   xy: 200, 300
@@ -405,7 +419,7 @@ TileSets/FantasyHex/Units/Templar
 TileSets/FantasyHex/Units/Holy Cavalry
   rotate: false
   xy: 160, 57
-  size: 34, 32
+  size: 34, 34
   orig: 100, 100
   offset: 0, 0
   index: -1
