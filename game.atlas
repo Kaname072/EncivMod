@@ -1,5 +1,5 @@
 
-game0.png
+game.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -140,20 +140,6 @@ UnitIcons/Sofa
 UnitIcons/Khopesh Warrior
   rotate: false
   xy: 600, 200
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Phalanx
-  rotate: false
-  xy: 700, 200
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Prodromoi Cavalry
-  rotate: false
-  xy: 300, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -431,7 +417,7 @@ TileSets/FantasyHex/Units/Portuguese Caravel
   offset: 0, 0
   index: -1
 
-gameL4.png
+gameL5.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -457,7 +443,7 @@ LeaderIcons/Baldwin IV
   orig: 100, 100
   offset: 0, 0
   index: -1
-LeaderIcons/Alexander the Great
+LeaderIcons/Alexander
   rotate: false
   xy: 250, 250
   size: 250, 250
