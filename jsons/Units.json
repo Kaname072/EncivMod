@@ -120,7 +120,7 @@
 		"cost": 150,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
-		"uniques": ["[+10]% Strength <in [Enemy Land] tiles>"]
+		"uniques": ["Can move immediately once bought","[+10]% Strength <in [Enemy Land] tiles>"]
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
 	},
@@ -134,6 +134,7 @@
 		"cost": 375,
 		"requiredTech": "Plastics",
 		"upgradesTo": "Mechanized Infantry",
+		"uniques": ["[+20]% Strength <in [Enemy Land] tiles>"],
 		"obsoleteTech": "Mobile Tactics",
 		"attackSound": "shot"
 	},
@@ -143,7 +144,7 @@
 		"uniqueTo": "Portugal",
 		"unitType": "Melee Water",
 		"movement": 4,
-		"strength": 23,
+		"strength": 22,
 		"cost": 120,
 		"requiredTech": "Astronomy",
 		"upgradesTo": "Ironclad",
@@ -214,7 +215,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["[1] additional attacks per turn","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
+		"uniques": ["[1] additional attacks per turn <when [non-[Wounded]]>","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
