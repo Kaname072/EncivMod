@@ -100,12 +100,12 @@
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 12,
-		"cost": 70,
+		"cost": 75,
 		"requiredTech": "Iron Working",
 		"requiredResource": "Iron",
 		"upgradesTo": "Longswordsman",
 		"uniques": ["Withdraws before melee combat <with [10]% chance>"],
-		"promotions": ["Shock I"],
+		"promotions": ["Shock I","Shock II"],
 		"obsoleteTech": "Steel",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
@@ -117,10 +117,10 @@
 		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 24,
-		"cost": 125,
+		"cost": 150,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
-		"uniques": ["Ignore terrain cost <in [Enemy Land] tiles>"]
+		"uniques": ["[+10]% Strength <in [Enemy Land] tiles>"]
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
 	},
@@ -131,7 +131,7 @@
 		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 70,
-		"cost": 350,
+		"cost": 375,
 		"requiredTech": "Plastics",
 		"upgradesTo": "Mechanized Infantry",
 		"obsoleteTech": "Mobile Tactics",
