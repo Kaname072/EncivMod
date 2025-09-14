@@ -72,7 +72,7 @@
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Traditional Religion",
 		"uniques": ["[-30]% Culture cost of natural border growth [in all cities]",
-			"[-60]% maintenance cost for [Portuguese Gunman] units",
+			"[-60]% maintenance cost <for [Portuguese Gunman] units>",
 			"May choose [1] additional [Pantheon] beliefs when [founding] a religion"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
@@ -293,15 +293,15 @@
 		"hateNo": ["NO!"],
 		"hateYes": ["Yes, this is fine"],
 		
-		"afterPeace": "More scars in this world!?... More pain for people? Yes, thanks for the peace",
+		"afterPeace": "More scars in this world!?... More pain for people? Yes, you are right. Thanks for the peace",
 		"tradeRequest": "Hey! my people need your arms!",
 
 		"outerColor": [0,100,202],
 		"innerColor": [245,245,245],
 		"uniqueName": "The Greatest",
-		"uniques": ["[+1] Movement <for [Melee] units> <when at war>",
-		"[+1] Range <for [Ranged] units>",
-		"Gain a free [Courthouse] buildings [in puppeted cities]"],
+		"uniques": ["[+10]% [Culture] from every [Wonder] [in annexed cities]",
+			"[-25]% City-State Influence degradation",
+		"City-State territory always counts as friendly territory"],
 		"cities": ["Pella","Atheus","Granicus","Ephesos","Halicarnassus","Gordion","Ancyra","Issus","Alexandria","Damascus",
 			"Tyre","Gaza","Nisibis","Gaugamela","Persepolis","Pattala","Rhambacia"]
 	},
@@ -339,7 +339,7 @@
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Great Navigations",
 		"uniques": ["[+5]% [Production] [in all coastal cities]",
-			"[+3 Gold] from every [Luxury resource]",
+			"[+5]% [Gold] from every [Luxury resource]",
 			"Enables [All] units to enter ocean tiles <after discovering [Optics]>"],
 		"cities": ["Lisboa","Porto","Portalegre","Castelo Branco","Figueira da Foz","Santarém","Setúbal","Évora",
 		"Almada","Beja","Portimão","Faro","Olhão","Aveiro"]
