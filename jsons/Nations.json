@@ -3,7 +3,7 @@
 		"name": "Principality of Wallachia",
 		"leaderName": "Vlad III",
 		"adjective": ["wallachian"],
-		"startBias": ["Avoid [Desert]"],
+		"startBias": ["Avoid [Jungle]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Vlad III",
 		
@@ -33,7 +33,7 @@
 		"favoredReligion": "Orthodoxy Christianity",
 		"uniqueName": "Dragon of Wallachia",
 		"uniques": ["Earn [10]% of killed [Military] unit's [Cost] as [Faith]",
-		"[Faith] cost of purchasing [Inquisitor] units [-50]%"],
+		"[Faith] cost of purchasing [Inquisitor] units [-40]%"],
 		"cities": ["Târgoviste","Bucharest","Câmpulung","Curtea de Argeș","Brăila","Pitesti",
 		"Buzăo","Drobeta-Turnu Severin","Rãmnicu Vâlcea"]
 	},
@@ -70,7 +70,8 @@
 		"innerColor": [246,0,0],
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Traditional Religion",
-		"uniques": ["[-50]% Culture cost of natural border growth [in this city] <during a Golden Age>",
+		"uniques": ["[-30]% Culture cost of natural border growth [in all cities] <during a Golden Age>",
+			"[-60]% maintenance cost for [Portuguese Gunman] units",
 			"May choose [1] additional [Pantheon] beliefs when [founding] a religion"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
@@ -147,7 +148,7 @@
 		"outerColor": [0,105,180],
 		"innerColor": [0,186,238],
 		"uniqueName": "Heroism Lusitanian",
-		"uniques": ["[+15]% XP gained from combat"],
+		"uniques": ["[+25]% XP gained from combat"],
 		"cities": ["Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 		"Caetobriga","Metellinum","Igaeditanorum"]
 	},
@@ -222,7 +223,7 @@
 		"innerColor": [255,204,0],
 		"favoredReligion": "Islam",
 		"uniqueName": "Mansa's Richness",
-		"uniques": ["[+25]% [Gold] [in all cities] <during a Golden Age>",
+		"uniques": ["[50]% [Gold] [in all cities] <during a Golden Age>",
 			"No damage penalty for wounded units <for [Mounted] units>"],
 		"cities": ["Nyeni","Timbuktu","Gao","Walata","Jenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
@@ -350,6 +351,7 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType":"Diplomatic",
 		"personality": "Pericles",
+		
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 		"declaringWar": "Man, you mistakes made me do it. Prepare yourself!",
