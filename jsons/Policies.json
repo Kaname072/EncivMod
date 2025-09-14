@@ -18,7 +18,7 @@
                 "name": "Aristocracy",
                 "uniques": [
                     "[+15]% Production when constructing [All] wonders [in all cities]",
-                    "[+1 Happiness] per [8] population [in all cities]"
+                    "[+1 Happiness] per [10] population [in all cities]"
                 ],
                 "row": 1,
                 "column": 1
@@ -204,7 +204,7 @@
             {
                 "name": "Honor Complete",
                 "uniques": [
-                    "Earn [50]% of killed [Military] unit's [Cost] as [Gold]","Free [Great General] appears" 
+                    "Earn [25]% of killed [Military] unit's [Cost] as [Gold]","Free [Great General] appears" 
                 ]
             }
         ]
@@ -300,7 +300,7 @@
             {
                 "name": "Aesthetics",
                 "uniques": [
-                    "Resting point for Influence with City-States is increased by [30]"
+                    "Resting point for Influence with City-States is increased by [30]","Free [Great Artist] appears"
                 ],
                 "row": 1,
                 "column": 4
@@ -336,7 +336,7 @@
             {
                 "name": "Patronage Complete",
                 "uniques": [
-                    "Influence of all other civilizations with all city-states degrades [25]% faster",
+                    "Influence of all other civilizations with all city-states degrades [33]% faster",
                     "Triggers the following global alert: [Our influence with City-States has started dropping faster!]"
                 ]
             }
@@ -352,7 +352,7 @@
             "Domination": 5,
             "Scientific": 5
         },
-        "uniques": ["[+10]% [Gold] [in all cities]"],
+        "uniques": ["[+10]% [Gold] [in all cities connected to capital]"],
         "policies": [
             {
                 "name": "Naval Tradition",
