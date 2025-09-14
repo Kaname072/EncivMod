@@ -1,37 +1,7 @@
 [
   {
-    "name": "God Dagom",
-    "type": "Pantheon",
-    "uniques": ["[+1 Food, +2 Production] from [Fishing Boats] tiles [in all cities]"]
-  },
-  {
     "name": "Sacrificies for Gods",
     "type": "Pantheon",
-    "uniques": ["[+2 Faith, +1 Production] from [Sheep] tiles [in this city]"]
-  },
-  {
-    "name": "Tupã God",
-    "type": "Pantheon",
-    "uniques": ["[+2 Food] from [Jungle] tiles [in this city]",
-      "[+1 Food] from [Forest] tiles [in this city]"]
-  },
-  {
-    "name": "Pardon Power",
-    "type": "Follower",
-    "uniques": ["[+10]% [Happiness] [in this city] <when not at war>",
-    "[+10]% [Faith] [in this city] <when not at war>"]
-  },
-  {
-    "name": "Teocracy",
-    "type": "Enhancer",
-    "uniques": ["[+1] Movement <for [Inquisitor] units>",
-      "[Faith] cost of purchasing [Religious] units [+30]%",
-      "[+15]% Natural religion spread [in all cities connected to capital]"]
-  },
-  {
-    "name": "Despoina Mercy",
-    "type": "Pantheon",
-    "uniques": ["[+1 Faith, +1 Food] from [Snow] tiles [in this city]",
-    "[+1 Food] from [{Deer} {Snow}] tiles [in this city]"]
+    "uniques": ["[+2 Faith] from [Sheep] tiles [in this city]"]
   }
 ]
