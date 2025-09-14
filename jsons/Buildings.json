@@ -14,7 +14,7 @@
 		"replaces": "Temple",
 		"uniqueTo": "Sumerians",
 		"faith": 2,
-		"culture": 2,
+		"culture": 4,
 		"requiredBuilding": "Shrine",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
@@ -24,13 +24,13 @@
 	{
 		"name": "Navigation School",
 		"uniqueTo": "Portugal",
-		"science": 4,
+		"science": 8,
 		"culture": 2,
 		"maintenance": 2,
 		"hurryCostModifier": 15,
 		"isNationalWonder": true,
 		"requiredBuilding": "Library",
-		"uniques": ["[+1 Science] from [Water] tiles [in this city]",
+		"uniques": ["[+2 Science] from [Ocean] tiles [in this city]",
 			"Must be next to [Coast]"],
 		"requiredTech": "Optics"
 	},
@@ -38,7 +38,7 @@
 		"name": "Painted Monastery"
 		"replaces": "Temple",
 		"uniqueTo": "Principality of Wallachia",
-		"percentStatBonus": {"culture": 10},
+		"percentStatBonus": {"culture": 25},
 		"faith": 2,
 		"culture": 2,
 		"requiredBuilding": "Shrine",
@@ -62,10 +62,9 @@
 	{
 		"name":"Buddha Golden Statue",
 		"isWonder": true,
-		"maintenance": 3,
+		"maintenance": 6,
 		"faith": 8,
 		"culture": 4,
-		"gold": 2,
 		"requiredTech": "Theology",
 		"uniques": ["Only available <when religion is enabled>"]
 	},
@@ -78,7 +77,8 @@
 		"percentStatBonus": {"science": 33},
 		"specialistSlots": {"Scientist": 2},
 		"requiredBuilding": "Library",
-		"uniques": ["Must be next to [Desert]","[+2 Science] from [Desert] tiles [in this city]"],
+		"uniques": ["[+2 Science] from [Desert] tiles [in this city]",
+		"[+1 Science] from [Jungle] tiles [in this city]"],
 		"requiredTech": "Education"
 	}
 ]
