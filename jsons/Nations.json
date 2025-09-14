@@ -32,8 +32,8 @@
 		"innerColor": [0,110,56],
 		"favoredReligion": "Orthodoxy Christianity",
 		"uniqueName": "Dragon of Wallachia",
-		"uniques": ["Earn [50]% of killed [Military] unit's [Cost] as [Faith]",
-		"[Faith] cost of purchasing [Inquisitor] units [-25]%"],
+		"uniques": ["Earn [10]% of killed [Military] unit's [Cost] as [Faith]",
+		"[Faith] cost of purchasing [Inquisitor] units [-50]%"],
 		"cities": ["Târgoviste","Bucharest","Câmpulung","Curtea de Argeș","Brăila","Pitesti",
 		"Buzăo","Drobeta-Turnu Severin","Rãmnicu Vâlcea"]
 	},
@@ -70,7 +70,7 @@
 		"innerColor": [246,0,0],
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Traditional Religion",
-		"uniques": ["[+1 Culture, +1 Faith] per [2] population [in all cities] <before discovering [Navigation]>",
+		"uniques": ["[+1 Culture] per [2] population [in all cities] <before discovering [Navigation]>",
 			"May choose [1] additional [Pantheon] beliefs when [founding] a religion"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
@@ -108,10 +108,10 @@
 		"innerColor": [255,216,0],
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Religious Tolerance",
-		"uniques": ["[+100]% [Culture] [{in all cities} {non-[in cities following our religion]}] <hidden from users>",
-			"Comment [+100% Culture in cities non following our religion]",
-			"[+50]% [Faith] [{in all cities} {non-[in cities following our religion]}] <hidden from users>",
-			"Comment [+50% Faith in cities non following our religion]"]
+		"uniques": ["[+50]% [Culture] [{in all cities} {non-[in cities following our religion]}] <hidden from users>",
+			"Comment [+50% Culture in cities following a foreign religion]",
+			"[+25]% [Faith] [{in all cities} {non-[in cities following our religion]}] <hidden from users>",
+			"Comment [+25% Faith in cities following a foreign religion]"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe","Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
@@ -262,7 +262,7 @@
 		"innerColor": [226,191,87],
 		"uniqueName": "The Epic of Gilgamesh",
 		"uniques": ["Free Great Person <upon discovering [Writing] technology>",
-			"[+10]% Great Person generation [in all cities]"],
+			"[+15]% Great Person generation [in all cities]"],
 		"cities": ["Uruk","Ur","Eridu","Nippur","Lagash","Umma","Adab","Zabalam","Girsu","Nigin","Larsa",
 			"El Obeid","Shuruppak","Abu Salabikh","Kish","Kutha","Djemdet-Nasr","Tell Agrab","Tutub",
 			"Eshnunna"]
@@ -368,8 +368,9 @@
 		"outerColor": [255, 255, 255],
 		"innerColor": [65, 141, 254],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Hellenic League",
-		"uniques": ["City-State Influence recovers at twice the normal rate"],
+		"uniqueName": "First Democracy",
+		"uniques": ["City-State Influence recovers at twice the normal rate",
+		"[-10]% Culture cost of adopting new Policies reduced"],
 		"cities": ["Athens","Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes",
 			"Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios",
 			"Paros","Elis","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos",
