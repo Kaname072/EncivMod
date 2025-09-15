@@ -252,10 +252,10 @@
 		"name": "Great Admiral",
 		"unitType": "Civilian",
 		"uniques": [
-            "[+15]% Strength bonus for {[Military] [Water]} units within [2] tiles",
+            "[+15]% Strength bonus for [{Military} {Water}] units within [2] tiles",
             "Can instantly construct a [Naval Base] improvement <by consuming this unit>",
 			"Can be earned through combat",
-            "Is part of Great Person group [Admiral]","[+2] Movement <when [Embarked]>",
+            "Is part of Great Person group [War]","[+2] Movement <when [Embarked]>",
 			"Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 2
 	}
