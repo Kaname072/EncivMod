@@ -250,12 +250,23 @@
 	},
 	{
 		"name": "Great Admiral",
-		"unitType": "Civilian",
+		"unitType": "Civilian Water",
 		"uniques": [
             "[+15]% Strength bonus for [{Military} {Water}] units within [2] tiles",
             "Can instantly construct a [Naval Base] improvement <by consuming this unit>",
 			"Can be earned through combat",
             "Is part of Great Person group [War]","[+2] Movement <when [Embarked]>",
+			"Great Person - [War]", "Unbuildable", "Uncapturable","Can enter ocean tiles"],
+		"movement": 2
+	},
+	{
+		"name": "Great General",
+		"unitType": "Civilian",
+		"uniques": [
+            "[+15]% Strength bonus for [{Military} {Land}] units within [2] tiles",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Can be earned through combat",
+            "Is part of Great Person group [General]",
 			"Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 2
 	}
