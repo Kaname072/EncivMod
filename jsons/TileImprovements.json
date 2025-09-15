@@ -36,10 +36,10 @@
 			"Gives a defensive bonus of [100]%",
 			"Adjacent enemy units ending their turn take [30] damage",
 			"Can be built outside your borders",
-			"Gain control over {[all] [Water]} tiles in a [1]-tile radius",
+			"Gain control over [{all} {Water}] tiles in a [1]-tile radius",
 			"Removes removable features when built",
             "Will not be replaced by automated units",
-			"Grants [Supply] to adjacent [{Military} {Water}] units for the rest of the game"
+			"Grants [Supply] ([all healing effects doubled]) to adjacent [{Military} {Water}] units for the rest of the game"
 		]
 	}
 ]
