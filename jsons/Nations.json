@@ -72,7 +72,7 @@
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Traditional Religion",
 		"uniques": ["[-30]% Culture cost of natural border growth [in all cities]",
-			"[-60]% maintenance cost <for [Portuguese Gunman] units>",
+			"[-60]% maintenance costs <for [Portuguese Gunman] units>",
 			"May choose [1] additional [Pantheon] beliefs when [founding] a religion"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
@@ -299,7 +299,7 @@
 		"outerColor": [0,100,202],
 		"innerColor": [245,245,245],
 		"uniqueName": "The Greatest",
-		"uniques": ["[+10]% [Culture] from every [Wonder] [in annexed cities]",
+		"uniques": ["[+10]% [Culture] from every [Wonder] buildings [in annexed cities]",
 			"[-25]% City-State Influence degradation",
 		"City-State territory always counts as friendly territory"],
 		"cities": ["Pella","Atheus","Granicus","Ephesos","Halicarnassus","Gordion","Ancyra","Issus","Alexandria","Damascus",
