@@ -1,5 +1,5 @@
 
-game.png
+game0.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -193,6 +193,13 @@ UnitIcons/Mercenary
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Great Admiral
+  rotate: false
+  xy: 100, 500
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ImprovementIcons/Aztecs Pyramid
   rotate: false
   xy: 700, 100
@@ -203,6 +210,13 @@ ImprovementIcons/Aztecs Pyramid
 ImprovementIcons/Feitoria
   rotate: false
   xy: 900, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Naval Base
+  rotate: false
+  xy: 200, 500
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
