@@ -299,7 +299,7 @@
 		"outerColor": [0,100,202],
 		"innerColor": [245,245,245],
 		"uniqueName": "The Greatest",
-		"uniques": ["[+10]% [Culture] from every [Wonder] buildings [in annexed cities]",
+		"uniques": ["[+5]% [Culture] from every [Wonder]",
 			"[-25]% City-State Influence degradation",
 		"City-State territory always counts as friendly territory"],
 		"cities": ["Pella","Atheus","Granicus","Ephesos","Halicarnassus","Gordion","Ancyra","Issus","Alexandria","Damascus",
