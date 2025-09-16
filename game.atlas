@@ -258,7 +258,7 @@ TileSets/FantasyHex/Tiles/Feitoria
   index: -1
 TileSets/FantasyHex/Tiles/Naval Base
   rotate: false
-  xy: 334, 535
+  xy: 334, 534
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
