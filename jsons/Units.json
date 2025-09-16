@@ -269,5 +269,20 @@
             "Is part of Great Person group [General]",
 			"Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 2
+	},
+	{
+		"name": "Destroyer",
+		"unitType": "Sword",
+		"movement": 1,
+		"strength": 16,
+		"cost": 125,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"uniques": ["[+200]% Strength <when attacking> <vs [Siege] units>",
+			"[-50]% Strength <when defending> <vs [Melee] units>",
+			"Can only attack [Land] units"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
 	}
 ]
