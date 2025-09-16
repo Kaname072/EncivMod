@@ -11,8 +11,7 @@
         },
         "uniques": [
             "[+3 Culture] [in capital]",
-            "[-25]% Culture cost of natural border growth [in all cities]",
-            "Free Great Person"
+            "[-25]% Culture cost of natural border growth [in all cities]"
         ],
         "policies": [
             {
