@@ -200,7 +200,7 @@ UnitIcons/Great Admiral
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Destroyer
+UnitIcons/Destructor
   rotate: false
   xy: 900, 500
   size: 100, 100
