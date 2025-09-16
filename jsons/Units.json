@@ -344,7 +344,7 @@
 		"obsoleteTech": "Chemistry",
 		"upgradesTo": "Cannon",
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
-			"Can only attack [City] units","Can carry [2] [Arrow Rain] units","Can only heal by pillaging","Unable pillage tiles", "[-1] Sight", "Never appears as a Barbarian unit"],
+			"Can only attack [City] units","Can carry [2] [Arrow Rain] units","Can only heal by pillaging","Unable to pillage tiles", "[-1] Sight", "Never appears as a Barbarian unit"],
 		"hurryCostModifier": 20,
 		"promotions": ["Cover I"],
 		"attackSound": "metalhit"
