@@ -296,7 +296,7 @@
 		"obsoleteTech": "Physics",
 		"requiredResource": "Iron",
 		"upgradesTo": "Trebuchet",
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>","[+50]% Strength <when defending> <vs [non-[Destructor] units>", "No defensive terrain bonus",
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>","[+50]% Strength <when defending> <vs [non-[Destructor]] units>", "No defensive terrain bonus",
 			"Must set up to ranged attack", "[-1] Sight", "Never appears as a Barbarian unit"],
 		"hurryCostModifier": 20,
 		"attackSound": "throw"
@@ -314,7 +314,7 @@
 		"obsoleteTech": "Physics",
 		"requiredResource": "Iron",
 		"upgradesTo": "Trebuchet",
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>","[+50]% Strength <when defending> <vs [non-[Destructor] units>", "No defensive terrain bonus",
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>","[+50]% Strength <when defending> <vs [non-[Destructor]] units>", "No defensive terrain bonus",
 			"Must set up to ranged attack", "[-1] Sight"],
 		"hurryCostModifier": 20,
 		"attackSound": "throw"
@@ -330,14 +330,14 @@
 		"obsoleteTech": "Chemistry",
 		"requiredResource": "Iron",
 		"upgradesTo": "Cannon",
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>","[+75]% Strength <when defending> <vs [non-[Destructor] units>","No defensive terrain bonus","Must set up to ranged attack","[-1] Sight","Never appears as a Barbarian unit"],
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>","[+75]% Strength <when defending> <vs [non-[Destructor]] units>","No defensive terrain bonus","Must set up to ranged attack","[-1] Sight","Never appears as a Barbarian unit"],
 		"attackSound": "throw"
 	},
 	{
 		"name": "War Tower",
 		"unitType": "Siege",
 		"movement": 2,
-		"strength": 8,
+		"strength": 10,
 		"cost": 50,
 		"requiredTech": "Construction",
 		"obsoleteTech": "Chemistry",
@@ -358,7 +358,7 @@
 		"cost": 10,
 		"requiredTech": "Archery",
 		"obsoleteTech": "Chemistry",
-		"uniques": ["[-100]% maintenance costs","[+100]% Strength <vs cities>","[+200]% Strength <after discovering [Machinery]"],
+		"uniques": ["[-100]% maintenance costs","[+100]% Strength <vs cities>","[+200]% Strength <after discovering [Machinery]>"],
 		"attackSound": "arrow"
 	}
 ]
