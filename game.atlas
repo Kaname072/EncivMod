@@ -1,5 +1,5 @@
 
-game0.png
+game.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -200,6 +200,27 @@ UnitIcons/Great Admiral
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Destroyer
+  rotate: false
+  xy: 900, 500
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/War Tower
+  rotate: false
+  xy: 800, 500
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Arrow Rain
+  rotate: false
+  xy: 700, 500
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ImprovementIcons/Aztecs Pyramid
   rotate: false
   xy: 700, 100
@@ -231,6 +252,13 @@ TileSets/FantasyHex/Tiles/Aztecs Pyramid
 TileSets/FantasyHex/Tiles/Feitoria
   rotate: false
   xy: 234, 435
+  size: 31, 31
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Naval Base
+  rotate: false
+  xy: 334, 535
   size: 31, 31
   orig: 100, 100
   offset: 0, 0
