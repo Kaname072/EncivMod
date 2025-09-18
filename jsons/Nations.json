@@ -70,9 +70,8 @@
 		"outerColor": [255,212,0],
 		"innerColor": [246,0,0],
 		"favoredReligion": "Catholic Christianity",
-		"uniqueName": "Traditional Religion",
-		"uniques": ["[-30]% Culture cost of natural border growth [in all cities]",
-			"[-60]% maintenance costs <for [Portuguese Gunman] units>",
+		"uniqueName": "Slave Commerce",
+		"uniques": ["Earn [100]% of killed [Barbarian] unit's [Cost] as [Gold]",
 			"May choose [1] additional [Pantheon] beliefs when [founding] a religion"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
@@ -81,7 +80,7 @@
 		"name": "Jerusalem Kingdom",
 		"leaderName": "Baldwin IV",
 		"adjective": ["jerusalem"],
-		"startBias": ["Grassland"],
+		"startBias": ["Desert"],
 		"preferredVictoryType": "Diplomatic",
 		"personality": "Baldwin IV"
 		
@@ -90,7 +89,7 @@
 		
 		"declaringWar": "My tolerance with you is over!",
 		"attacked": "Well, i really do it?",
-		"defeated": "That is shame, the evil forces never wins the holy kingdom. you will pay for this",
+		"defeated": "I accept my fate but remember, I am Jerusalem!",
 		"introduction": "Do not fear",
 		
 		"neutralHello": "How are you doing?",
@@ -112,8 +111,7 @@
 		"uniqueName": "Religious Tolerance",
 		"uniques": ["[+50]% [Culture] [{in all cities} {non-[in cities following our religion]}] <hidden from users>",
 			"Comment [+50% Culture in cities following a foreign religion]",
-			"[+25]% [Faith] [{in all cities} {non-[in cities following our religion]}] <hidden from users>",
-			"Comment [+25% Faith in cities following a foreign religion]"]
+			"[+1 Faith] from [Fort] tiles [in this city]"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe","Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
@@ -149,7 +147,7 @@
 		"outerColor": [0,105,180],
 		"innerColor": [0,186,238],
 		"uniqueName": "Heroism Lusitanian",
-		"uniques": ["[+25]% XP gained from combat"],
+		"uniques": ["[+25]% XP gained from combat <for [Melee] units>"],
 		"cities": ["Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 		"Caetobriga","Metellinum","Igaeditanorum"]
 	},
