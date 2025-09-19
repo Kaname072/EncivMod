@@ -32,8 +32,8 @@
 		"innerColor": [0,110,56],
 		"favoredReligion": "Orthodoxy Christianity",
 		"uniqueName": "Dragon of Wallachia",
-		"uniques": ["Earn [10]% of killed [Military] unit's [Cost] as [Faith]",
-		"[Faith] cost of purchasing items in cities [-10]%",
+		"uniques": ["Earn [20]% of killed [Military] unit's [Cost] as [Faith]",
+		"[+20]% Strength <vs [Wounded] units>",
 		"Notified of new Barbarian encampments"],
 		"cities": ["Târgoviste","Bucharest","Câmpulung","Curtea de Argeș","Brăila","Pitesti",
 		"Buzăo","Drobeta-Turnu Severin","Rãmnicu Vâlcea"]
@@ -110,7 +110,7 @@
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Religious Tolerance",
 		"uniques": ["[+50]% [Culture] [{in all cities} {non-[in cities following our religion]}] <hidden from users>",
-			"Comment [+50% Culture in cities following a foreign religion]",
+			"Comment [+50% [Culture] in cities following a foreign religion]",
 			"[+1 Faith] from [Fort] tiles [in this city]",
 			"Starts with [Archery]"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe","Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
@@ -148,7 +148,7 @@
 		"outerColor": [0,105,180],
 		"innerColor": [0,186,238],
 		"uniqueName": "Heroism Lusitanian",
-		"uniques": ["[+25]% XP gained from combat <for [Melee] units>"],
+		"uniques": ["[+20]% XP gained from combat <for [Melee] units>"],
 		"cities": ["Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 		"Caetobriga","Metellinum","Igaeditanorum"]
 	},
@@ -186,6 +186,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Volunteers of the Fatherland",
 		"uniques": ["[+25]% Production when constructing [Military] units [in all cities] <when at war>",
+			"[+2 Culture] from [Jungle] tiles [in this city]",
 			"[+50]% [Culture] [in all cities] <during a Golden Age>"],
 		"cities": ["Rio de Janeiro","São Paulo","Salvador","Fortaleza","Florianópolis","Paraíba","Belém",
 			"Teresina","São Vincente","Maceió","Natal","Rio Branco","Macapá","Porto Alegre","João Pessoa","Curitiba"]
@@ -224,7 +225,8 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "Mansa's Richness",
 		"uniques": ["[50]% [Gold] [in all cities] <during a Golden Age>",
-			"No damage penalty for wounded units <for [Mounted] units>"],
+			"No damage penalty for wounded units <for [Mounted] units>",
+			"Earn [25]% [Gold] <when capturing a city>"],
 		"cities": ["Nyeni","Timbuktu","Gao","Walata","Jenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
 	},
@@ -260,8 +262,9 @@
 		"outerColor": [14,69,179],
 		"innerColor": [226,191,87],
 		"uniqueName": "The Epic of Gilgamesh",
-		"uniques": ["Free Great Person <every [10] turns>",
-			"[+10]% Great Person generation [in all cities]"],
+		"uniques": ["Free Great Person <upon discovering [Writing] technology>",
+			"[+10]% Great Person generation [in all cities]",
+			"Starts with [Pottery]"],
 		"cities": ["Uruk","Ur","Eridu","Nippur","Lagash","Umma","Adab","Zabalam","Girsu","Nigin","Larsa",
 			"El Obeid","Shuruppak","Abu Salabikh","Kish","Kutha","Djemdet-Nasr","Tell Agrab","Tutub",
 			"Eshnunna"]
