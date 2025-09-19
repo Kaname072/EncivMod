@@ -2,10 +2,12 @@
   {
     "name": "Sacrificies for Gods",
     "type": "Pantheon",
-    "uniques": ["[+2 Faith] from [Sheep] tiles [in this city]"]
+    "uniques": ["[+1 Faith] from [Sheep] tiles [in this city]"]
   },
   {
-    "name": "God of Earth",
+    "name": "Rain God",
     "type": "Pantheon",
-    "uniques": ["[+1 Food] from [Salt] tiles [in this city]"]
+    "uniques": ["[+2 Food, +1 Faith] from [Salt] tiles [in this city]",
+    "[+2 Food, +1 Faith] from [Peppers] tiles [in this city]"]
+  }
 ]
