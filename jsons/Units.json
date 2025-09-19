@@ -11,7 +11,7 @@
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
-		"promotions": ["Cover I"],
+		"promotions": ["Cover I","Cover II"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -164,7 +164,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+30]% Strength <vs [Mounted] units>","[+10]% Strength bonus for [Phalanx] units within [1] tiles"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+10]% Strength bonus for [Phalanx] units within [1] tiles"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -225,8 +225,8 @@
 		"uniqueTo": "Mali",
 		"unitType": "Archery",
 		"movement": 2,
-		"strength": 9,
-		"rangedStrength": 11,
+		"strength": 7,
+		"rangedStrength": 13,
 		"cost": 75,
 		"requiredTech": "Construction",
 		"uniques": ["Can move immediately once bought","Withdraws before melee combat <with [20]% chance>"],
@@ -257,7 +257,7 @@
 			"Can be earned through combat",
             "Is part of Great Person group [War]","[+2] Movement <when [Embarked]>",
 			"Great Person - [War]", "Unbuildable", "Uncapturable","Can enter ocean tiles"],
-		"movement": 2
+		"movement": 4
 	},
 	{
 		"name": "Great General",
