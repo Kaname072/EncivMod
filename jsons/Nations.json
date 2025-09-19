@@ -112,7 +112,7 @@
 		"uniques": ["[+50]% [Culture] [{in all cities} {non-[in cities following our religion]}] <hidden from users>",
 			"Comment [+50% Culture in cities following a foreign religion]",
 			"[+1 Faith] from [Fort] tiles [in this city]",
-			"Start with [Archery]"]
+			"Starts with [Archery]"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe","Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
@@ -260,7 +260,7 @@
 		"outerColor": [14,69,179],
 		"innerColor": [226,191,87],
 		"uniqueName": "The Epic of Gilgamesh",
-		"uniques": ["Free Great Person <in every [10] turns>",
+		"uniques": ["Free Great Person <every [10] turns>",
 			"[+10]% Great Person generation [in all cities]"],
 		"cities": ["Uruk","Ur","Eridu","Nippur","Lagash","Umma","Adab","Zabalam","Girsu","Nigin","Larsa",
 			"El Obeid","Shuruppak","Abu Salabikh","Kish","Kutha","Djemdet-Nasr","Tell Agrab","Tutub",
