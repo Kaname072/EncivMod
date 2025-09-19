@@ -3,5 +3,9 @@
     "name": "Sacrificies for Gods",
     "type": "Pantheon",
     "uniques": ["[+2 Faith] from [Sheep] tiles [in this city]"]
-  }
+  },
+  {
+    "name": "God of Earth",
+    "type": "Pantheon",
+    "uniques": ["[+1 Food] from [Salt] tiles [in this city]"]
 ]
