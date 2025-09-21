@@ -112,7 +112,8 @@
 		"uniques": ["[+50]% [Culture] [{in all cities} {non-[in cities following our religion]}] <hidden from users>",
 			"Comment [+50% [Culture] in cities following a foreign religion]",
 			"[+1 Faith] from [Fort] tiles [in this city]",
-			"Starts with [Archery]"]
+			"Adopt [Piety] <hidden from users>",
+			"Comment [Starts with [Piety] Adopted]"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe","Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
@@ -226,7 +227,7 @@
 		"uniqueName": "Mansa's Richness",
 		"uniques": ["[50]% [Gold] [in all cities] <during a Golden Age>",
 			"No damage penalty for wounded units <for [Mounted] units>",
-			"Earn [25]% [Gold] <when capturing a city>"],
+			"May buy [Great Merchant] units for [1000] [Gold] [in all cities]"],
 		"cities": ["Nyeni","Timbuktu","Gao","Walata","Jenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
 	},
