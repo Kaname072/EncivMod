@@ -111,9 +111,7 @@
 		"uniqueName": "Religious Tolerance",
 		"uniques": ["[+50]% [Culture] [{in all cities} {non-[in cities following our religion]}] <hidden from users>",
 			"Comment [+50% [Culture] in cities following a foreign religion]",
-			"[+1 Faith] from [Fort] tiles [in this city]",
-			"Adopt [Piety] <hidden from users>",
-			"Comment [Starts with [Piety] Adopted]"]
+			"[+1 Faith] from [Fort] tiles [in this city]"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe","Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
