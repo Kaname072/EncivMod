@@ -4,7 +4,7 @@ size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/Principality of Wallachia
+NationIcons/Romania
   rotate: false
   xy: 0, 0
   size: 100, 100
@@ -25,7 +25,7 @@ NationIcons/Portugal
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Jerusalem Kingdom
+NationIcons/Jerusalem
   rotate: false
   xy: 300, 0
   size: 100, 100
@@ -200,13 +200,6 @@ UnitIcons/Great Admiral
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Destructor
-  rotate: false
-  xy: 900, 500
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 UnitIcons/War Tower
   rotate: false
   xy: 800, 500
@@ -315,6 +308,13 @@ BuildingIcons/Buddha Golden Statue
 BuildingIcons/Sankore University
   rotate: false
   xy: 800, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Slave Customs
+  rotate: false
+  xy: 900, 500
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
