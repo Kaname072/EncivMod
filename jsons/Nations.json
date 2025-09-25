@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Principality of Wallachia",
+		"name": "Romania",
 		"leaderName": "Vlad III",
-		"adjective": ["wallachian"],
+		"adjective": ["romanians"],
 		"startBias": ["Avoid [Jungle]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Vlad III",
@@ -71,13 +71,12 @@
 		"innerColor": [246,0,0],
 		"favoredReligion": "Catholic Christianity",
 		"uniqueName": "Slave Commerce",
-		"uniques": ["Earn [100]% of killed [Barbarian] unit's [Cost] as [Gold]",
-			"May choose [1] additional [Pantheon] beliefs when [founding] a religion"],
+		"uniques": ["Earn [100]% of killed [Barbarian] unit's [Cost] as [Gold]"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
 			"Mpangu","Pumbo","Mpemba","Mbamba","Mbata"]
 	},
 	{
-		"name": "Jerusalem Kingdom",
+		"name": "Jerusalem",
 		"leaderName": "Baldwin IV",
 		"adjective": ["jerusalem"],
 		"startBias": ["Desert"],
@@ -224,8 +223,7 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "Mansa's Richness",
 		"uniques": ["[50]% [Gold] [in all cities] <during a Golden Age>",
-			"No damage penalty for wounded units <for [Mounted] units>",
-			"May buy [Great Merchant] units for [1000] [Gold] [in all cities]"],
+			"No damage penalty for wounded units <for [Mounted] units>"],
 		"cities": ["Nyeni","Timbuktu","Gao","Walata","Jenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
 	},
