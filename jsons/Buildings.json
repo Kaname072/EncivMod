@@ -37,7 +37,7 @@
 	{
 		"name": "Painted Monastery"
 		"replaces": "Temple",
-		"uniqueTo": "Principality of Wallachia",
+		"uniqueTo": "Romania",
 		"percentStatBonus": {"culture": 25},
 		"faith": 2,
 		"culture": 2,
