@@ -69,7 +69,7 @@
 
 		"outerColor": [255,212,0],
 		"innerColor": [246,0,0],
-		"favoredReligion": "Catholic Christianity",
+		"favoredReligion": "Christianity",
 		"uniqueName": "Slave Commerce",
 		"uniques": ["Earn [100]% of killed [Barbarian] unit's [Cost] as [Gold]"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo",
@@ -106,7 +106,7 @@
 
 		"outerColor": [255,255,230],
 		"innerColor": [255,216,0],
-		"favoredReligion": "Catholic Christianity",
+		"favoredReligion": "Christianity",
 		"uniqueName": "Religious Tolerance",
 		"uniques": ["[+50]% [Culture] [{in all cities} {non-[in cities following our religion]}] <hidden from users>",
 			"Comment [+50% [Culture] in cities following a foreign religion]",
@@ -335,7 +335,7 @@
 
 		"outerColor": [255,255,255],
 		"innerColor": [0,81,151],
-		"favoredReligion": "Catholic Christianity",
+		"favoredReligion": "Christianity",
 		"uniqueName": "Great Navigations",
 		"uniques": ["[+5]% [Production] [in all coastal cities]",
 			"[+5]% [Gold] from every [Luxury resource]",
