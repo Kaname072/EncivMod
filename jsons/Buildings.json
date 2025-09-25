@@ -51,8 +51,8 @@
 		"name": "Samba School",
 		"replaces": "Theatre",
 		"uniqueTo": "Brazil",
-		"happiness": 3,
-		"culture": 2,
+		"happiness": 2,
+		"culture": 4,
 		"hurryCostModifier": 10,
 		"maintenance": 2,
 		"uniques": ["[+1 Culture] per [2] population [in this city]"],
@@ -80,6 +80,15 @@
 		"uniques": ["[+2 Science] from [Desert] tiles [in this city]",
 		"[+1 Science] from [Jungle] tiles [in this city]"],
 		"requiredTech": "Education"
+	},
+	{
+		"name": "Slave Customs",
+		"uniqueTo": "Kongo",
+		"gold": 6,
+		"happiness": -2,
+		"hurryCostModifier": 20,
+		"uniques": ["Can only be built <in [Annexed] cities>", "[-1] Population","Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
 	}, /////Replaced Buildings
 	{
 		"name": "The Great Lighthouse",
