@@ -31,7 +31,7 @@
 	{
 		"name": "Rosiori",
 		"replaces": "Lancer",
-		"uniqueTo": "Principality of Wallachia",
+		"uniqueTo": "Romania",
 		"unitType": "Mounted",
 		"movement": 4,
 		"strength": 30,
@@ -63,7 +63,7 @@
 	{
 		"name": "Templar",
 		"replaces": "Longswordsman",
-		"uniqueTo": "Jerusalem Kingdom",
+		"uniqueTo": "Jerusalem",
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 25,
@@ -77,7 +77,7 @@
 	{
 		"name": "Holy Cavalry",	
 		"replaces": "Horseman",
-		"uniqueTo": "Jerusalem Kingdom",
+		"uniqueTo": "Jerusalem",
 		"unitType": "Mounted",
 		"movement": 4,
 		"strength": 13,
