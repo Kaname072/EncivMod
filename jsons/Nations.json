@@ -32,9 +32,7 @@
 		"innerColor": [0,110,56],
 		"favoredReligion": "Orthodoxy Christianity",
 		"uniqueName": "Dragon of Wallachia",
-		"uniques": ["Earn [20]% of killed [Military] unit's [Cost] as [Faith]",
-		"[+20]% Strength <vs [Wounded] units>",
-		"Notified of new Barbarian encampments"],
+		"uniques": ["Earn [50]% of the damage done to [Military] units as [Culture]"],
 		"cities": ["Târgoviste","Bucharest","Câmpulung","Curtea de Argeș","Brăila","Pitesti",
 		"Buzăo","Drobeta-Turnu Severin","Rãmnicu Vâlcea"]
 	},
@@ -109,8 +107,8 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Religious Tolerance",
 		"uniques": ["[+50]% [Culture] [{in all cities} {non-[in cities following our religion]}] <hidden from users>",
-			"Comment [+50% [Culture] in cities following a foreign religion]",
-			"[+1 Faith] from [Fort] tiles [in this city]"]
+			"Comment [+50% Culture in cities following a foreign religion]",
+			"[+1 Faith] from every [Fort]"]
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe","Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
@@ -182,9 +180,8 @@
 		"outerColor": [0,112,36],
 		"innerColor": [246,198,0],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Volunteers of the Fatherland",
+		"uniqueName": "The Magnanimous",
 		"uniques": ["[+25]% Production when constructing [Military] units [in all cities] <when at war>",
-			"[+2 Culture] from every [Jungle]",
 			"[+50]% [Culture] [in all cities] <during a Golden Age>"],
 		"cities": ["Rio de Janeiro","São Paulo","Salvador","Fortaleza","Florianópolis","Paraíba","Belém",
 			"Teresina","São Vincente","Maceió","Natal","Rio Branco","Macapá","Porto Alegre","João Pessoa","Curitiba"]
@@ -300,7 +297,7 @@
 		"uniqueName": "The Greatest",
 		"uniques": ["[+10]% [Culture] from every [Wonder]",
 			"[+10]% [Science] from every [Wonder]",
-			"[-25]% City-State Influence degradation"],
+			"[-10]% City-State Influence degradation"],
 		"cities": ["Pella","Atheus","Granicus","Ephesos","Halicarnassus","Gordion","Ancyra","Issus","Alexandria","Damascus",
 			"Tyre","Gaza","Nisibis","Gaugamela","Persepolis","Pattala","Rhambacia"]
 	},
