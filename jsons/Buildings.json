@@ -38,7 +38,7 @@
 		"name": "Painted Monastery"
 		"replaces": "Temple",
 		"uniqueTo": "Romania",
-		"percentStatBonus": {"culture": 25},
+		"percentStatBonus": {"culture": 33},
 		"faith": 2,
 		"culture": 2,
 		"requiredBuilding": "Shrine",
@@ -55,7 +55,7 @@
 		"culture": 4,
 		"hurryCostModifier": 10,
 		"maintenance": 2,
-		"uniques": ["[+1 Culture] per [2] population [in this city]"],
+		"uniques": ["[+2 Culture] per [2] population [in this city]"],
 		"requiredBuilding": "Colosseum",
 		"requiredTech": "Printing Press"
 	},
@@ -87,7 +87,7 @@
 		"gold": 6,
 		"happiness": -2,
 		"hurryCostModifier": 20,
-		"uniques": ["Can only be built <in [Annexed] cities>", "[-1] Population","Destroyed when the city is captured"],
+		"uniques": ["Can only be built <in [Annexed] cities>", "[-1] population","Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	}, /////Replaced Buildings
 	{
