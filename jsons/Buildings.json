@@ -3,10 +3,10 @@
 		"name": "Dolmen"
 		"replaces": "Monument",
 		"uniqueTo": "Lusitanians",
-		"culture": 2,
+		"culture": 8,
 		"cost": 40,
 		"hurryCostModifier": 30,
-		"maintenance": 0,
+		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
@@ -19,7 +19,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
+		"uniques": ["[+10]% Great Person generation","Only available <when religion is enabled>", "Destroyed when the city is captured"]
 	},
 	{
 		"name": "Navigation School",
@@ -51,11 +51,11 @@
 		"name": "Samba School",
 		"replaces": "Theatre",
 		"uniqueTo": "Brazil",
-		"happiness": 2,
-		"culture": 4,
+		"happiness": 3,
+		"culture": 5,
 		"hurryCostModifier": 10,
 		"maintenance": 2,
-		"uniques": ["[+2 Culture] per [2] population [in this city]"],
+		"percentStatBonus": {"culture": 25},
 		"requiredBuilding": "Colosseum",
 		"requiredTech": "Printing Press"
 	},
@@ -87,7 +87,7 @@
 		"gold": 6,
 		"happiness": -2,
 		"hurryCostModifier": 20,
-		"uniques": ["Can only be built <in [Annexed] cities>", "[-1] population","Destroyed when the city is captured"],
+		"uniques": ["Can only be built <in [Annexed] cities>", "[-1 population] [in this city]","Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	}, /////Replaced Buildings
 	{
