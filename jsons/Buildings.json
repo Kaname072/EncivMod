@@ -19,7 +19,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": ["[+10]% Great Person generation","Only available <when religion is enabled>", "Destroyed when the city is captured"]
+		"uniques": ["[+10]% Great Person generation [in this city]","Only available <when religion is enabled>", "Destroyed when the city is captured"]
 	},
 	{
 		"name": "Navigation School",
@@ -87,7 +87,7 @@
 		"gold": 6,
 		"happiness": -2,
 		"hurryCostModifier": 20,
-		"uniques": ["Can only be built <in [Annexed] cities>", "[-1 population] [in this city]","Destroyed when the city is captured"],
+		"uniques": ["Can only be built <in [Annexed] cities>", "[-1 Population] [in this city]","Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	}, /////Replaced Buildings
 	{
